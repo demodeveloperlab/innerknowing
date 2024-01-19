@@ -125,30 +125,6 @@
   pageRef = "posts"
   weight = 30
 
-[[main]]
-  identifier = "email"
-  pre = "email"
-  url = "https://github.com/nunocoracao/blowfish"
-  weight = 80
-
-[[main]]
-  identifier = "telegram"
-  pre = "telegram"
-  url = "https://github.com/nunocoracao/blowfish"
-  weight = 90
-
-[[main]]
-  identifier = "github"
-  pre = "github"
-  url = "https://github.com/nunocoracao/blowfish"
-  weight = 100
-
-[[main]]
-  identifier = "RSS"
-  pre = "rss"
-  url = "https://github.com/nunocoracao/blowfish"
-  weight = 110
-
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
