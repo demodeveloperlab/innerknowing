@@ -1,0 +1,140 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+# 
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+[[main]]
+  name = "Misión"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "About"
+  parent = "Misión"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Historias de Éxito"
+  parent = "Misión"
+  pageRef = "posts"
+  weight = 20
+
+[[main]]
+  name = "Fracaso Y Aprendizaje"
+  parent = "Misión"
+  pageRef = "posts"
+  weight = 30
+
+[[main]]
+  name = "Eventos"
+  weight = 20
+
+[[main]]
+  name = "Próximos Eventos"
+  parent = "Eventos"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Grupo Público"
+  parent = "Eventos"
+  pageRef = "posts"
+  weight = 20
+
+[[main]]
+  name = "Publicaciones"
+  weight = 30
+
+[[main]]
+  name = "Artículos"
+  parent = "Publicaciones"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Libros"
+  parent = "Publicaciones"
+  pageRef = "posts"
+  weight = 20
+
+[[main]]
+  name = "Cursos"
+  weight = 40
+
+[[main]]
+  name = "Curso de Conexión"
+  parent = "Cursos"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Práctica de Conexión"
+  parent = "Cursos"
+  pageRef = "posts"
+  weight = 20
+
+[[main]]
+  name = "Recursos"
+  weight = 50
+
+[[main]]
+  name = "Leyendo"
+  parent = "Recursos"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Enlaces"
+  parent = "Recursos"
+  pageRef = "posts"
+  weight = 20
+
+[[main]]
+  name = "Sitemap"
+  parent = "Recursos"
+  pageRef = "posts"
+  weight = 30
+
+[[main]]
+  name = "Contacto"
+  weight = 60
+
+[[main]]
+  name = "Formulario de Contacto"
+  parent = "Contacto"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Grupo interior"
+  parent = "Contacto"
+  pageRef = "posts"
+  weight = 20
+
+[[main]]
+  name = "Eventbrite"
+  parent = "Contacto"
+  pageRef = "posts"
+  weight = 30
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+[[footer]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 10
+
+[[footer]]
+  name = "Categories"
+  pageRef = "categories"
+  weight = 20

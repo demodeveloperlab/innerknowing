@@ -1,0 +1,164 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+# 
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+[[main]]
+  name = "Mission"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "About"
+  parent = "Mission"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Success Stories"
+  parent = "Mission"
+  pageRef = "posts"
+  weight = 20
+
+[[main]]
+  name = "Failures and Learnings"
+  parent = "Mission"
+  pageRef = "posts"
+  weight = 30
+
+[[main]]
+  name = "Events"
+  weight = 20
+
+[[main]]
+  name = "Upcoming Events"
+  parent = "Events"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Public Group"
+  parent = "Events"
+  pageRef = "posts"
+  weight = 20
+
+[[main]]
+  name = "Publications"
+  weight = 30
+
+[[main]]
+  name = "Posts"
+  parent = "Publications"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Books"
+  parent = "Publications"
+  pageRef = "posts"
+  weight = 20
+
+[[main]]
+  name = "Courses"
+  weight = 40
+
+[[main]]
+  name = "Course Connection"
+  parent = "Courses"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Course Practice"
+  parent = "Courses"
+  pageRef = "posts"
+  weight = 20
+
+[[main]]
+  name = "Sources"
+  weight = 50
+
+[[main]]
+  name = "Reading"
+  parent = "Sources"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Links"
+  parent = "Sources"
+  pageRef = "posts"
+  weight = 20
+
+[[main]]
+  name = "Sitemap"
+  parent = "Sources"
+  pageRef = "posts"
+  weight = 30
+
+[[main]]
+  name = "Contact"
+  weight = 60
+
+[[main]]
+  name = "Contact Form"
+  parent = "Contact"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Inner Group"
+  parent = "Contact"
+  pageRef = "posts"
+  weight = 20
+
+[[main]]
+  name = "Eventbrite"
+  parent = "Contact"
+  pageRef = "posts"
+  weight = 30
+
+[[main]]
+  identifier = "email"
+  pre = "email"
+  url = "https://github.com/nunocoracao/blowfish"
+  weight = 80
+
+[[main]]
+  identifier = "telegram"
+  pre = "telegram"
+  url = "https://github.com/nunocoracao/blowfish"
+  weight = 90
+
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/nunocoracao/blowfish"
+  weight = 100
+
+[[main]]
+  identifier = "RSS"
+  pre = "rss"
+  url = "https://github.com/nunocoracao/blowfish"
+  weight = 110
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+[[footer]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 10
+
+[[footer]]
+  name = "Categories"
+  pageRef = "categories"
+  weight = 20
