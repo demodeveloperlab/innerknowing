@@ -10,7 +10,7 @@ description: ""
       <div class="grid items-center gap-12 lg:grid-cols-2 mb-20">
         <div class="lg:mt-0">
           <h1 class="mb-16 font-bold tracking-tight" style="font-size:4.5rem">
-            CONNECTION
+            CONNECT
           </h1>
           <h2 class="mb-8 text-4xl font-extrabold text-primary-800 dark:text-primary-200">LEARNING TO RECOGNIZE, LISTEN TO, AND TRUST MY INNER VOICE AND SENSATIONS
           </h2>
