@@ -16,11 +16,11 @@ description: ""
           </h2>
           <p class="mt-8 mx-auto text-lg mb-10 prose dark:prose-invert max-lg">
            A GUIDE FOR MAKING DECISIONS WITH CONFIDENCE AND LIVING A MORE MEANINGFUL LIFE. RESEARCH OF THE STRUCTURE OF SUBJECTIVE EXPERIENCE</p>
-          <a href="#" class="inline-flex justify-center items-center mt-6 py-3 px-5 text-center bg-transparent text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold border border-primary-200 hover:border-transparent rounded-full">
+          <a href="#" class="inline-flex justify-center items-center mt-6 py-2 px-4 text-center bg-transparent text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold border border-primary-200 hover:border-transparent rounded-full shadow-lg">
            Read more
         </a>
         <span class="mr-2"></span>
-          <a href="#" class="inline-flex justify-center items-center mt-6 py-3 px-5 text-center bg-transparent text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold border border-primary-200 hover:border-transparent rounded-full">
+          <a href="#" class="inline-flex justify-center items-center mt-6 py-2 px-4 text-center bg-transparent text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold border border-primary-200 hover:border-transparent rounded-full shadow-lg">
             Ask a Question
         <svg class="w-3.5 h-3.5 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/></svg>
         </a>
@@ -82,7 +82,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 </div>
 <div class="container max-w-6xl mx-auto">
 <div class="grid sm:grid-cols-2 gap-6 md:gap-12">
-  <div class="flex">
+  <div class="flex rounded-xl p-4 shadow-2xl">
     <div class="mr-4">
       <svg height="32px" width="32px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 503.76 503.76" xml:space="preserve" fill="#000000" stroke="#000000" stroke-width="2.015024"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <path style="fill:#EF705D;" d="M267.715,357.098c-13.885,0-28.637-5.207-39.919-16.488l-27.769-28.637 c-3.471-3.471-3.471-8.678,0-12.149c3.471-3.471,8.678-3.471,12.149,0l28.637,28.637c16.488,16.488,43.39,13.017,59.01,0 c7.81-7.81,11.281-18.224,11.281-28.637c0-11.281-4.339-21.695-12.149-29.505l-20.827-21.695c-3.471-3.471-3.471-8.678,0-12.149 s8.678-3.471,12.149,0l20.827,20.827c11.281,11.281,17.356,26.034,17.356,41.654s-6.075,30.373-17.356,41.654 C299.824,350.156,284.203,357.098,267.715,357.098"></path> <path style="fill:#EF705D;" d="M136.678,469.044c-2.603,0-4.339-0.868-6.075-2.603L16.922,353.627 c-22.563-22.563-22.563-59.878,0-83.308c22.563-22.563,59.878-22.563,83.308,0l35.58,35.58c3.471,3.471,3.471,8.678,0,12.149 c-3.471,3.471-8.678,3.471-12.149,0l-35.58-35.58c-16.488-16.488-42.522-16.488-59.01,0s-16.488,42.522,0,59.01l113.681,113.681 c3.471,3.471,3.471,8.678,0,12.149C141.017,468.176,138.414,469.044,136.678,469.044"></path> <path style="fill:#EF705D;" d="M442.142,173.993c-17.356,0-34.712-8.678-51.2-25.166c-3.471-3.471-3.471-8.678,0-12.149 c3.471-3.471,8.678-3.471,12.149,0c27.769,27.77,53.803,26.034,85.912-4.339c3.471-3.471,8.678-3.471,12.149,0 c3.471,3.471,3.471,8.678,0,12.149C481.193,164.447,461.234,173.993,442.142,173.993"></path> </g> <path style="fill:#E6E6E6;" d="M411.77,57.708c-19.092-19.092-51.2-19.092-71.159,0L0.434,469.044L411.77,128.868 C430.861,109.776,430.861,77.668,411.77,57.708"></path> <path style="fill:#CDCDCD;" d="M347.553,130.603c-2.603,0-4.339-0.868-6.075-2.603c-3.471-3.471-3.471-8.678,0-12.149l28.637-28.637 c3.471-3.471,8.678-3.471,12.149,0s3.471,8.678,0,12.149L353.627,128C351.892,129.736,350.156,130.603,347.553,130.603"></path> <path style="fill:#EF705D;" d="M262.508,158.373c-2.603,0-4.339-0.868-6.075-2.603l-21.695-20.827 c-22.563-22.563-22.563-59.878,0-83.308c22.563-22.563,59.878-22.563,83.308,0l49.464,49.464c3.471,3.471,3.471,8.678,0,12.149 c-3.471,3.471-8.678,3.471-12.149,0l-49.464-49.464c-16.488-16.488-42.522-16.488-59.01,0s-16.488,42.522,0,59.01l20.827,20.827 c3.471,3.471,3.471,8.678,0,12.149C266.847,158.373,265.112,158.373,262.508,158.373"></path> </g></svg>
     </div>
@@ -95,7 +95,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
       </p>
     </div>
   </div>
-    <div class="flex">
+    <div class="flex rounded-xl p-4 shadow-2xl">
       <div class="mr-4">
         <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 370.298 370.298" xml:space="preserve" width="32px" height="32px" fill="#000000" stroke="#000000" stroke-width="1.110894"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <g> <g> <circle style="fill:#FFE473;" cx="81.367" cy="193.051" r="48.533"></circle> <circle style="fill:#FFE473;" cx="288.931" cy="193.051" r="48.533"></circle> </g> <path style="fill:#FFE473;" d="M313.76,142.809c0,2.615-0.085,5.259-0.24,7.917c-0.17,2.743-0.438,5.513-0.778,8.298 l-11.875,94.689c-7.309,58.343-56.915,102.125-115.724,102.125c-58.809,0-108.416-43.782-115.724-102.125l-11.833-94.519 c-0.014,0.014-0.014,0.014-0.014,0l-0.014-0.169c-0.339-2.785-0.608-5.556-0.778-8.313C52.44,79.618,107.178,18.207,178.54,14.63 c2.05-0.113,4.114-0.155,6.192-0.169h0.41c64.209,0,116.374,46.722,126.737,106.507 C313.123,128.079,313.76,135.387,313.76,142.809z"></path> <path style="fill:#808080;" d="M313.76,142.809c0,2.615-0.085,5.259-0.24,7.917c-50.101,0.269-73.37-39.852-73.37-39.852 c-80.113,60.322-183.355,39.852-183.355,39.852l-0.014-0.014C52.44,79.618,107.178,18.207,178.54,14.63 c2.05-0.113,4.114-0.155,6.192-0.169h0.41c64.209,0,116.374,46.722,126.737,106.507 C313.123,128.079,313.76,135.387,313.76,142.809z"></path> <path style="fill:#F98680;" d="M143.554,286.902c22.991,22.991,60.199,22.991,83.19,0"></path> </g> <g> <path style="fill:#F98680;" d="M319.149,61.568h33.149v33.149c0,4.971,4.029,9,9,9l0,0c4.971,0,9-4.029,9-9V52.568 c0-4.971-4.029-9-9-9h-42.149c-4.971,0-9,4.029-9,9v0C310.149,57.539,314.179,61.568,319.149,61.568z"></path> <path style="fill:#F98680;" d="M18,94.717V61.568h33.149c4.971,0,9-4.029,9-9v0c0-4.971-4.029-9-9-9H9c-4.971,0-9,4.029-9,9 v42.149c0,4.971,4.029,9,9,9h0C13.971,103.717,18,99.688,18,94.717z"></path> <path style="fill:#F98680;" d="M51.149,308.73H18v-33.149c0-4.971-4.029-9-9-9h0c-4.971,0-9,4.029-9,9l0,42.149 c0,4.971,4.029,9,9,9h42.149c4.971,0,9-4.029,9-9v0C60.149,312.76,56.12,308.73,51.149,308.73z"></path> <path style="fill:#F98680;" d="M352.298,275.581v33.149h-33.149c-4.971,0-9,4.029-9,9v0c0,4.971,4.029,9,9,9h42.149 c4.971,0,9-4.029,9-9v-42.149c0-4.971-4.029-9-9-9l0,0C356.328,266.581,352.298,270.61,352.298,275.581z"></path> </g> <rect x="41.816" y="79.495" style="fill:#F98680;" width="22" height="51"></rect> <rect x="73.816" y="79.495" style="fill:#F98680;" width="22" height="51"></rect> <rect x="108.816" y="79.495" style="fill:#F98680;" width="22" height="51"></rect> <path style="fill:#F98680;" d="M301.814,83.305L301.814,83.305c-7.246-7.246-18.993-7.246-26.238,0l0,0 c-7.246,7.246-7.246,18.993,0,26.238v0l26.238,26.238l26.238-26.238v0c7.246-7.246,7.246-18.993,0-26.238l0,0 C320.807,76.059,309.06,76.059,301.814,83.305L301.814,83.305z"></path> </g> </g></svg>
       </div>
@@ -108,7 +108,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
         </p>
       </div>
     </div>
-  <div class="flex">
+  <div class="flex rounded-xl p-4 shadow-2xl">
     <div class="mr-4">
       <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve" width="32px" height="32px" fill="#000000" stroke="#000000" stroke-width="0.00512"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <g> <rect x="53.333" y="456.73" style="fill:#FCD051;" width="106.665" height="44.605"></rect> <rect x="53.333" y="367.518" style="fill:#FCD051;" width="106.665" height="44.609"></rect> </g> <rect x="53.333" y="278.305" style="fill:#ED8C18;" width="106.665" height="44.605"></rect> <g> <rect x="202.662" y="456.73" style="fill:#FCD051;" width="106.665" height="44.605"></rect> <rect x="202.662" y="367.518" style="fill:#FCD051;" width="106.665" height="44.609"></rect> </g> <g> <rect x="202.662" y="278.305" style="fill:#ED8C18;" width="106.665" height="44.605"></rect> <rect x="202.662" y="189.093" style="fill:#ED8C18;" width="106.665" height="44.61"></rect> </g> <g> <rect x="202.662" y="99.88" style="fill:#D12D4E;" width="106.665" height="44.604"></rect> <rect x="202.662" y="10.668" style="fill:#D12D4E;" width="106.665" height="44.605"></rect> </g> <g> <rect x="351.997" y="456.73" style="fill:#FCD051;" width="106.665" height="44.605"></rect> <rect x="351.997" y="367.518" style="fill:#FCD051;" width="106.665" height="44.609"></rect> </g> <g> <rect x="351.997" y="278.305" style="fill:#ED8C18;" width="106.665" height="44.605"></rect> <rect x="351.997" y="189.093" style="fill:#ED8C18;" width="106.665" height="44.61"></rect> </g> <rect x="351.997" y="99.88" style="fill:#D12D4E;" width="106.665" height="44.604"></rect> </g> <g> <path style="fill:#000003;" d="M160,446.06H53.333c-5.891,0-10.668,4.776-10.668,10.668v44.605c0,5.892,4.776,10.668,10.668,10.668 H160c5.892,0,10.668-4.776,10.668-10.668v-44.605C170.668,450.835,165.893,446.06,160,446.06z M149.333,490.665H64.001v-23.27 h85.332L149.333,490.665L149.333,490.665z"></path> <path style="fill:#000003;" d="M160,356.846H53.333c-5.891,0-10.668,4.776-10.668,10.668v44.609c0,5.89,4.776,10.668,10.668,10.668 H160c5.892,0,10.668-4.778,10.668-10.668v-44.609C170.668,361.621,165.893,356.846,160,356.846z M149.333,401.456H64.001v-23.274 h85.332L149.333,401.456L149.333,401.456z"></path> <path style="fill:#000003;" d="M160,267.635H53.333c-5.891,0-10.668,4.778-10.668,10.668v44.606 c0,5.892,4.776,10.668,10.668,10.668H160c5.892,0,10.668-4.776,10.668-10.668v-44.606C170.668,272.411,165.893,267.635,160,267.635 z M149.333,312.24H64.001v-23.271h85.332L149.333,312.24L149.333,312.24z"></path> <path style="fill:#000003;" d="M309.334,446.06H202.667c-5.892,0-10.668,4.776-10.668,10.668v44.605 c0,5.892,4.776,10.668,10.668,10.668h106.667c5.891,0,10.668-4.776,10.668-10.668v-44.605 C320.001,450.835,315.225,446.06,309.334,446.06z M298.666,490.665h-85.332v-23.27h85.332V490.665z"></path> <path style="fill:#000003;" d="M309.334,356.846H202.667c-5.892,0-10.668,4.776-10.668,10.668v44.609 c0,5.89,4.776,10.668,10.668,10.668h106.667c5.891,0,10.668-4.778,10.668-10.668v-44.609 C320.001,361.621,315.225,356.846,309.334,356.846z M298.666,401.456h-85.332v-23.274h85.332V401.456z"></path> <path style="fill:#000003;" d="M309.334,267.635H202.667c-5.892,0-10.668,4.778-10.668,10.668v44.606 c0,5.892,4.776,10.668,10.668,10.668h106.667c5.891,0,10.668-4.776,10.668-10.668v-44.606 C320.001,272.411,315.225,267.635,309.334,267.635z M298.666,312.24h-85.332v-23.271h85.332V312.24z"></path> <path style="fill:#000003;" d="M309.334,178.421H202.667c-5.892,0-10.668,4.776-10.668,10.668v44.609 c0,5.892,4.776,10.668,10.668,10.668h106.667c5.891,0,10.668-4.776,10.668-10.668v-44.609 C320.001,183.196,315.225,178.421,309.334,178.421z M298.666,223.03h-85.332v-23.274h85.332V223.03z"></path> <path style="fill:#000003;" d="M309.334,89.212H202.667c-5.892,0-10.668,4.776-10.668,10.668v44.604 c0,5.892,4.776,10.668,10.668,10.668h106.667c5.891,0,10.668-4.776,10.668-10.668V99.879 C320.001,93.986,315.225,89.212,309.334,89.212z M298.666,133.815h-85.332v-23.269h85.332V133.815z"></path> <path style="fill:#000003;" d="M309.334,0H202.667C196.775,0,192,4.776,192,10.668v44.605c0,5.892,4.776,10.668,10.668,10.668 h106.667c5.891,0,10.668-4.776,10.668-10.668V10.668C320.001,4.776,315.225,0,309.334,0z M298.666,44.605h-85.332v-23.27h85.332 V44.605z"></path> <path style="fill:#000003;" d="M458.667,446.06H352c-5.891,0-10.668,4.776-10.668,10.668v44.605 c0,5.892,4.777,10.668,10.668,10.668h106.667c5.892,0,10.668-4.776,10.668-10.668v-44.605 C469.334,450.835,464.558,446.06,458.667,446.06z M447.999,490.665h-85.332v-23.27h85.332V490.665z"></path> <path style="fill:#000003;" d="M458.667,356.846H352c-5.891,0-10.668,4.776-10.668,10.668v44.609 c0,5.89,4.777,10.668,10.668,10.668h106.667c5.892,0,10.668-4.778,10.668-10.668v-44.609 C469.334,361.621,464.558,356.846,458.667,356.846z M447.999,401.456h-85.332v-23.274h85.332V401.456z"></path> <path style="fill:#000003;" d="M458.667,267.635H352c-5.891,0-10.668,4.778-10.668,10.668v44.606 c0,5.892,4.777,10.668,10.668,10.668h106.667c5.892,0,10.668-4.776,10.668-10.668v-44.606 C469.334,272.411,464.558,267.635,458.667,267.635z M447.999,312.24h-85.332v-23.271h85.332V312.24z"></path> <path style="fill:#000003;" d="M458.667,178.421H352c-5.891,0-10.668,4.776-10.668,10.668v44.609 c0,5.892,4.777,10.668,10.668,10.668h106.667c5.892,0,10.668-4.776,10.668-10.668v-44.609 C469.334,183.196,464.558,178.421,458.667,178.421z M447.999,223.03h-85.332v-23.274h85.332V223.03z"></path> <path style="fill:#000003;" d="M458.667,89.212H352c-5.891,0-10.668,4.776-10.668,10.668v44.604 c0,5.892,4.777,10.668,10.668,10.668h106.667c5.892,0,10.668-4.776,10.668-10.668V99.879 C469.334,93.986,464.558,89.212,458.667,89.212z M447.999,133.815h-85.332v-23.269h85.332V133.815z"></path> <path style="fill:#000003;" d="M53.333,244.239h0.914c5.891,0,10.668-4.776,10.668-10.668c0-5.89-4.777-10.668-10.668-10.668 h-0.914c-5.891,0-10.668,4.778-10.668,10.668C42.666,239.464,47.443,244.239,53.333,244.239z"></path> <path style="fill:#000003;" d="M160,222.903H86.049c-5.892,0-10.668,4.778-10.668,10.668c0,5.892,4.776,10.668,10.668,10.668H160 c5.892,0,10.668-4.776,10.668-10.668C170.668,227.681,165.893,222.903,160,222.903z"></path> </g> </g></svg>
     </div>
@@ -121,7 +121,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
       </p>
     </div>
   </div>
-  <div class="flex">
+  <div class="flex rounded-xl p-4 shadow-2xl">
     <div class="mr-4">
       <svg width="32px" height="32px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="#61c2a9"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2C12.5523 2 13 2.44772 13 3V5.58579L14.2929 4.29289C14.6834 3.90237 15.3166 3.90237 15.7071 4.29289C16.0976 4.68342 16.0976 5.31658 15.7071 5.70711L12.7071 8.70711C12.3166 9.09763 11.6834 9.09763 11.2929 8.70711L8.29289 5.70711C7.90237 5.31658 7.90237 4.68342 8.29289 4.29289C8.68342 3.90237 9.31658 3.90237 9.70711 4.29289L11 5.58579V3C11 2.44772 11.4477 2 12 2ZM3 12C3 11.4477 3.44772 11 4 11H20C20.5523 11 21 11.4477 21 12C21 12.5523 20.5523 13 20 13H4C3.44772 13 3 12.5523 3 12ZM15.7071 18.2929L12.7071 15.2929C12.3166 14.9024 11.6834 14.9024 11.2929 15.2929L8.29289 18.2929C7.90237 18.6834 7.90237 19.3166 8.29289 19.7071C8.68342 20.0976 9.31658 20.0976 9.70711 19.7071L11 18.4142V21C11 21.5523 11.4477 22 12 22C12.5523 22 13 21.5523 13 21V18.4142L14.2929 19.7071C14.6834 20.0976 15.3166 20.0976 15.7071 19.7071C16.0976 19.3166 16.0976 18.6834 15.7071 18.2929Z" fill="#000000"></path> </g></svg>
     </div>
@@ -134,7 +134,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
       </p>
     </div>
   </div>
-  <div class="flex">
+  <div class="flex rounded-xl p-4 shadow-2xl">
     <div class="mr-4">
       <svg width="32px" height="32px" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--emojione" preserveAspectRatio="xMidYMid meet" fill="#000000" stroke="#000000" stroke-width="0.064"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M53.3 55.3c0-3.5 1.7-9.5-5.1-12.8H15.8c-6.8 3.2-5.1 9.3-5.1 12.8C10.7 57.9 6 57 6 60c0 2.3 3.2 2.2 4.4 1.7c3-1.1 4.9-3.8 5.5-4.6c.5-.7.2-.9.5-1.7c.3-.8 1.9.8 4-.1c3.1-1.3 1.1-3.9 3.4-3.9c1.4 0 4.4 1.2 8.2 1.2c3.8 0 6.8-1.2 8.2-1.2c2.3 0 .2 2.5 3.4 3.9c2.2.9 3.8-.7 4 .1c.3.8-.1.9.5 1.7c.6.9 2.5 3.5 5.5 4.6c1.3.5 4.4.6 4.4-1.7c0-3-4.7-2.1-4.7-4.7" fill="#94989b"> </path> <g fill="#b0bdc6"> <path d="M46.1 42.8c-3.9-1.3-24.3-1.3-28.2 0c-7.7 2.6-5.9 10.6-5.9 10.6s2.6-4.4 6.1-3.4c0 0-4.6 2.2-2.3 5c.6-2.6 2.6.2 4.6-1.1c2.2-1.5.2-4.7 4.1-3.7c5.5 1.6 9.6 1.6 15.2 0c3.8-1.1 1.9 2.1 4.1 3.7c2 1.4 4-1.4 4.6 1.1c2.3-2.9-2.3-5-2.3-5c3.5-1 6.1 3.4 6.1 3.4s1.6-8-6.1-10.6"> </path> <path d="M9.9 58.3c0-1.2-4.7.8-2.4 2.5c2.4 1.7 7.2-2.7 4.7-2.7c-1.5 0-2.3 1.3-2.3.2"> </path> <path d="M54.1 58.3c0-1.2 4.7.8 2.4 2.5c-2.3 1.7-7.2-2.7-4.7-2.7c1.5 0 2.3 1.3 2.3.2"> </path> </g> <circle cx="32" cy="25.8" r="23.8" fill="#8c13d4"> </circle> <path d="M35.3 25.3C42.2 28.2 47.1 33.4 49 39c2.8-3.6 4.5-8.2 4.5-13.1C53.5 14 43.8 4.4 32 4.4S10.5 14 10.5 25.9c0 1.1.1 2.2.3 3.3c4.7-6.1 14.9-7.9 24.5-3.9" fill="#ae3ffd"> </path> <ellipse cx="32" cy="39.9" rx="15.2" ry="9.7" fill="#6c368e"> </ellipse> <path d="M18.1 30.5c0-11.4 9.2-20.6 20.6-20.6c2.7 0 5.3.5 7.7 1.5C42.8 8.1 37.9 6 32.5 6C21.2 6 12 15.2 12 26.6c0 8.6 5.3 16 12.8 19.1c-4.1-3.8-6.7-9.2-6.7-15.2" fill="#b371ec"> </path> <g fill="#ffffff"> <path d="M20.4 5.7c0 4.9-2.6 9.2-6.3 9.2c3.7 0 6.3 4.4 6.3 9.2c0-4.9 2.6-9.2 6.3-9.2c-3.6 0-6.3-4.3-6.3-9.2"> </path> <path d="M16.7 22.4c0 2.6-1.4 5-3.4 5c2 0 3.4 2.4 3.4 5c0-2.6 1.4-5 3.4-5c-1.9 0-3.4-2.4-3.4-5"> </path> <path d="M25.8 18.7c0 2.3-1.2 4.3-3 4.3c1.7 0 3 2 3 4.3c0-2.3 1.2-4.3 3-4.3c-1.8.1-3-2-3-4.3"> </path> </g> </g></svg>
     </div>
@@ -147,7 +147,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
       </p>
     </div>
   </div>
-  <div class="flex">
+  <div class="flex rounded-xl p-4 shadow-2xl">
     <div class="mr-4">
      <svg width="32px" height="32px" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--noto" preserveAspectRatio="xMidYMid meet" fill="#000000" stroke="#000000" stroke-width="0.128"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M67.47 48.2l-1.11 18.48s3.76 10.64 2.71 25.45c-1.01 14.27-4.8 21.49-5.84 23.99s-3.96 5.63 0 6.88s10.64.63 13.56-.42c2.92-1.04 4.37-6.84 4.8-9.18c1.05-5.79 1.63-16.74-.5-27.54C79.46 77.56 76 63.33 76 63.33L67.47 48.2z" fill="#99c23b"></path><path d="M66.78 45.4s4.28-13.43 14.12-23.62c9.43-9.76 19.06-12.96 26.78-13.92c8.51-1.06 11.98-.95 13.44.1s.94 2.7.97 4.16c.19 10.44.58 23.97-11.7 36.35c-13.11 13.2-22.45 15.57-32.68 16.62c-10.22 1.04-9.06-3.62-9.06-3.62L66.78 45.4z" fill="#99c23b"></path><path d="M2.98 37.05c-.37 1.83 9.29 23.31 27.95 30.07c20.09 7.29 39.03 0 39.03 0l1.56-19.34l-4.75-2.38S56.7 34.29 45.51 30.19c-11.6-4.25-24.71-4.58-33.64.19c-5.6 3-8.69 5.7-8.89 6.67z" fill="#99c23b"></path><path d="M86.68 30.68C77.38 41.7 72.69 52.81 72.2 55.71s1.12 2.78 2.03 1.55c1.64-2.22 7.35-12.37 15.85-22.04c7.36-8.36 18.56-17.4 20.2-19.33c1.02-1.2-.1-2.71-1.64-2.03c-1.54.67-12.45 5.55-21.96 16.82z" fill="#e6dc9f"></path><path d="M41.43 41c-13.6-4.68-23.55-4.05-25.58-3.37c-2.03.68-1.93 2.9.48 3.19s12.24 1.27 24.56 5.7c13.15 4.74 22.52 11.89 24.17 12.86c1.64.97 2.71-.97 1.26-2.71c-1.11-1.31-9.89-10.51-24.89-15.67z" fill="#e6dc9f"></path></g></svg>
     </div>
@@ -163,7 +163,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 </div>
 </div>
 <div class="mt-10 flex justify-center">
-  <a href="https://courses.com" title="courses" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
+  <a href="https://courses.com" title="courses" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full shadow-lg">
       Courses
     </a>
 </div>
@@ -187,8 +187,8 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
   <div class="relative">
        <img class="rounded-xl shadow-2xl" width="442" height="560" loading="lazy" alt="" src="pixabay.com.illustrations.ai-generated-iceberg-glacier-water-8400811.webp" />
     </div>
-    <div class="lg:py-6">
-        <div class="flex">
+    <div class="lg:py-6 rounded-xl p-4 shadow-2xl">
+        <div class="flex ">
        <div class="flex flex-col items-center mr-4">
          <div>
            <div class="flex items-center justify-center w-12 h-12 border rounded-full border-primary-700">
@@ -266,7 +266,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
            </div>
          </div>
        </div>
-       <div class="pt-1 pb-8">
+       <div class="pt-1">
          <p class="mb-2 text-xl font-bold">Let's do it again</p>
          <p class="mt-4 text-neutral-500 dark:text-neutral-300">
            Every time is easier, faster. I am competent and confident. I am ejoying myself, efforlessly flowing. 
@@ -330,11 +330,11 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
   </div>
 </div>
 <div class="mt-10 flex justify-center">
-  <a href="https://eventbrite.com" title="eventbrite" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
+  <a href="https://eventbrite.com" title="eventbrite" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full shadow-lg">
       Eventbrite
     </a>
         <span class="mr-2"></span>
-   <a href="https://events.com" title="events" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
+   <a href="https://events.com" title="events" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full shadow-lg">
       Events
     </a>
 </div>
@@ -354,7 +354,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 </p>
 </div>
 <div class="max-w-2xl mx-auto flex author">
-<svg fill="#000000" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128px" height="128px" viewBox="-3.29 -3.29 39.51 39.51" xml:space="preserve" transform="matrix(-1, 0, 0, 1, 0, 0)"><g id="SVGRepo_bgCarrier" stroke-width="0"><rect x="-3.29" y="-3.29" width="39.51" height="39.51" rx="19.755" fill="#BFDBFE" strokewidth="0"></rect></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <g> <path d="M32.837,11.538c-0.448-2.207-0.164-6.827-7.803-8.045c-6.435-1.028-12.312,1.57-12.979,7.474 c-0.262,0.048-0.575,0.103-0.771,0.165c-1.491,0.466-1.272,0.888-0.861,1.472c0.411,0.584,1.102,0.627,1.102,0.627 s-0.905,0.087-1.47-0.346c-0.021,0-0.042,0-0.062,0v-0.464H8.639v0.464c-0.036,0-0.058,0-0.058,0s-0.118,0.205-0.118,0.379 c0,0.173-0.012,0.897-0.012,0.897s0.012,0.497,0.367,0.497c0.146,0,1.218,0.1,3.401,0.119c-0.188,1.546-3.012,3.81-2.3,4.593 c0.736,0.811,1.987,0.841,1.987,0.841s-0.812,1.544-0.448,1.972c0.366,0.429,1.382,0.243,1.382,0.243s-0.942,0.681-0.942,1.208 s1.596,1.229,1.596,1.229s-0.294,2.923,2.102,2.721c2.394-0.202,2.796-0.878,2.796-0.878l0.709,2.952h9.266l-0.325-6.42 C28.041,23.24,33.729,17.062,32.837,11.538z M8.651,14.31c-0.047,0-0.086-0.201-0.086-0.446c0-0.246,0.039-0.446,0.086-0.446 c0.048,0,0.085,0.2,0.085,0.446C8.736,14.109,8.699,14.31,8.651,14.31z M9.86,12.884c-0.465,0-0.868,0-1.091,0v-0.333H9.86V12.884 z M24.85,15.559c-0.052,0.188-0.098,0.358-0.133,0.509c-0.266,1.092-1.812,1.172-2.265,1.172c-0.065,0-0.108-0.002-0.12-0.002 c-0.113-0.007-0.201-0.104-0.195-0.218c0.006-0.112,0.106-0.192,0.215-0.195c0.021,0.002,1.74,0.067,1.965-0.854 c0.037-0.155,0.084-0.33,0.137-0.52c0.287-1.062,0.721-2.664-0.047-2.915c-0.569-0.185-1.28-0.063-1.771,0.3 C22.28,13.1,22.09,13.457,22.1,13.845c0.004,0.114-0.088,0.208-0.201,0.211c-0.002,0-0.002,0-0.004,0 c-0.111,0-0.205-0.09-0.207-0.201c-0.004-0.193,0.039-0.378,0.104-0.555c-1.001-0.003-1.989-0.006-2.258-0.006 c0.304,0.075,0.418,0.274,0.429,0.502c0.182,0.068,0.317,0.161,0.385,0.294c0.143,0.282-0.004,0.631-0.156,0.999 c-0.213,0.517-0.436,1.05,0.017,1.481c0.14,0.135,0.254,0.193,0.343,0.179c0.178-0.029,0.346-0.349,0.521-0.686 c0.289-0.549,0.648-1.219,1.363-1.265c-0.004-0.288,0.145-0.527,0.352-0.543c0.005,0,0.009,0.004,0.016,0.003 c0.092-0.195,0.234-0.336,0.418-0.35c0.313-0.023,0.596,0.314,0.627,0.76c0.033,0.439-0.193,0.817-0.51,0.843 c-0.142,0.011-0.271-0.061-0.379-0.172c-0.029,0.012-0.059,0.029-0.09,0.032c-0.156,0.012-0.301-0.11-0.376-0.291 c-0.58,0.014-0.892,0.598-1.165,1.116c-0.223,0.421-0.413,0.781-0.732,0.834c-0.023,0.004-0.05,0.006-0.072,0.006 c-0.164,0-0.332-0.085-0.514-0.262c-0.593-0.567-0.312-1.252-0.082-1.801c0.127-0.307,0.246-0.597,0.164-0.76 c-0.025-0.053-0.086-0.095-0.16-0.133c-0.107,0.351-0.399,0.679-0.664,0.679c-0.299,0-3.941-0.036-7.021-0.066 c-0.001,0.012-0.005,0.021-0.006,0.031c-0.003-0.043-0.008-0.094-0.008-0.109c-0.146-0.719-0.226-1.41-0.251-2.08 c-0.83-0.017-1.415-0.036-1.588-0.057c0.896,0.104,0.571-0.76,0.519-0.731c0.161-0.083,0.469-0.214,1.104-0.335 c-0.021,0.364-0.034,0.736-0.02,1.127c2.828,0.06,8.288,0.104,10.229,0.119c0.057-0.053,0.104-0.107,0.17-0.155 c0.604-0.446,1.441-0.588,2.146-0.359c0.304,0.099,0.483,0.305,0.591,0.568c2.465,0.057,6.178,0.144,6.438,0.169 c0.391,0.038,0.475,0.26,0.479,0.562c0.002,0.305-0.164,1.441-0.238,1.688c-0.074,0.247-0.074,0.476-0.434,0.476 c-0.355,0-1.814,0-2.965,0c-1.443,0-2.381-0.929-3.2-1.605C25.125,14.535,24.977,15.092,24.85,15.559z"></path> <path d="M2.591,9.252l-0.44-0.459C0.764,10.125,0,11.909,0,13.819c0,1.91,0.767,3.693,2.151,5.024l0.438-0.456 c-1.262-1.21-1.957-2.833-1.957-4.568C0.634,12.084,1.33,10.461,2.591,9.252z"></path> <path d="M3.478,10.142L3.042,9.683c-1.145,1.087-1.773,2.557-1.773,4.136c0,1.58,0.632,3.051,1.776,4.138l0.437-0.46 c-1.019-0.968-1.579-2.272-1.579-3.678C1.901,12.415,2.462,11.109,3.478,10.142z"></path> <path d="M4.375,11.042L3.94,10.579c-0.894,0.835-1.405,2.016-1.405,3.24c0,1.227,0.514,2.406,1.407,3.243l0.434-0.464 C3.608,15.882,3.17,14.87,3.17,13.82C3.17,12.754,3.597,11.767,4.375,11.042z"></path> <path d="M5.754,12.359c-0.436,0.363-0.685,0.896-0.685,1.46c0,0.565,0.248,1.098,0.683,1.458l0.407-0.484 C5.58,14.307,5.58,13.33,6.16,12.846L5.754,12.359z"></path> <path d="M5.268,11.94l-0.427-0.469c-0.66,0.6-1.039,1.455-1.039,2.348c0,0.895,0.381,1.748,1.04,2.35l0.427-0.47 c-0.528-0.479-0.833-1.165-0.833-1.88C4.436,13.104,4.74,12.421,5.268,11.94z"></path> <circle cx="7.145" cy="13.79" r="0.73"></circle> </g> </g> </g></svg>
+<svg fill="#000000" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200px" height="200px" viewBox="-3.29 -3.29 39.51 39.51" xml:space="preserve" transform="matrix(-1, 0, 0, 1, 0, 0)"><g id="SVGRepo_bgCarrier" stroke-width="0"><rect x="-3.29" y="-3.29" width="39.51" height="39.51" rx="19.755" fill="#BFDBFE" strokewidth="0"></rect></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <g> <path d="M32.837,11.538c-0.448-2.207-0.164-6.827-7.803-8.045c-6.435-1.028-12.312,1.57-12.979,7.474 c-0.262,0.048-0.575,0.103-0.771,0.165c-1.491,0.466-1.272,0.888-0.861,1.472c0.411,0.584,1.102,0.627,1.102,0.627 s-0.905,0.087-1.47-0.346c-0.021,0-0.042,0-0.062,0v-0.464H8.639v0.464c-0.036,0-0.058,0-0.058,0s-0.118,0.205-0.118,0.379 c0,0.173-0.012,0.897-0.012,0.897s0.012,0.497,0.367,0.497c0.146,0,1.218,0.1,3.401,0.119c-0.188,1.546-3.012,3.81-2.3,4.593 c0.736,0.811,1.987,0.841,1.987,0.841s-0.812,1.544-0.448,1.972c0.366,0.429,1.382,0.243,1.382,0.243s-0.942,0.681-0.942,1.208 s1.596,1.229,1.596,1.229s-0.294,2.923,2.102,2.721c2.394-0.202,2.796-0.878,2.796-0.878l0.709,2.952h9.266l-0.325-6.42 C28.041,23.24,33.729,17.062,32.837,11.538z M8.651,14.31c-0.047,0-0.086-0.201-0.086-0.446c0-0.246,0.039-0.446,0.086-0.446 c0.048,0,0.085,0.2,0.085,0.446C8.736,14.109,8.699,14.31,8.651,14.31z M9.86,12.884c-0.465,0-0.868,0-1.091,0v-0.333H9.86V12.884 z M24.85,15.559c-0.052,0.188-0.098,0.358-0.133,0.509c-0.266,1.092-1.812,1.172-2.265,1.172c-0.065,0-0.108-0.002-0.12-0.002 c-0.113-0.007-0.201-0.104-0.195-0.218c0.006-0.112,0.106-0.192,0.215-0.195c0.021,0.002,1.74,0.067,1.965-0.854 c0.037-0.155,0.084-0.33,0.137-0.52c0.287-1.062,0.721-2.664-0.047-2.915c-0.569-0.185-1.28-0.063-1.771,0.3 C22.28,13.1,22.09,13.457,22.1,13.845c0.004,0.114-0.088,0.208-0.201,0.211c-0.002,0-0.002,0-0.004,0 c-0.111,0-0.205-0.09-0.207-0.201c-0.004-0.193,0.039-0.378,0.104-0.555c-1.001-0.003-1.989-0.006-2.258-0.006 c0.304,0.075,0.418,0.274,0.429,0.502c0.182,0.068,0.317,0.161,0.385,0.294c0.143,0.282-0.004,0.631-0.156,0.999 c-0.213,0.517-0.436,1.05,0.017,1.481c0.14,0.135,0.254,0.193,0.343,0.179c0.178-0.029,0.346-0.349,0.521-0.686 c0.289-0.549,0.648-1.219,1.363-1.265c-0.004-0.288,0.145-0.527,0.352-0.543c0.005,0,0.009,0.004,0.016,0.003 c0.092-0.195,0.234-0.336,0.418-0.35c0.313-0.023,0.596,0.314,0.627,0.76c0.033,0.439-0.193,0.817-0.51,0.843 c-0.142,0.011-0.271-0.061-0.379-0.172c-0.029,0.012-0.059,0.029-0.09,0.032c-0.156,0.012-0.301-0.11-0.376-0.291 c-0.58,0.014-0.892,0.598-1.165,1.116c-0.223,0.421-0.413,0.781-0.732,0.834c-0.023,0.004-0.05,0.006-0.072,0.006 c-0.164,0-0.332-0.085-0.514-0.262c-0.593-0.567-0.312-1.252-0.082-1.801c0.127-0.307,0.246-0.597,0.164-0.76 c-0.025-0.053-0.086-0.095-0.16-0.133c-0.107,0.351-0.399,0.679-0.664,0.679c-0.299,0-3.941-0.036-7.021-0.066 c-0.001,0.012-0.005,0.021-0.006,0.031c-0.003-0.043-0.008-0.094-0.008-0.109c-0.146-0.719-0.226-1.41-0.251-2.08 c-0.83-0.017-1.415-0.036-1.588-0.057c0.896,0.104,0.571-0.76,0.519-0.731c0.161-0.083,0.469-0.214,1.104-0.335 c-0.021,0.364-0.034,0.736-0.02,1.127c2.828,0.06,8.288,0.104,10.229,0.119c0.057-0.053,0.104-0.107,0.17-0.155 c0.604-0.446,1.441-0.588,2.146-0.359c0.304,0.099,0.483,0.305,0.591,0.568c2.465,0.057,6.178,0.144,6.438,0.169 c0.391,0.038,0.475,0.26,0.479,0.562c0.002,0.305-0.164,1.441-0.238,1.688c-0.074,0.247-0.074,0.476-0.434,0.476 c-0.355,0-1.814,0-2.965,0c-1.443,0-2.381-0.929-3.2-1.605C25.125,14.535,24.977,15.092,24.85,15.559z"></path> <path d="M2.591,9.252l-0.44-0.459C0.764,10.125,0,11.909,0,13.819c0,1.91,0.767,3.693,2.151,5.024l0.438-0.456 c-1.262-1.21-1.957-2.833-1.957-4.568C0.634,12.084,1.33,10.461,2.591,9.252z"></path> <path d="M3.478,10.142L3.042,9.683c-1.145,1.087-1.773,2.557-1.773,4.136c0,1.58,0.632,3.051,1.776,4.138l0.437-0.46 c-1.019-0.968-1.579-2.272-1.579-3.678C1.901,12.415,2.462,11.109,3.478,10.142z"></path> <path d="M4.375,11.042L3.94,10.579c-0.894,0.835-1.405,2.016-1.405,3.24c0,1.227,0.514,2.406,1.407,3.243l0.434-0.464 C3.608,15.882,3.17,14.87,3.17,13.82C3.17,12.754,3.597,11.767,4.375,11.042z"></path> <path d="M5.754,12.359c-0.436,0.363-0.685,0.896-0.685,1.46c0,0.565,0.248,1.098,0.683,1.458l0.407-0.484 C5.58,14.307,5.58,13.33,6.16,12.846L5.754,12.359z"></path> <path d="M5.268,11.94l-0.427-0.469c-0.66,0.6-1.039,1.455-1.039,2.348c0,0.895,0.381,1.748,1.04,2.35l0.427-0.47 c-0.528-0.479-0.833-1.165-0.833-1.88C4.436,13.104,4.74,12.421,5.268,11.94z"></path> <circle cx="7.145" cy="13.79" r="0.73"></circle> </g> </g> </g></svg>
   <div class="place-self-center ml-6">
     <div class="text-sm text-neutral-500 dark:text-neutral-300">
       Researcher of the Structure of Subjective Experience. He strive to gain a deeper understanding of how people experience the world through their own consciousness and subconsciousness. He study the inner worlds of thoughts, feelings, and sensations that shape our perceptions, behaviors and choices.
@@ -362,7 +362,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
   </div>
 </div>
   <div class="mt-10 flex justify-center">
-  <a href="https://bio.com" title="bio" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
+  <a href="https://bio.com" title="bio" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full shadow-lg">
       See full bio
     </a>
   </div>
@@ -426,7 +426,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
   </div>
 </div>
 <div class="mt-10 flex justify-center">
-  <a href="https://bio.com" title="bio" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
+  <a href="https://bio.com" title="bio" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full shadow-lg">
       Explore more
     </a>
 </div>
@@ -452,7 +452,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 <section>
   {{< list cardView=true limit=3 where="Type" value="posts" >}}
   <div class="mt-10 flex justify-center">
-  <a href="https://recent.com" title="Recent posts" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
+  <a href="https://recent.com" title="Recent posts" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full shadow-lg">
       Load all posts
     </a>
 </div>
@@ -603,11 +603,11 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
   </div>
   </div>
  <div class="mt-6 flex justify-center">
-  <a href="https://archive.com" title="books in archive" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
+  <a href="https://archive.com" title="books in archive" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full shadow-lg">
       My books
     </a>
         <span class="mr-2"></span>
-   <a href="https://events.com" title="reading" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
+   <a href="https://events.com" title="reading" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full shadow-lg">
       Reading
     </a>
 </div>
@@ -627,7 +627,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 <!-- Container for the Testimonials -->
 <div class="grid gap-6 text-center md:grid-cols-3 lg:gap-12">
   <!-- First Testimonial -->
-  <div class="mb-12 md:mb-0">
+  <div class="mb-12 md:mb-0 rounded-xl p-4 shadow-2xl">
     <div class="mb-6 flex justify-center">
     </div>
     <p class="mb-4 text-xl font-bold">
@@ -663,7 +663,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
     </ul>
   </div>
   <!-- Second Testimonial -->
-  <div class="mb-12 md:mb-0">
+  <div class="mb-12 md:mb-0 rounded-xl p-4 shadow-2xl">
     <div class="mb-6 flex justify-center">
     </div>
     <p class="mb-4 text-xl font-bold">
@@ -698,7 +698,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
       </li>
     </ul>
   </div>
-    <div class="mb-0">
+    <div class="mb-0 rounded-xl p-4 shadow-2xl">
       <div class="mb-6 flex justify-center">
       </div>
       <p class="mb-4 text-xl font-bold">
@@ -784,7 +784,7 @@ data: {
           Contact - Ask and You shall receive
         </h2>
         <p class="text-xl text-muted">
-          Ask in English 🇬🇧, Spanish 🇪🇸, Czech 🇨🇿
+          Collect all necessary data
         </p>
         </div>
         <!-- Contact Us -->
@@ -814,11 +814,11 @@ data: {
           </div>
           <!-- End Grid -->
           <div class="mt-4 grid">
-            <button id="contact" aria-label="Submit contact request" type="submit" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">Send inquiry</button>
+            <button id="contact" aria-label="Submit contact request" type="submit" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full shadow-lg">Send inquiry</button>
           </div>
           <div class="mt-3 text-center">
             <p class="text-sm text-gray-500">
-              We'll get back to you in 1-2 business days.
+              I'll get back to you in 1-2 business days.
             </p>
           </div>
         </form>
