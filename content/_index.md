@@ -16,7 +16,7 @@ description: ""
           </h2>
           <p class="mt-8 mx-auto text-2xl mb-10 prose dark:prose-invert max-lg">
            A GUIDE FOR MAKING DECISIONS WITH CONFIDENCE AND LIVING A MORE MEANINGFUL LIFE. RESEARCH OF THE STRUCTURE OF SUBJECTIVE EXPERIENCE</p>
-          <a href="#" class="inline-flex justify-center items-center mt-4 py-3 px-5 sm:ms-4 text-center rounded-full text-neutral-50 bg-primary-800 dark:bg-primary-800">
+          <a href="#" class="inline-flex justify-center items-center mt-4 py-3 px-5 sm:ms-4 text-center rounded-full text-neutral-50 bg-primary-800 dark:bg-primary-900">
            Read more
         </a>
         <span class="mr-2"></span>
@@ -26,7 +26,7 @@ description: ""
         </a>
         </div>
         <div class="mt-8">
-           <img class="rounded-full shadow-lx" width="500" height="314" loading="lazy" alt="" src="123.webp" />
+           <img class="rounded-full shadow-lx" width="466" height="293" loading="lazy" alt="" src="123.webp" />
         </div>
       </div>
     </div>
