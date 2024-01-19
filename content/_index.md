@@ -26,7 +26,7 @@ description: ""
         </a>
         </div>
         <div class="mt-8">
-           <img class="rounded-full shadow-lx" width="466" height="293" loading="lazy" alt="" src="123.webp" />
+           <img class="rounded-full shadow-lx" width="699" height="440" loading="lazy" alt="" src="123.webp" />
         </div>
       </div>
     </div>
