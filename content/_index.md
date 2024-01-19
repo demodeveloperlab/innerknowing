@@ -9,12 +9,12 @@ description: ""
     <div class="mx-auto">
       <div class="grid items-center gap-12 lg:grid-cols-2 mb-20">
         <div class="lg:mt-0">
-          <h1 class="mb-16 font-bold tracking-tight" style="font-size:3.5rem">
+          <h1 class="mb-12 text-4xl font-bold tracking-tight">
             CONNECT
           </h1>
-          <h2 class="mb-8 text-4xl font-extrabold text-primary-800 dark:text-primary-200">LEARNING TO RECOGNIZE, LISTEN TO, AND TRUST MY INNER VOICE AND SENSATIONS
+          <h2 class="mb-8 text-xl font-extrabold text-primary-800 dark:text-primary-200">LEARNING TO RECOGNIZE, LISTEN TO, AND TRUST MY INNER VOICE AND SENSATIONS
           </h2>
-          <p class="mt-8 mx-auto text-2xl mb-10 prose dark:prose-invert max-lg">
+          <p class="mt-8 mx-auto text-lg mb-10 prose dark:prose-invert max-lg">
            A GUIDE FOR MAKING DECISIONS WITH CONFIDENCE AND LIVING A MORE MEANINGFUL LIFE. RESEARCH OF THE STRUCTURE OF SUBJECTIVE EXPERIENCE</p>
           <a href="#" class="inline-flex justify-center items-center mt-6 py-3 px-5 text-center bg-transparent text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold border border-primary-200 hover:border-transparent rounded-full">
            Read more
