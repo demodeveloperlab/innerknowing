@@ -285,7 +285,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Events</p>
 <h2 class="mb-4 text-4xl font-extrabold uppercase">
-  IMPROVING SELF_RELATIONSHIP
+  IMPROVING SELF RELATIONSHIP
 </h2>
 <p class="text-xl text-muted">
   PRACTICES TO FIT MY TIME AND LIFE STYLE
