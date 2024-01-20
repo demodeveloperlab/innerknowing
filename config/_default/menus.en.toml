@@ -18,7 +18,7 @@
 [[main]]
   name = "About"
   parent = "Mission"
-  pageRef = "posts"
+  pageRef = "https://example.com"
   weight = 10
 
 [[main]]
@@ -35,13 +35,13 @@
 
 [[main]]
   name = "Events"
-  pageRef = "#events"
+  pageRef = "https://example.com"
   weight = 20
 
 [[main]]
   name = "Upcoming Events"
   parent = "Events"
-  pageRef = "/en/events/upcoming-events"
+  pageRef = "https://example.com"
   weight = 10
 
 [[main]]
@@ -52,7 +52,7 @@
 
 [[main]]
   name = "Publications"
-  pageRef = "#publication"
+  pageRef = "https://example.com"
   weight = 30
 
 [[main]]
@@ -69,7 +69,7 @@
 
 [[main]]
   name = "Courses"
-  pageRef = "#courses"
+  pageRef = "https://example.com"
   weight = 40
 
 [[main]]
@@ -86,7 +86,7 @@
 
 [[main]]
   name = "Sources"
-  pageRef = "#tools"
+  pageRef = "https://example.com"
   weight = 50
 
 [[main]]
@@ -104,12 +104,12 @@
 [[main]]
   name = "Sitemap"
   parent = "Sources"
-  pageRef = "posts"
+  pageRef = "https://example.com"
   weight = 30
 
 [[main]]
   name = "Contact"
-  pageRef = "#contact"
+  pageRef = "https://example.com"
   weight = 60
 
 [[main]]
