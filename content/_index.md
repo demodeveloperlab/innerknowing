@@ -9,7 +9,7 @@ description: ""
     <div class="mx-auto">
       <div class="grid items-center gap-12 lg:grid-cols-2 mb-20">
         <div class="lg:mt-0">
-          <h1 class="mb-12 text-4xl font-bold tracking-tight">
+          <h1 class="mb-12 text-5xl font-bold tracking-tight">
             CONNECT
           </h1>
           <h2 class="mb-8 text-xl font-extrabold text-primary-800 dark:text-primary-200">LEARNING TO RECOGNIZE, LISTEN TO, AND TRUST MY INNER VOICE AND SENSATIONS
@@ -73,7 +73,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
   <section>
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Features</p>
-<h2 class="mb-4 text-4xl font-extrabold">
+<h2 class="mb-4 text-4xl font-extrabold uppercase">
   What's in it for me?
 </h2>
 <p class="container text-xl">
@@ -346,7 +346,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
   <section class="mx-auto max-w-2xl">
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Bio</p>
-<h2 class="mb-4 text-4xl font-extrabold">
+<h2 class="mb-4 text-4xl font-extrabold uppercase">
   COMMITTED TO MAKING A DIFFERENCE
 </h2>
 <p class="text-xl text-muted">
@@ -564,7 +564,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
    <section class="mx-auto">
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Reading and Writing</p>
-<h2 class="mb-4 text-4xl font-extrabold">
+<h2 class="mb-4 text-4xl font-extrabold uppercase">
   Books - I love writing
 </h2>
 <p class="text-xl text-muted">
@@ -617,7 +617,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 <!-- People Testimonial --> 
 <div class="mx-auto text-center mt-20 mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Hear what they are saying?</p>
-<h2 class="mb-4 text-4xl font-extrabold">
+<h2 class="mb-4 text-4xl font-extrabold uppercase">
   Testimonials
 </h2>
 <p class="container text-xl">
@@ -741,7 +741,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
   <section class="max-w-6xl mx-auto">
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Competency</p>
-<h2 class="mb-4 text-4xl font-extrabold">
+<h2 class="mb-4 text-4xl font-extrabold uppercase">
   Stats: I walk the talk
 </h2>
 <p class="text-xl text-muted">
@@ -780,7 +780,7 @@ data: {
     <div class="max-w-6xl mx-auto text-center mb-10 lg:mb-14">
       <div class="mx-auto text-center mb-10 lg:mb-14">
         <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Get in touch</p>
-        <h2 class="mb-4 text-4xl font-extrabold">
+        <h2 class="mb-4 text-4xl font-extrabold uppercase">
           Contact - Ask and You shall receive
         </h2>
         <p class="text-xl text-muted">
