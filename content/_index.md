@@ -35,15 +35,16 @@ description: ""
 </section>
   <!-- Quote -->
   <section>
-<div class="bg-gradient-to-r from-primary-500 to-secondary-700 dark:from-primary-500 dark:to-secondary-700 px-6 py-6 mb-20 rounded-xl text-neutral-50 shadow-2xl">
+<div class="bg-primary-200 dark:bg-neutral-900 px-6 py-6 mb-20 rounded-xl dark:text-neutral-50 shadow-2xl">
 <div class="container">
    <div class="flex items-center justify-center">
     <div class="mr-4">
-      <svg width="32px" height="32px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="#ffffff"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M12 17V11" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round"></path> <circle cx="1" cy="1" r="1" transform="matrix(1 0 0 -1 11 9)" fill="#ffffff"></circle> <path d="M2 12C2 7.28595 2 4.92893 3.46447 3.46447C4.92893 2 7.28595 2 12 2C16.714 2 19.0711 2 20.5355 3.46447C22 4.92893 22 7.28595 22 12C22 16.714 22 19.0711 20.5355 20.5355C19.0711 22 16.714 22 12 22C7.28595 22 4.92893 22 3.46447 20.5355C2 19.0711 2 16.714 2 12Z" stroke="#ffffff" stroke-width="1.5"></path> </g></svg>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6">
+  <path fill-rule="evenodd" d="M14.447 3.026a.75.75 0 0 1 .527.921l-4.5 16.5a.75.75 0 0 1-1.448-.394l4.5-16.5a.75.75 0 0 1 .921-.527ZM16.72 6.22a.75.75 0 0 1 1.06 0l5.25 5.25a.75.75 0 0 1 0 1.06l-5.25 5.25a.75.75 0 1 1-1.06-1.06L21.44 12l-4.72-4.72a.75.75 0 0 1 0-1.06Zm-9.44 0a.75.75 0 0 1 0 1.06L2.56 12l4.72 4.72a.75.75 0 0 1-1.06 1.06L.97 12.53a.75.75 0 0 1 0-1.06l5.25-5.25a.75.75 0 0 1 1.06 0Z" clip-rule="evenodd" /></svg>
     </div>
     <div>
-      <p class="text-xl font-bold">
-         PHILOSOPHY KISS - KEEP IT SIMPLE, STUPID! + ELEGANCE
+      <p>
+        <span class="text-xl font-bold">PHILOSOPHY KISS:</span> KEEP IT SIMPLE, STUPID! + ELEGANCE
       </p>
     </div>
   </div>
