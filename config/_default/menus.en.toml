@@ -12,13 +12,13 @@
 
 [[main]]
   name = "Mission"
-  pageRef = "https://demodeveloperlab.github.io/innerknowing/en/"
+  pageRef = "posts"
   weight = 10
 
 [[main]]
   name = "About"
   parent = "Mission"
-  pageRef = "https://example.com"
+  pageRef = "posts"
   weight = 10
 
 [[main]]
@@ -35,13 +35,12 @@
 
 [[main]]
   name = "Events"
-  pageRef = "https://example.com"
   weight = 20
 
 [[main]]
   name = "Upcoming Events"
   parent = "Events"
-  pageRef = "https://example.com"
+  pageRef = "posts"
   weight = 10
 
 [[main]]
@@ -52,7 +51,6 @@
 
 [[main]]
   name = "Publications"
-  pageRef = "https://example.com"
   weight = 30
 
 [[main]]
@@ -69,7 +67,6 @@
 
 [[main]]
   name = "Courses"
-  pageRef = "https://example.com"
   weight = 40
 
 [[main]]
@@ -86,7 +83,6 @@
 
 [[main]]
   name = "Sources"
-  pageRef = "https://example.com"
   weight = 50
 
 [[main]]
@@ -104,12 +100,11 @@
 [[main]]
   name = "Sitemap"
   parent = "Sources"
-  pageRef = "https://example.com"
+  pageRef = "posts"
   weight = 30
 
 [[main]]
   name = "Contact"
-  pageRef = "https://example.com"
   weight = 60
 
 [[main]]

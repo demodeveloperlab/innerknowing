@@ -9,18 +9,18 @@ description: ""
     <div class="mx-auto">
       <div class="grid items-center gap-12 lg:grid-cols-2 mb-20">
         <div class="lg:mt-0">
-          <h1 class="mb-12 text-5xl font-bold tracking-tight">
+          <h1 class="mb-16 font-bold tracking-tight" style="font-size:4.5rem">
             CONNECT
           </h1>
-          <h2 class="mb-8 text-xl font-extrabold text-primary-800 dark:text-primary-200">LEARNING TO RECOGNIZE, LISTEN TO, AND TRUST MY INNER VOICE AND SENSATIONS
+          <h2 class="mb-8 text-4xl font-extrabold text-primary-800 dark:text-primary-200">LEARNING TO RECOGNIZE, LISTEN TO, AND TRUST MY INNER VOICE AND SENSATIONS
           </h2>
-          <p class="mt-8 mx-auto text-lg mb-10 prose dark:prose-invert max-lg">
+          <p class="mt-8 mx-auto text-2xl mb-10 prose dark:prose-invert max-lg">
            A GUIDE FOR MAKING DECISIONS WITH CONFIDENCE AND LIVING A MORE MEANINGFUL LIFE. RESEARCH OF THE STRUCTURE OF SUBJECTIVE EXPERIENCE</p>
-          <a href="#" class="inline-flex justify-center items-center mt-6 py-2 px-4 text-center bg-transparent text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold border border-primary-200 hover:border-transparent rounded-full shadow-lg">
+          <a href="#" class="inline-flex justify-center items-center mt-6 py-3 px-5 text-center bg-transparent text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold border border-primary-200 hover:border-transparent rounded-full">
            Read more
         </a>
         <span class="mr-2"></span>
-          <a href="#" class="inline-flex justify-center items-center mt-6 py-2 px-4 text-center bg-transparent text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold border border-primary-200 hover:border-transparent rounded-full shadow-lg">
+          <a href="#" class="inline-flex justify-center items-center mt-6 py-3 px-5 text-center bg-transparent text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold border border-primary-200 hover:border-transparent rounded-full">
             Ask a Question
         <svg class="w-3.5 h-3.5 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/></svg>
         </a>
@@ -35,16 +35,15 @@ description: ""
 </section>
   <!-- Quote -->
   <section>
-<div class="bg-primary-200 dark:bg-neutral-900 px-6 py-6 mb-20 rounded-xl dark:text-neutral-50 shadow-2xl">
+<div class="bg-gradient-to-r from-primary-500 to-secondary-700 dark:from-primary-500 dark:to-secondary-700 px-6 py-6 mb-20 rounded-xl text-neutral-50 shadow-2xl">
 <div class="container">
    <div class="flex items-center justify-center">
     <div class="mr-4">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6">
-  <path fill-rule="evenodd" d="M14.447 3.026a.75.75 0 0 1 .527.921l-4.5 16.5a.75.75 0 0 1-1.448-.394l4.5-16.5a.75.75 0 0 1 .921-.527ZM16.72 6.22a.75.75 0 0 1 1.06 0l5.25 5.25a.75.75 0 0 1 0 1.06l-5.25 5.25a.75.75 0 1 1-1.06-1.06L21.44 12l-4.72-4.72a.75.75 0 0 1 0-1.06Zm-9.44 0a.75.75 0 0 1 0 1.06L2.56 12l4.72 4.72a.75.75 0 0 1-1.06 1.06L.97 12.53a.75.75 0 0 1 0-1.06l5.25-5.25a.75.75 0 0 1 1.06 0Z" clip-rule="evenodd" /></svg>
+      <svg width="32px" height="32px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="#ffffff"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M12 17V11" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round"></path> <circle cx="1" cy="1" r="1" transform="matrix(1 0 0 -1 11 9)" fill="#ffffff"></circle> <path d="M2 12C2 7.28595 2 4.92893 3.46447 3.46447C4.92893 2 7.28595 2 12 2C16.714 2 19.0711 2 20.5355 3.46447C22 4.92893 22 7.28595 22 12C22 16.714 22 19.0711 20.5355 20.5355C19.0711 22 16.714 22 12 22C7.28595 22 4.92893 22 3.46447 20.5355C2 19.0711 2 16.714 2 12Z" stroke="#ffffff" stroke-width="1.5"></path> </g></svg>
     </div>
     <div>
-      <p>
-        <span class="text-xl font-bold">PHILOSOPHY KISS:</span> KEEP IT SIMPLE, STUPID! + ELEGANCE
+      <p class="text-xl font-bold">
+         PHILOSOPHY KISS - KEEP IT SIMPLE, STUPID! + ELEGANCE
       </p>
     </div>
   </div>
@@ -70,11 +69,11 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 </div>
 <!-- /abstract -->
 <!-- Features -->
-<div class="relative w-screen max-w-[1600px] bg-primary-200 dark:bg-neutral-900 py-10 mt-20 px-[30px]" style="left: calc(max(-50vw,-800px) + 50%);">
+<div class="relative w-screen max-w-[1600px] mt-20 px-[30px]" style="left: calc(max(-50vw,-800px) + 50%);">
   <section>
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Features</p>
-<h2 class="mb-4 text-4xl font-extrabold uppercase">
+<h2 class="mb-4 text-4xl font-extrabold">
   What's in it for me?
 </h2>
 <p class="container text-xl">
@@ -91,7 +90,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
       <p class="mb-4 text-xl font-bold">
         Perceptions Patterns 
       </p>
-      <p class="mb-1 text-muted dark:text-neutral-300">
+      <p class="mb-1 text-neutral-500 dark:text-neutral-300">
         I will find commmon patterns and characteristics in my past, present and future glimpses of inner knowing.
       </p>
     </div>
@@ -104,7 +103,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
         <p class="mb-4 text-xl font-bold">
           Listening
         </p>
-        <p class="mb-1 text-muted dark:text-neutral-300">
+        <p class="mb-1 text-neutral-500 dark:text-neutral-300">
           Paying attention in my daily life and noticing gentle whispering of my inner voice and butterfly sensations.
         </p>
       </div>
@@ -117,7 +116,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
       <p class="mb-4 text-xl font-bold">
         Noticing the structure
       </p>
-      <p class="mb-1 text-muted dark:text-neutral-300">
+      <p class="mb-1 text-neutral-500 dark:text-neutral-300">
         Using submodalities I will notice the location, size, texture, inner quality, movement, speed, direction of my voice and sensation.
       </p>
     </div>
@@ -130,7 +129,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
       <p class="mb-4 text-xl font-bold">
         Alignment
       </p>
-      <p class="mb-1 text-muted dark:text-neutral-300">
+      <p class="mb-1 text-neutral-500 dark:text-neutral-300">
         Full body sensation lives no space for a doubt. Aligning our timelines, beliefs, values, relationships into a guide for our life.
       </p>
     </div>
@@ -143,7 +142,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
       <p class="mb-4 text-xl font-bold">
         Generating Future
       </p>
-      <p class="mb-1 text-muted dark:text-neutral-300">
+      <p class="mb-1 text-neutral-500 dark:text-neutral-300">
         Imagining with visual, auditory, kinestetic, olfactory and taste experiences, creating steps, walking the path, till I know that's real.
       </p>
     </div>
@@ -156,7 +155,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
       <p class="mb-4 text-xl font-bold">
         Authentic Life
       </p>
-      <p class="mb-1 text-muted dark:text-neutral-300">
+      <p class="mb-1 text-neutral-500 dark:text-neutral-300">
         More connected I become, More I grow. Being in the state of oneness open doors to experience deep connection with everything.
       </p>
     </div>
@@ -164,7 +163,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 </div>
 </div>
 <div class="mt-10 flex justify-center">
-  <a href="https://courses.com" title="courses" class="bg-neutral dark:bg-neutral-900 hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full shadow-lg">
+  <a href="https://courses.com" title="courses" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
       Courses
     </a>
 </div>
@@ -188,8 +187,8 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
   <div class="relative">
        <img class="rounded-xl shadow-2xl" width="442" height="560" loading="lazy" alt="" src="pixabay.com.illustrations.ai-generated-iceberg-glacier-water-8400811.webp" />
     </div>
-    <div class="lg:py-6 rounded-xl p-4 shadow-2xl">
-        <div class="flex ">
+    <div class="lg:py-6">
+        <div class="flex">
        <div class="flex flex-col items-center mr-4">
          <div>
            <div class="flex items-center justify-center w-12 h-12 border rounded-full border-primary-700">
@@ -267,7 +266,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
            </div>
          </div>
        </div>
-       <div class="pt-1">
+       <div class="pt-1 pb-8">
          <p class="mb-2 text-xl font-bold">Let's do it again</p>
          <p class="mt-4 text-neutral-500 dark:text-neutral-300">
            Every time is easier, faster. I am competent and confident. I am ejoying myself, efforlessly flowing. 
@@ -281,61 +280,61 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
   </div>    
 <!-- /primaryprint -->
 <!-- Events -->
-<div class="relative mt-20 w-screen max-w-[1600px] px-[30px] bg-primary-200 dark:bg-neutral-900 py-10" style="left: calc(max(-50vw,-800px) + 50%);">
+<div class="relative mt-20 w-screen max-w-[1600px] px-[30px]" style="left: calc(max(-50vw,-800px) + 50%);">
   <section>
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Events</p>
 <h2 class="mb-4 text-4xl font-extrabold uppercase">
-  IMPROVING SELF RELATIONSHIP
+  IMPROVING SELF_RELATIONSHIP
 </h2>
 <p class="text-xl text-muted">
   PRACTICES TO FIT MY TIME AND LIFE STYLE
 </p>
 </div>
 <div class="max-w-6xl mx-auto grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
-  <div class="md:mb-0 bg-neutral dark:bg-neutral-900 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl text-center">
+  <div class="md:mb-0 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl text-center">
     <div class="flex justify-center items-center">
     <svg width="64px" height="64px" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--noto" preserveAspectRatio="xMidYMid meet" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path fill="#41484a" d="M71.08 63.95l4.69-9.39l10.51-13.51L99.8 31.1l13.51-6.2l7.28-.18l1.83 2.81l-3.1 14.22l-4.93 20.98l-3.09 5.06l-7.32 4.09L96.51 73l7.61 3.52l5.63 4.37l3.23 4.5v6.06l-2.81 7.88l-8.45 6.76l-5.21 1.97l-8.16-1.97l-1.83-2.11l-3.9-6.2l-2.72-9.29l-5.49-2.82l-5.3 2.91l1.92 12.44l-.42 3.94l-.7 2.82l-1.97 3.94l-5.07 2.95l-7.18.15l-9.29-2.54l-5.49-4.22l-3.38-5.63l.84-7.46l9.57-12.25l-8.02 2.95l-10.28.29l-8.44-9.16L8.24 55.83l-3.23-9.29l2.67-2.82h7.74l16.62 2.68l18.16 7.18l13.09 7.46z"></path><path d="M67.02 46.26s1.23-11.63 2.53-16.19c1.83-6.41 7.04-11.47 11.4-11.97c4.36-.49 3.8 2.89 1.13 4.29c-2.57 1.35-5.35.56-5.35.56s-3.59 2.62-4.79 8.02c-1.41 6.34-2.53 16.19-2.53 16.19l-2.39-.9z" fill="#676f72"></path><path d="M63.15 47.03s-4.77-9.69-9.92-15.84c-5.14-6.12-11.68-6.34-12.6-6.41c-.92-.07-4.79.56-4.79 2.39c0 2.46 3.4 2.9 5.35 2.53c2.25-.42 3.31-1.76 3.31-1.76s4.18 1.66 6.97 5c3.24 3.87 9.22 15.56 9.22 15.56l.42 1.55l2.04-3.02z" fill="#676f72"></path><path d="M54.84 93.7c-1.75-.87-7.04 4.08-7.04 6.48c0 1.57 1.13 4.22 3.52 3.52c2.4-.71 5.78-8.88 3.52-10z" fill="#ff8b03"></path><path d="M45.41 93.7c2.25 1.97 5.97-1.95 7.6-4.5c1.97-3.1 2.96-10.84 2.39-10.56c-.56.28-7.6 5.35-7.6 5.35s-5.34 7.13-2.39 9.71z" fill="#ff8b03"></path><path d="M56.11 103.27c0 2.46 2.67 4.22 5.35 3.8c1.4-.22 3.91-1.52 3.66-3.8c-.28-2.53-1.41-6.34-4.08-6.76c-2.68-.42-4.93 2.68-4.93 6.76z" fill="#ff8b03"></path><path d="M71.01 83.91s-3.69 7.75-4.49 9.64c-1.13 2.67-1.17 9.34 1.83 10.42c2.14.77 2.67-2.96 2.67-2.96s.37-7.64.37-10.17c.01-2.53-.38-6.93-.38-6.93z" fill="#ff8b03"></path><path d="M73.85 75.12s7.04 8.17 9.15 9.71c2.11 1.55 5.77 5.91 10.56 2.67c4.79-3.24-8.17-14.08-9.29-14.92C83.14 71.74 73 71.6 73 71.6l.85 3.52z" fill="#ff8b03"></path><path d="M76.38 83s4.92 4.49 5.91 5.49c2.11 2.11 4.5 4.07 5.49 7.04c.56 1.69 1.41 4.22-.42 5.21c-1.51.81-3.4-1.39-4.08-2.11c-.69-.72-3.33-6.53-4.87-9.84c-.64-1.36-2.03-5.79-2.03-5.79z" fill="#ff8b03"></path><path d="M90.74 91.45c-1.13 1.52.32 6.76 1.83 7.74c2.82 1.83 6.19-1.41 6.19-2.96c.01-1.55-5.63-8.02-8.02-4.78z" fill="#ff8b03"></path><path d="M88.91 72.02s6.19 9.71 9.57 11.68s6.04 1.75 7.04 0c2.25-3.94-7.46-9.29-7.46-9.29l-9.15-2.39z" fill="#ff8b03"></path><path d="M96.65 87.22c-.84 1.83 2.67 7.18 5.07 7.18s3.26-3.39 3.1-4.5c-.28-1.97-6.73-5.8-8.17-2.68z" fill="#ff8b03"></path><path d="M61.6 75.4s-6.49 10.66-4.5 15.91c1.55 4.08 5.77 3.38 9.43-3.52s4.36-11.26 4.36-11.26l-1.13-3.94l-8.16 2.81z" fill="#ff8b03"></path><path d="M63.99 60.33s-5.77-5.21-17.46-10.14s-22.1-8.02-31.39-7.88s-10.7 2.25-11.12 3.94c-.42 1.69 1.24 7.02 3.1 10.28c2.25 3.94 10.7 17.6 13.66 21.82c2.55 3.65 4.31 7.7 9.85 9.01c6.15 1.45 13.66-1.69 13.66-1.69s-7.18 6.48-7.6 13.37c-.42 6.9 3.24 11.83 10.84 14.5s18.7 4.72 22.24-3.66c1.03-2.44.84-4.93.84-4.93s-2.56 7.31-6.48 8.02c-3.1.56-2.67-1.27-5.49-1.55c-2.82-.28-2.39 1.83-5.35 1.83c-2.27 0-1.55-1.83-3.94-3.1s-3.75.78-5.21-.42c-2.39-1.97-.14-2.96-1.13-4.5c-.99-1.55-3.26-2.02-3.8-3.94c-.99-3.52.99-6.19 3.1-9.29c2.11-3.1 5.91-7.6 8.87-9.71c2.96-2.11 17.53-9.06 17.53-9.06s.77-2.62-.35-2.48c-1.13.14-14.36 7.18-16.76 8.73c-2.39 1.55-12.74 6.91-20.27 5.21c-4.36-.99-12.23-14.87-15.41-19.19c-3.18-4.32-8.68-14.92-8.24-17.98c.41-2.82 5.21-3.38 12.53-2.53c7.32.84 13.8 3.1 22.95 6.9S62.73 62.73 64 62.73c1.26 0-.01-2.4-.01-2.4z" fill="#676f72"></path><path d="M72.58 62.02s-1.13-2.72.84-6.1s8.31-12.9 14.78-18.68c6.48-5.77 28.3-17.74 33.22-14.22c4.93 3.52-.42 17.36-1.55 22.1c-.98 4.13-2.25 17.41-7.04 22.95c-3.72 4.31-11.68 5.77-11.68 5.77s12.94 6.21 13.51 14.36c.7 10-10.98 21.42-19.71 21.12c-6.71-.23-8.45-5.35-8.45-5.35s6.19 3.52 8.73 2.82c2.53-.7.7-3.1 3.1-4.5s4.36 2.25 6.19.56s.42-3.24 1.69-4.93c1.27-1.69 3.1 0 4.22-1.55c1.13-1.55 0-3.66.56-5.07c.56-1.41 1.69-1.69 1.55-3.8c-.14-2.11-4.08-7.04-9.01-9.43s-10.28-3.52-14.64-4.36c-4.36-.84-15.63-1.6-15.63-1.6s-.99-2.3-.42-2.21c1.13.19 3.94.42 8.17.56c8.54.28 22.24 2.25 28.3-2.53s7.04-18.3 7.6-21.82s5.91-19.01 2.82-20.55c-3.1-1.55-18.34 4.61-26.7 11.07s-14.4 15.4-16.23 19.06c-1.83 3.66-4.22 6.33-4.22 6.33z" fill="#676f72"></path><path d="M72.41 58.68c.77-1.06 1.95-1.89 1.44-7.07c-.56-5.7-5.46-7.14-9.33-6.3c-3.14.68-7.57 3.63-5.17 10.73c2.12 6.31 9.29 4.36 9.29 4.36s2.99-.67 3.77-1.72z" fill="#41484a"></path><ellipse transform="rotate(-33.726 95.108 38.234)" cx="95.11" cy="38.23" rx="2.75" ry="2.18" fill="#fcfdfa"></ellipse><path d="M117.21 41.47c-.63-1.03-2.01-1.26-3.17-.28c-.79.66-1.44 2.24-.77 3.24c.67 1 2.14 1.12 3.1.35c1.18-.95 1.41-2.37.84-3.31z" fill="#fcfdfa"></path><path d="M104.33 35.13c-.67-1-2.47-1.12-3.73-.28s-2.21 2.41-1.2 3.94c.7 1.06 2.31 1.04 3.87.14c1.48-.84 1.73-2.79 1.06-3.8z" fill="#fcfdfa"></path><path d="M121.22 26.05c0 1.09-.7 2.18-2.18 1.97c-1.35-.19-1.97-.7-1.97-2.18c0-1.09 1.04-1.76 2.15-1.76s2 .88 2 1.97z" fill="#fcfdfa"></path><path d="M119.53 34.64c0 1.09-1.08 2.04-2.18 1.97c-1.06-.07-1.97-.7-1.97-2.18c0-1.09 1.07-1.9 2.18-1.9s1.97 1.02 1.97 2.11z" fill="#fcfdfa"></path><circle cx="113.79" cy="53.68" r="2.15" fill="#fcfdfa"></circle><ellipse cx="20.74" cy="72.3" rx="1.87" ry="1.9" fill="#fcfdfa"></ellipse><path d="M10 45.97c.83 1.11.18 2.35-.86 3.2c-1.03.85-2.45.83-3.16-.04s-.45-2.27.59-3.12c1.04-.85 2.62-1.14 3.43-.04z" fill="#fcfdfa"></path><path d="M16.74 60.88c1.42.28 1.81 1.53 1.62 2.74c-.19 1.22-1.28 2.06-2.44 1.88c-1.16-.18-1.95-1.31-1.77-2.53s1.19-2.36 2.59-2.09z" fill="#fcfdfa"></path><path d="M12.46 53.78c1.03 1.02.66 2.27-.17 3.18c-.83.91-2.2 1.01-3.07.21c-.87-.79-.9-2.17-.07-3.08c.83-.91 2.3-1.32 3.31-.31z" fill="#fcfdfa"></path><path d="M29.77 49.61c1.04.82.74 2.14-.02 3.2s-2.08 1.42-2.96.8s-.97-1.99-.21-3.06c.76-1.06 2.16-1.75 3.19-.94z" fill="#fcfdfa"></path><path d="M26.55 48.97c-.04 1.36-1.31 1.92-2.64 1.93c-1.33.02-2.42-.87-2.43-1.97c-.01-1.11 1.05-2.02 2.38-2.03c1.33-.02 2.73.72 2.69 2.07z" fill="#fcfdfa"></path><path d="M43.86 99.19c0 1.23-.78 2.22-2.01 2.22s-2.22-1-2.22-2.24c0-1.23.99-2.24 2.22-2.24s2.01 1.02 2.01 2.26z" fill="#fcfdfa"></path><path d="M47.59 107.07c-.8.95-2.44.81-3.28.11c-.83-.7-.86-2.04-.06-2.99s2.12-1.16 2.96-.46c.83.7 1.18 2.39.38 3.34z" fill="#fcfdfa"></path><ellipse transform="rotate(-33.973 107.471 93.774)" cx="107.46" cy="93.77" rx="2.08" ry="1.76" fill="#fcfdfa"></ellipse><ellipse transform="rotate(-33.973 109.79 87.148)" cx="109.78" cy="87.14" rx="2.08" ry="2" fill="#fcfdfa"></ellipse><path d="M95.2 43.49c-3.49-1.45-7.13.47-11.26 6.38s-6.38 10.04-4.6 11.54s10-6.16 11.73-7.51c2.53-1.97 7.98-8.82 4.13-10.41z" fill="#ff8b03"></path><path d="M88.16 60c2.32-1.32 9.1-.75 12.76-.94c2.44-.13 6.01.25 6.1 1.5c.19 2.53-.75 4.13-3.94 5.26s-10.7 1.31-15.49 1.41c-2.82.06-5.41.34-5.73-.94c-.18-.75 2.17-3.94 6.3-6.29z" fill="#ff8b03"></path><path d="M99.24 48.93c2.16.38 9.1.19 11.07-1.31c1.2-.92 1.88-4.79 0-5.63c-1.88-.84-7.23-.66-9.29.94c-1.27.97-3.62 5.68-1.78 6z" fill="#ff8b03"></path><path d="M109.47 31.29c-.36 2.21 3.19 2.16 4.79 1.69c1.6-.47 3.75-3 2.72-4.32c-1.04-1.32-7.05-.28-7.51 2.63z" fill="#ff8b03"></path><path d="M106.93 36.73c0 1.6 1.31 2.16 3.19 2.16s3.1-1.19 3.1-2.44c0-1.69-1.6-2.35-3.66-1.97c-1.57.28-2.63.94-2.63 2.25z" fill="#ff8b03"></path><path d="M94.36 56.16c0 1.2 3.38.84 8.26.84s6.01-.75 6.57-2.63c.56-1.88.38-3.1-2.53-3.19c-2.91-.09-8.63.19-10.32 1.41c-.77.55-1.98 2.63-1.98 3.57z" fill="#ff8b03"></path><path d="M29.13 75.58c-.2 2.15 1.69 4.88 7.32 4.41s12.3-3.79 14.08-4.6c3.28-1.5 6.29-2.72 6.29-4.22c0-1.69-3.75-2.25-8.82-2.72c-5.07-.47-8.82.47-13.05 2.82c-3.53 1.96-5.73 3.28-5.82 4.31z" fill="#ff8b03"></path><path d="M23.59 68.17c-.17 1.3 1.97 4.41 3.38 4.5c1.41.09 8.82-3.85 9.01-5.16c.19-1.31-1.69-3.38-3.19-3.75c-1.5-.38-9.01 3-9.2 4.41z" fill="#ff8b03"></path><path d="M32.79 53.81c-2.26 2.26.38 6.48 5.26 8.92c4.88 2.44 12.67 3.1 15.77 3.57c3.1.47 5.35.56 5.82-.38c1.01-2.01-6.48-5.73-13.42-9.01c-4.33-2.05-11.65-4.88-13.43-3.1z" fill="#ff8b03"></path><path d="M10.73 49.21c.28 2.82 7.79 2.1 7.88-.66c.1-2.72-8.16-2.15-7.88.66z" fill="#ff8b03"></path><path d="M15.61 55.78c1.17 1.95 6.01.19 4.41-2.35c-1.52-2.41-6.1-.46-4.41 2.35z" fill="#ff8b03"></path><path d="M20.87 63.57c.77 1.31 3.33 1.22 5.73.09c1.6-.75 3.7-2.29 3.28-4.13c-.47-2.06-4.32-2.35-6.85-1.13c-1.79.87-3.76 2.45-2.16 5.17z" fill="#ff8b03"></path><path d="M74.06 71.24L67.79 73s1.94 8.4 2.67 11.54c.77 3.31 5.7 27.17 9.57 26.54c3.99-.65-2.67-25.34-3.31-28.02c-.6-2.57-2.66-11.82-2.66-11.82z" fill="#676f72"></path><path d="M73.43 82.51c1.85-.4 2.87-1.51 2.87-1.51l1.23 5.3s-.93.86-2.76 1.28c-2.02.47-3.59.11-3.59.11l-1.21-5.26c-.01-.01 1.48.5 3.46.08z" fill="#41484a"></path><path d="M67.79 73l6.26-1.76l.93 4.22s-1.65.83-2.99 1.11c-1.34.28-3.31.3-3.31.3L67.79 73z" fill="#41484a"></path><path d="M72.3 92.5s1.78.21 3.4-.14c1.62-.35 2.97-1.39 2.97-1.39l1.04 4.66s-1.54 1.09-2.95 1.35c-1.45.27-3.28.11-3.26.11l-1.2-4.59z" fill="#41484a"></path><path d="M67.23 56.67c-2.19.61-3.83 1.97-3.94 4.36c-.14 3.1.56 4.93 1.41 7.88c.54 1.89 1.17 6.22 6.9 4.79c3.94-.99 3.52-4.65 3.38-7.32c-.14-2.69-.7-6.19-1.69-7.74c-.92-1.44-3.52-2.67-6.06-1.97z" fill="#303031"></path><path d="M72.54 47.42c.87 1.29.9 3.07-.24 3.83c-1.13.76-3 .22-3.87-1.07c-.87-1.29-.65-2.95.48-3.72c1.14-.76 2.76-.33 3.63.96z" fill="#303031"></path><path d="M63.3 51.58c-.42 1.5-1.86 2.58-3.17 2.21c-1.32-.37-2.01-2.03-1.6-3.53c.42-1.5 1.82-2.42 3.14-2.05s2.04 1.87 1.63 3.37z" fill="#303031"></path></g></svg>   
     </div>
     <p class="mb-4 mt-4 text-xl font-bold">GUT FEELING</p>
-    <p class="text-muted dark:text-neutral-300">
+    <p class="text-neutral-500 dark:text-neutral-300">
       I’ve got feeling of knowing inside of me that’s guiding me and offering calm comfort.
     </p>
   </div>
-  <div class="md:mb-0 bg-neutral dark:bg-neutral-900 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl text-center">
+  <div class="md:mb-0 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl text-center">
     <div class="flex justify-center items-center">
    <svg width="64px" height="64px" viewBox="0 0 1024 1024" class="icon" version="1.1" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M853.333333 469.333333h-170.666666l-85.333334 85.333334V256c0-46.933333 38.4-85.333333 85.333334-85.333333h170.666666c46.933333 0 85.333333 38.4 85.333334 85.333333v128c0 46.933333-38.4 85.333333-85.333334 85.333333z" fill="#2196F3"></path><path d="M362.666667 405.333333m-170.666667 0a170.666667 170.666667 0 1 0 341.333333 0 170.666667 170.666667 0 1 0-341.333333 0Z" fill="#FFA726"></path><path d="M640 782.933333S563.2 640 362.666667 640 85.333333 782.933333 85.333333 782.933333V853.333333h554.666667v-70.4z" fill="#607D8B"></path></g></svg> 
     </div>
     <p class="mb-4 mt-4 text-xl font-bold">BODY DIALOG</p>
-    <p class="text-muted dark:text-neutral-300">
+    <p class="text-neutral-500 dark:text-neutral-300">
       My body is providing feedback 24/7 on any experience. Attending it's wisdom is a choice.
     </p>
   </div>
-  <div class="md:mb-0 bg-neutral dark:bg-neutral-900 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl text-center">
+  <div class="md:mb-0 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl text-center">
     <div class="flex justify-center items-center">
     <svg width="64px" height="64px" viewBox="0 0 64 64" id="svg5" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <defs id="defs2"></defs> <g id="layer1" transform="translate(0,-576)"> <path d="m 9.999992,585 h 49 v 6 h -49 z" id="path61150" style="fill:#3e4f59;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 9.999992,591 h 49 v 40 h -49 z" id="path61152" style="fill:#acbec2;fill-opacity:1;fill-rule:evenodd;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 9.999992,591 v 40 h 29.76953 a 28.484051,41.392605 35.599482 0 0 18.625,-40 z" id="path61154" style="fill:#e8edee;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.00002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 11.999992,584 c -1.64501,0 -3,1.355 -3,3 v 40 c 0,0.55229 0.44772,1 1,1 0.55229,0 1,-0.44771 1,-1 v -40 c 0,-0.56413 0.43587,-1 1,-1 h 45 c 0.56413,0 1,0.43587 1,1 v 3 h -42 c -0.55228,0 -1,0.44772 -1,1 0,0.55229 0.44772,1 1,1 h 42 v 37 c 0,0.56413 -0.43587,1 -1,1 h -49 c -0.55228,0 -1,0.44772 -1,1 0,0.55229 0.44772,1 1,1 h 49 c 1.64501,0 3,-1.35499 3,-3 0,-14 0,-28 0,-42 0,-1.645 -1.35499,-3 -3,-3 z" id="path61156" style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 54.999992,587 c -0.55228,0 -1,0.44772 -1,1 0,0.55229 0.44772,1 1,1 0.55229,0 1,-0.44771 1,-1 0,-0.55228 -0.44771,-1 -1,-1 z" id="path61158" style="color:#000000;fill:#ed7161;fill-opacity:1;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1;-inkscape-stroke:none"></path> <path d="m 50.999992,587 c -0.55228,0 -1,0.44772 -1,1 0,0.55229 0.44772,1 1,1 0.55229,0 1,-0.44771 1,-1 0,-0.55228 -0.44771,-1 -1,-1 z" id="path61160" style="color:#000000;fill:#ecba16;fill-opacity:1;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1;-inkscape-stroke:none"></path> <path d="m 46.999992,587 c -0.55228,0 -1,0.44772 -1,1 0,0.55229 0.44772,1 1,1 0.55229,0 1,-0.44771 1,-1 0,-0.55228 -0.44771,-1 -1,-1 z" id="path61162" style="color:#000000;fill:#42b05c;fill-opacity:1;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1;-inkscape-stroke:none"></path> <path d="m 4.999992,630 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z" id="path61164" style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1;-inkscape-stroke:none"></path> <path d="m 12.999992,590 c -0.55228,0 -1,0.44772 -1,1 0,0.55229 0.44772,1 1,1 0.55229,0 1,-0.44771 1,-1 0,-0.55228 -0.44771,-1 -1,-1 z" id="path61166" style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1;-inkscape-stroke:none"></path> <path d="m 19.714314,625 c 0,-2.76143 1.854822,-5 4.142852,-5 C 26.145197,620 28,622.23857 28,625 Z" id="path2154-6-8" style="fill:#ffa221;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 23.857422,620 c -2.288028,0 -4.142578,2.23857 -4.142578,5 h 3.755859 a 4.6546698,8.5063829 0 0 0 0.896485,-4.96094 C 24.200019,620.01429 24.030139,620 23.857422,620 Z" id="ellipse41890" style="fill:#ffc343;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="M 26.342869,617.50001 A 2.4857024,2.4999882 0 0 1 23.857166,620 a 2.4857024,2.4999882 0 0 1 -2.485702,-2.49999 2.4857024,2.4999882 0 0 1 2.485702,-2.49999 2.4857024,2.4999882 0 0 1 2.485703,2.49999 z" id="path2152-3-1" style="fill:#ffa221;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 23.490234,615.02734 a 2.4857024,2.4999882 0 0 0 -2.11914,2.47266 2.4857024,2.4999882 0 0 0 2.486328,2.5 2.4857024,2.4999882 0 0 0 0.511719,-0.0547 4.6546698,8.5063829 0 0 0 -0.878907,-4.91797 z" id="ellipse41896" style="fill:#ffc343;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 41.714314,625 c 0,-2.76143 1.854821,-5 4.142851,-5 C 48.145196,620 50,622.23857 50,625 Z" id="path2154-6-7" style="fill:#fe73c5;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 45.857422,620 c -2.288028,0 -4.142578,2.23857 -4.142578,5 h 4.367187 a 4.6546698,8.5063829 0 0 0 0.535157,-3.91992 4.6546698,8.5063829 0 0 0 -0.03516,-1.00196 C 46.346416,620.02789 46.104981,620 45.857422,620 Z" id="ellipse41892" style="fill:#fe93d3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="M 48.342868,617.50001 A 2.4857024,2.4999882 0 0 1 45.857165,620 a 2.4857024,2.4999882 0 0 1 -2.485702,-2.49999 2.4857024,2.4999882 0 0 1 2.485702,-2.49999 2.4857024,2.4999882 0 0 1 2.485703,2.49999 z" id="path2152-3-2" style="fill:#fe73c5;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 45.257812,615.08008 a 2.4857024,2.4999882 0 0 0 -1.886718,2.41992 2.4857024,2.4999882 0 0 0 2.486328,2.5 2.4857024,2.4999882 0 0 0 0.71289,-0.10547 4.6546698,8.5063829 0 0 0 -1.3125,-4.81445 z" id="ellipse41904" style="fill:#fe93d3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 41.714314,607 c 0,-2.76143 1.854821,-5 4.142851,-5 C 48.145196,602 50,604.23857 50,607 Z" id="path2154-6-0" style="fill:#ffa221;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 45.857422,602 c -2.288028,0 -4.142578,2.23857 -4.142578,5 h 3.943359 a 4.6546698,8.5063829 0 0 0 0.710938,-4.49414 4.6546698,8.5063829 0 0 0 -0.0078,-0.46875 C 46.196098,602.01292 46.028061,602 45.857422,602 Z" id="path41872" style="fill:#ffc343;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="M 48.342868,599.50001 A 2.4857024,2.4999882 0 0 1 45.857165,602 a 2.4857024,2.4999882 0 0 1 -2.485702,-2.49999 2.4857024,2.4999882 0 0 1 2.485702,-2.49999 2.4857024,2.4999882 0 0 1 2.485703,2.49999 z" id="path2152-3-6" style="fill:#ffa221;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 45.292969,597.07227 a 2.4857024,2.4999882 0 0 0 -1.921875,2.42773 2.4857024,2.4999882 0 0 0 2.486328,2.5 2.4857024,2.4999882 0 0 0 0.5,-0.0527 4.6546698,8.5063829 0 0 0 -1.064453,-4.875 z" id="path41884" style="fill:#ffc343;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 19.714314,606.99998 c 0,-2.76142 1.854821,-5 4.142851,-5 2.288031,0 4.142835,2.23858 4.142835,5 z" id="path2154-6" style="fill:#fe73c5;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 23.857422,602 c -2.288028,0 -4.142578,2.23858 -4.142578,5 h 3.755859 a 4.6546698,8.5063829 0 0 0 0.896485,-4.96094 C 24.200019,602.01429 24.030139,602 23.857422,602 Z" id="path41876" style="fill:#fe93d3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 26.342868,599.49999 a 2.4857024,2.4999882 0 0 1 -2.485703,2.49999 2.4857024,2.4999882 0 0 1 -2.485702,-2.49999 2.4857024,2.4999882 0 0 1 2.485702,-2.49998 2.4857024,2.4999882 0 0 1 2.485703,2.49998 z" id="path2152-3" style="fill:#fe73c5;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 23.490234,597.02734 a 2.4857024,2.4999882 0 0 0 -2.11914,2.47266 2.4857024,2.4999882 0 0 0 2.486328,2.5 2.4857024,2.4999882 0 0 0 0.511719,-0.0547 4.6546698,8.5063829 0 0 0 -0.878907,-4.91797 z" id="path41874" style="fill:#fe93d3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 34,594 a 1,1 0 0 0 -1,1 v 15 H 17.5 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 H 33 v 16 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 v -16 h 4.900391 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 H 35 v -15 a 1,1 0 0 0 -1,-1 z m 9.796875,16 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 H 50.5 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z" id="path33737" style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 17.357157,596 c -0.55228,0 -1,0.44771 -1,1 0,0.55228 0.44772,1 1,1 0.55229,0 1,-0.44772 1,-1 0,-0.55229 -0.44771,-1 -1,-1 z" id="path33741" style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1;-inkscape-stroke:none"></path> <path d="m 23.857422,596 c -1.916353,0 -3.486322,1.58195 -3.486328,3.5 -1e-6,0.88522 0.334286,1.69879 0.882812,2.31836 -1.544444,1.05882 -2.539062,3.02524 -2.539062,5.18164 a 1.000105,1.000105 0 0 0 1,1 h 2.65625 a 1.000005,1.000005 0 0 0 1,-1 1.000005,1.000005 0 0 0 -1,-1 h -1.494141 c 0.36871,-1.76544 1.600039,-3 2.980469,-3 1.3804,0 2.609778,1.23462 2.978516,3 h -0.501954 a 1.000005,1.000005 0 0 0 -1,1 1.000005,1.000005 0 0 0 1,1 H 28 a 1.000105,1.000105 0 0 0 1,-1 c 0,-2.1564 -0.994619,-4.12282 -2.539062,-5.18164 0.548525,-0.61957 0.882812,-1.43314 0.882812,-2.31836 -6e-6,-1.91805 -1.569974,-3.5 -3.486328,-3.5 z m 0,2 c 0.829266,0 1.486325,0.65665 1.486328,1.5 1e-6,0.84335 -0.65706,1.5 -1.486328,1.5 -0.829268,0 -1.486329,-0.65665 -1.486328,-1.5 3e-6,-0.84335 0.657062,-1.5 1.486328,-1.5 z" id="path6938" style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 39.357157,614.00001 c -0.55228,0 -1,0.44772 -1,1 0,0.55228 0.44772,1 1,1 0.55229,0 1,-0.44772 1,-1 0,-0.55228 -0.44771,-1 -1,-1 z" id="path33741-0" style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1;-inkscape-stroke:none"></path> <path d="m 45.857422,614 c -1.916359,0 -3.48633,1.58194 -3.486328,3.5 -10e-7,0.88522 0.334286,1.69879 0.882812,2.31836 -1.544444,1.05882 -2.539062,3.02524 -2.539062,5.18164 a 1.000105,1.000105 0 0 0 1,1 h 2.65625 a 1.000005,1.000005 0 0 0 1,-1 1.000005,1.000005 0 0 0 -1,-1 h -1.494141 c 0.36871,-1.76545 1.600036,-3 2.980469,-3 1.380403,0 2.609779,1.23461 2.978516,3 h -0.501954 a 1.000005,1.000005 0 0 0 -1,1 1.000005,1.000005 0 0 0 1,1 H 50 a 1.000105,1.000105 0 0 0 1,-1 c 0,-2.1564 -0.994619,-4.12282 -2.539062,-5.18164 0.548525,-0.61957 0.882812,-1.43314 0.882812,-2.31836 10e-7,-1.91806 -1.569969,-3.5 -3.486328,-3.5 z m 0,2 c 0.829268,0 1.486329,0.65665 1.486328,1.5 10e-7,0.84335 -0.65706,1.5 -1.486328,1.5 -0.829268,0 -1.486329,-0.65665 -1.486328,-1.5 -10e-7,-0.84335 0.65706,-1.5 1.486328,-1.5 z" id="path6938-9" style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 39.357157,596.00001 c -0.55228,0 -1,0.44772 -1,1 0,0.55228 0.44772,1 1,1 0.55229,0 1,-0.44772 1,-1 0,-0.55228 -0.44771,-1 -1,-1 z" id="path33741-6" style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 45.857422,596 c -1.916359,0 -3.48633,1.58194 -3.486328,3.5 -10e-7,0.88522 0.334286,1.69879 0.882812,2.31836 -1.544444,1.05882 -2.539062,3.02524 -2.539062,5.18164 a 1.000105,1.000105 0 0 0 1,1 h 2.65625 a 1.000005,1.000005 0 0 0 1,-1 1.000005,1.000005 0 0 0 -1,-1 h -1.494141 c 0.36871,-1.76545 1.600036,-3 2.980469,-3 1.380403,0 2.609779,1.23461 2.978516,3 h -0.501954 a 1.000005,1.000005 0 0 0 -1,1 1.000005,1.000005 0 0 0 1,1 H 50 a 1.000105,1.000105 0 0 0 1,-1 c 0,-2.1564 -0.994619,-4.12282 -2.539062,-5.18164 0.548525,-0.61957 0.882812,-1.43314 0.882812,-2.31836 10e-7,-1.91806 -1.569969,-3.5 -3.486328,-3.5 z m 0,2 c 0.829268,0 1.486329,0.65665 1.486328,1.5 10e-7,0.84335 -0.65706,1.5 -1.486328,1.5 -0.829268,0 -1.486329,-0.65665 -1.486328,-1.5 -10e-7,-0.84335 0.65706,-1.5 1.486328,-1.5 z" id="path6938-2" style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 17.357157,614.00001 c -0.55228,0 -1,0.44772 -1,1 0,0.55228 0.44772,1 1,1 0.55229,0 1,-0.44772 1,-1 0,-0.55228 -0.44771,-1 -1,-1 z" id="path33741-7" style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 23.857422,614 c -1.916359,0 -3.48633,1.58194 -3.486328,3.5 -1e-6,0.88522 0.334286,1.69879 0.882812,2.31836 -1.544444,1.05882 -2.539062,3.02524 -2.539062,5.18164 a 1.000105,1.000105 0 0 0 1,1 h 2.65625 a 1.000005,1.000005 0 0 0 1,-1 1.000005,1.000005 0 0 0 -1,-1 h -1.494141 c 0.36871,-1.76545 1.600036,-3 2.980469,-3 1.380403,0 2.609779,1.23461 2.978516,3 h -0.501954 a 1.000005,1.000005 0 0 0 -1,1 1.000005,1.000005 0 0 0 1,1 H 28 a 1.000105,1.000105 0 0 0 1,-1 c 0,-2.1564 -0.994619,-4.12282 -2.539062,-5.18164 0.548525,-0.61957 0.882812,-1.43314 0.882812,-2.31836 1e-6,-1.91806 -1.569969,-3.5 -3.486328,-3.5 z m 0,2 c 0.829268,0 1.486329,0.65665 1.486328,1.5 1e-6,0.84335 -0.65706,1.5 -1.486328,1.5 -0.829268,0 -1.486329,-0.65665 -1.486328,-1.5 -1e-6,-0.84335 0.65706,-1.5 1.486328,-1.5 z" id="path6938-92" style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> </g> </g></svg>   
     </div>
     <p class="mb-4 mt-4 text-xl font-bold">PUBLIC GROUP</p>
-    <p class="text-muted dark:text-neutral-300">
+    <p class="text-neutral-500 dark:text-neutral-300">
       Pending interest I will open group chat for Practice Group. I am continuosly learning.
     </p>
   </div>
-  <div class="md:mb-0 bg-neutral dark:bg-neutral-900 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl text-center">
+  <div class="md:mb-0 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl text-center">
     <div class="flex justify-center items-center">
     <svg height="64px" width="64px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <circle style="fill:#1B4145;" cx="312.889" cy="125.156" r="62.578"></circle> <path style="fill:#1B4145;" d="M312.889,221.867c-69.121,0-125.156,56.034-125.156,125.156h250.311 C438.044,277.901,382.01,221.867,312.889,221.867z"></path> </g> <g> <circle style="fill:#609399;" cx="125.156" cy="125.156" r="62.578"></circle> <path style="fill:#609399;" d="M125.156,221.867C56.034,221.867,0,277.901,0,347.022h250.311 C250.311,277.901,194.277,221.867,125.156,221.867z"></path> </g> <circle style="fill:#F14742;" cx="438.044" cy="375.467" r="73.956"></circle> <path style="fill:#FFFFFF;" d="M466.489,366.933h-19.911v-19.911c0-4.714-3.821-8.533-8.533-8.533s-8.533,3.82-8.533,8.533v19.911 H409.6c-4.713,0-8.533,3.82-8.533,8.533S404.887,384,409.6,384h19.911v19.911c0,4.714,3.821,8.533,8.533,8.533 s8.533-3.82,8.533-8.533V384h19.911c4.713,0,8.533-3.82,8.533-8.533S471.202,366.933,466.489,366.933z"></path> </g></svg>
     </div>
     <p class="mb-4 mt-4 text-xl font-bold">Private sessions</p>
-    <p class="text-muted dark:text-neutral-300">
+    <p class="text-neutral-500 dark:text-neutral-300">
       I need to know the result after the event. I am not taking any more clients. Unless...
     </p>
   </div>
 </div>
 <div class="mt-10 flex justify-center">
-  <a href="https://eventbrite.com" title="eventbrite" class="bg-neutral dark:bg-neutral-900 hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full shadow-lg">
+  <a href="https://eventbrite.com" title="eventbrite" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
       Eventbrite
     </a>
         <span class="mr-2"></span>
-   <a href="https://events.com" title="events" class="bg-neutral dark:bg-neutral-900 hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full shadow-lg">
+   <a href="https://events.com" title="events" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
       Events
     </a>
 </div>
@@ -347,7 +346,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
   <section class="mx-auto max-w-2xl">
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Bio</p>
-<h2 class="mb-4 text-4xl font-extrabold uppercase">
+<h2 class="mb-4 text-4xl font-extrabold">
   COMMITTED TO MAKING A DIFFERENCE
 </h2>
 <p class="text-xl text-muted">
@@ -355,7 +354,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 </p>
 </div>
 <div class="max-w-2xl mx-auto flex author">
-<svg fill="#000000" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200px" height="200px" viewBox="-3.29 -3.29 39.51 39.51" xml:space="preserve" transform="matrix(-1, 0, 0, 1, 0, 0)"><g id="SVGRepo_bgCarrier" stroke-width="0"><rect x="-3.29" y="-3.29" width="39.51" height="39.51" rx="19.755" fill="#BFDBFE" strokewidth="0"></rect></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <g> <path d="M32.837,11.538c-0.448-2.207-0.164-6.827-7.803-8.045c-6.435-1.028-12.312,1.57-12.979,7.474 c-0.262,0.048-0.575,0.103-0.771,0.165c-1.491,0.466-1.272,0.888-0.861,1.472c0.411,0.584,1.102,0.627,1.102,0.627 s-0.905,0.087-1.47-0.346c-0.021,0-0.042,0-0.062,0v-0.464H8.639v0.464c-0.036,0-0.058,0-0.058,0s-0.118,0.205-0.118,0.379 c0,0.173-0.012,0.897-0.012,0.897s0.012,0.497,0.367,0.497c0.146,0,1.218,0.1,3.401,0.119c-0.188,1.546-3.012,3.81-2.3,4.593 c0.736,0.811,1.987,0.841,1.987,0.841s-0.812,1.544-0.448,1.972c0.366,0.429,1.382,0.243,1.382,0.243s-0.942,0.681-0.942,1.208 s1.596,1.229,1.596,1.229s-0.294,2.923,2.102,2.721c2.394-0.202,2.796-0.878,2.796-0.878l0.709,2.952h9.266l-0.325-6.42 C28.041,23.24,33.729,17.062,32.837,11.538z M8.651,14.31c-0.047,0-0.086-0.201-0.086-0.446c0-0.246,0.039-0.446,0.086-0.446 c0.048,0,0.085,0.2,0.085,0.446C8.736,14.109,8.699,14.31,8.651,14.31z M9.86,12.884c-0.465,0-0.868,0-1.091,0v-0.333H9.86V12.884 z M24.85,15.559c-0.052,0.188-0.098,0.358-0.133,0.509c-0.266,1.092-1.812,1.172-2.265,1.172c-0.065,0-0.108-0.002-0.12-0.002 c-0.113-0.007-0.201-0.104-0.195-0.218c0.006-0.112,0.106-0.192,0.215-0.195c0.021,0.002,1.74,0.067,1.965-0.854 c0.037-0.155,0.084-0.33,0.137-0.52c0.287-1.062,0.721-2.664-0.047-2.915c-0.569-0.185-1.28-0.063-1.771,0.3 C22.28,13.1,22.09,13.457,22.1,13.845c0.004,0.114-0.088,0.208-0.201,0.211c-0.002,0-0.002,0-0.004,0 c-0.111,0-0.205-0.09-0.207-0.201c-0.004-0.193,0.039-0.378,0.104-0.555c-1.001-0.003-1.989-0.006-2.258-0.006 c0.304,0.075,0.418,0.274,0.429,0.502c0.182,0.068,0.317,0.161,0.385,0.294c0.143,0.282-0.004,0.631-0.156,0.999 c-0.213,0.517-0.436,1.05,0.017,1.481c0.14,0.135,0.254,0.193,0.343,0.179c0.178-0.029,0.346-0.349,0.521-0.686 c0.289-0.549,0.648-1.219,1.363-1.265c-0.004-0.288,0.145-0.527,0.352-0.543c0.005,0,0.009,0.004,0.016,0.003 c0.092-0.195,0.234-0.336,0.418-0.35c0.313-0.023,0.596,0.314,0.627,0.76c0.033,0.439-0.193,0.817-0.51,0.843 c-0.142,0.011-0.271-0.061-0.379-0.172c-0.029,0.012-0.059,0.029-0.09,0.032c-0.156,0.012-0.301-0.11-0.376-0.291 c-0.58,0.014-0.892,0.598-1.165,1.116c-0.223,0.421-0.413,0.781-0.732,0.834c-0.023,0.004-0.05,0.006-0.072,0.006 c-0.164,0-0.332-0.085-0.514-0.262c-0.593-0.567-0.312-1.252-0.082-1.801c0.127-0.307,0.246-0.597,0.164-0.76 c-0.025-0.053-0.086-0.095-0.16-0.133c-0.107,0.351-0.399,0.679-0.664,0.679c-0.299,0-3.941-0.036-7.021-0.066 c-0.001,0.012-0.005,0.021-0.006,0.031c-0.003-0.043-0.008-0.094-0.008-0.109c-0.146-0.719-0.226-1.41-0.251-2.08 c-0.83-0.017-1.415-0.036-1.588-0.057c0.896,0.104,0.571-0.76,0.519-0.731c0.161-0.083,0.469-0.214,1.104-0.335 c-0.021,0.364-0.034,0.736-0.02,1.127c2.828,0.06,8.288,0.104,10.229,0.119c0.057-0.053,0.104-0.107,0.17-0.155 c0.604-0.446,1.441-0.588,2.146-0.359c0.304,0.099,0.483,0.305,0.591,0.568c2.465,0.057,6.178,0.144,6.438,0.169 c0.391,0.038,0.475,0.26,0.479,0.562c0.002,0.305-0.164,1.441-0.238,1.688c-0.074,0.247-0.074,0.476-0.434,0.476 c-0.355,0-1.814,0-2.965,0c-1.443,0-2.381-0.929-3.2-1.605C25.125,14.535,24.977,15.092,24.85,15.559z"></path> <path d="M2.591,9.252l-0.44-0.459C0.764,10.125,0,11.909,0,13.819c0,1.91,0.767,3.693,2.151,5.024l0.438-0.456 c-1.262-1.21-1.957-2.833-1.957-4.568C0.634,12.084,1.33,10.461,2.591,9.252z"></path> <path d="M3.478,10.142L3.042,9.683c-1.145,1.087-1.773,2.557-1.773,4.136c0,1.58,0.632,3.051,1.776,4.138l0.437-0.46 c-1.019-0.968-1.579-2.272-1.579-3.678C1.901,12.415,2.462,11.109,3.478,10.142z"></path> <path d="M4.375,11.042L3.94,10.579c-0.894,0.835-1.405,2.016-1.405,3.24c0,1.227,0.514,2.406,1.407,3.243l0.434-0.464 C3.608,15.882,3.17,14.87,3.17,13.82C3.17,12.754,3.597,11.767,4.375,11.042z"></path> <path d="M5.754,12.359c-0.436,0.363-0.685,0.896-0.685,1.46c0,0.565,0.248,1.098,0.683,1.458l0.407-0.484 C5.58,14.307,5.58,13.33,6.16,12.846L5.754,12.359z"></path> <path d="M5.268,11.94l-0.427-0.469c-0.66,0.6-1.039,1.455-1.039,2.348c0,0.895,0.381,1.748,1.04,2.35l0.427-0.47 c-0.528-0.479-0.833-1.165-0.833-1.88C4.436,13.104,4.74,12.421,5.268,11.94z"></path> <circle cx="7.145" cy="13.79" r="0.73"></circle> </g> </g> </g></svg>
+<svg fill="#000000" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128px" height="128px" viewBox="-3.29 -3.29 39.51 39.51" xml:space="preserve" transform="matrix(-1, 0, 0, 1, 0, 0)"><g id="SVGRepo_bgCarrier" stroke-width="0"><rect x="-3.29" y="-3.29" width="39.51" height="39.51" rx="19.755" fill="#BFDBFE" strokewidth="0"></rect></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <g> <path d="M32.837,11.538c-0.448-2.207-0.164-6.827-7.803-8.045c-6.435-1.028-12.312,1.57-12.979,7.474 c-0.262,0.048-0.575,0.103-0.771,0.165c-1.491,0.466-1.272,0.888-0.861,1.472c0.411,0.584,1.102,0.627,1.102,0.627 s-0.905,0.087-1.47-0.346c-0.021,0-0.042,0-0.062,0v-0.464H8.639v0.464c-0.036,0-0.058,0-0.058,0s-0.118,0.205-0.118,0.379 c0,0.173-0.012,0.897-0.012,0.897s0.012,0.497,0.367,0.497c0.146,0,1.218,0.1,3.401,0.119c-0.188,1.546-3.012,3.81-2.3,4.593 c0.736,0.811,1.987,0.841,1.987,0.841s-0.812,1.544-0.448,1.972c0.366,0.429,1.382,0.243,1.382,0.243s-0.942,0.681-0.942,1.208 s1.596,1.229,1.596,1.229s-0.294,2.923,2.102,2.721c2.394-0.202,2.796-0.878,2.796-0.878l0.709,2.952h9.266l-0.325-6.42 C28.041,23.24,33.729,17.062,32.837,11.538z M8.651,14.31c-0.047,0-0.086-0.201-0.086-0.446c0-0.246,0.039-0.446,0.086-0.446 c0.048,0,0.085,0.2,0.085,0.446C8.736,14.109,8.699,14.31,8.651,14.31z M9.86,12.884c-0.465,0-0.868,0-1.091,0v-0.333H9.86V12.884 z M24.85,15.559c-0.052,0.188-0.098,0.358-0.133,0.509c-0.266,1.092-1.812,1.172-2.265,1.172c-0.065,0-0.108-0.002-0.12-0.002 c-0.113-0.007-0.201-0.104-0.195-0.218c0.006-0.112,0.106-0.192,0.215-0.195c0.021,0.002,1.74,0.067,1.965-0.854 c0.037-0.155,0.084-0.33,0.137-0.52c0.287-1.062,0.721-2.664-0.047-2.915c-0.569-0.185-1.28-0.063-1.771,0.3 C22.28,13.1,22.09,13.457,22.1,13.845c0.004,0.114-0.088,0.208-0.201,0.211c-0.002,0-0.002,0-0.004,0 c-0.111,0-0.205-0.09-0.207-0.201c-0.004-0.193,0.039-0.378,0.104-0.555c-1.001-0.003-1.989-0.006-2.258-0.006 c0.304,0.075,0.418,0.274,0.429,0.502c0.182,0.068,0.317,0.161,0.385,0.294c0.143,0.282-0.004,0.631-0.156,0.999 c-0.213,0.517-0.436,1.05,0.017,1.481c0.14,0.135,0.254,0.193,0.343,0.179c0.178-0.029,0.346-0.349,0.521-0.686 c0.289-0.549,0.648-1.219,1.363-1.265c-0.004-0.288,0.145-0.527,0.352-0.543c0.005,0,0.009,0.004,0.016,0.003 c0.092-0.195,0.234-0.336,0.418-0.35c0.313-0.023,0.596,0.314,0.627,0.76c0.033,0.439-0.193,0.817-0.51,0.843 c-0.142,0.011-0.271-0.061-0.379-0.172c-0.029,0.012-0.059,0.029-0.09,0.032c-0.156,0.012-0.301-0.11-0.376-0.291 c-0.58,0.014-0.892,0.598-1.165,1.116c-0.223,0.421-0.413,0.781-0.732,0.834c-0.023,0.004-0.05,0.006-0.072,0.006 c-0.164,0-0.332-0.085-0.514-0.262c-0.593-0.567-0.312-1.252-0.082-1.801c0.127-0.307,0.246-0.597,0.164-0.76 c-0.025-0.053-0.086-0.095-0.16-0.133c-0.107,0.351-0.399,0.679-0.664,0.679c-0.299,0-3.941-0.036-7.021-0.066 c-0.001,0.012-0.005,0.021-0.006,0.031c-0.003-0.043-0.008-0.094-0.008-0.109c-0.146-0.719-0.226-1.41-0.251-2.08 c-0.83-0.017-1.415-0.036-1.588-0.057c0.896,0.104,0.571-0.76,0.519-0.731c0.161-0.083,0.469-0.214,1.104-0.335 c-0.021,0.364-0.034,0.736-0.02,1.127c2.828,0.06,8.288,0.104,10.229,0.119c0.057-0.053,0.104-0.107,0.17-0.155 c0.604-0.446,1.441-0.588,2.146-0.359c0.304,0.099,0.483,0.305,0.591,0.568c2.465,0.057,6.178,0.144,6.438,0.169 c0.391,0.038,0.475,0.26,0.479,0.562c0.002,0.305-0.164,1.441-0.238,1.688c-0.074,0.247-0.074,0.476-0.434,0.476 c-0.355,0-1.814,0-2.965,0c-1.443,0-2.381-0.929-3.2-1.605C25.125,14.535,24.977,15.092,24.85,15.559z"></path> <path d="M2.591,9.252l-0.44-0.459C0.764,10.125,0,11.909,0,13.819c0,1.91,0.767,3.693,2.151,5.024l0.438-0.456 c-1.262-1.21-1.957-2.833-1.957-4.568C0.634,12.084,1.33,10.461,2.591,9.252z"></path> <path d="M3.478,10.142L3.042,9.683c-1.145,1.087-1.773,2.557-1.773,4.136c0,1.58,0.632,3.051,1.776,4.138l0.437-0.46 c-1.019-0.968-1.579-2.272-1.579-3.678C1.901,12.415,2.462,11.109,3.478,10.142z"></path> <path d="M4.375,11.042L3.94,10.579c-0.894,0.835-1.405,2.016-1.405,3.24c0,1.227,0.514,2.406,1.407,3.243l0.434-0.464 C3.608,15.882,3.17,14.87,3.17,13.82C3.17,12.754,3.597,11.767,4.375,11.042z"></path> <path d="M5.754,12.359c-0.436,0.363-0.685,0.896-0.685,1.46c0,0.565,0.248,1.098,0.683,1.458l0.407-0.484 C5.58,14.307,5.58,13.33,6.16,12.846L5.754,12.359z"></path> <path d="M5.268,11.94l-0.427-0.469c-0.66,0.6-1.039,1.455-1.039,2.348c0,0.895,0.381,1.748,1.04,2.35l0.427-0.47 c-0.528-0.479-0.833-1.165-0.833-1.88C4.436,13.104,4.74,12.421,5.268,11.94z"></path> <circle cx="7.145" cy="13.79" r="0.73"></circle> </g> </g> </g></svg>
   <div class="place-self-center ml-6">
     <div class="text-sm text-neutral-500 dark:text-neutral-300">
       Researcher of the Structure of Subjective Experience. He strive to gain a deeper understanding of how people experience the world through their own consciousness and subconsciousness. He study the inner worlds of thoughts, feelings, and sensations that shape our perceptions, behaviors and choices.
@@ -363,7 +362,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
   </div>
 </div>
   <div class="mt-10 flex justify-center">
-  <a href="https://bio.com" title="bio" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full shadow-lg">
+  <a href="https://bio.com" title="bio" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
       See full bio
     </a>
   </div>
@@ -371,7 +370,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
   </div>    
 <!-- /Bio -->
 <!-- Toolbox -->
-<div class="relative mt-20 w-screen max-w-[1600px] px-[30px] bg-primary-200 dark:bg-neutral-900 py-10" style="left: calc(max(-50vw,-800px) + 50%);">
+<div class="relative mt-20 w-screen max-w-[1600px] px-[30px]" style="left: calc(max(-50vw,-800px) + 50%);">
   <section>
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Toolbox</p>
@@ -383,51 +382,51 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 </p>
 </div>
 <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
-  <div class="md:mb-0 bg-neutral dark:bg-neutral-900 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-xl">
+  <div class="md:mb-0 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-xl">
     <svg height="64px" width="64px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-51.2 -51.2 614.39 614.39" xml:space="preserve" fill="#000000" transform="rotate(0)matrix(1, 0, 0, 1, 0, 0)"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <circle style="fill:#E84F4F;" cx="255.997" cy="255.997" r="255.997"></circle> <path style="fill:#C94545;" d="M283.902,510.581L154.168,388.729v-265.3h9.458l55.172,59.744v-59.744h9.458l55.33,59.113v-59.113 h9.301l55.488,59.113l-0.158-59.113h9.616l153.695,149.596c-8.197,124.216-104.827,224.158-227.468,237.556H283.902z"></path> <path style="fill:#FFD630;" d="M163.783,123.429v265.3h-9.458v-265.3H163.783z"></path> <path style="fill:#EBECEC;" d="M146.128,303.291h25.852c5.99,0,10.877,4.887,10.877,10.877v18.601 c0,5.99-4.887,10.877-10.877,10.877h-25.852c-5.99,0-10.877-4.887-10.877-10.877v-18.601 C135.251,308.178,140.138,303.291,146.128,303.291z"></path> <path style="fill:#FFD630;" d="M228.414,123.429v265.3h-9.458v-265.3H228.414z"></path> <path style="fill:#EBECEC;" d="M210.759,233.616h25.852c5.99,0,10.877,4.887,10.877,10.877v18.601 c0,5.99-4.887,10.877-10.877,10.877h-25.852c-5.99,0-10.877-4.887-10.877-10.877v-18.601 C199.882,238.503,204.768,233.616,210.759,233.616z"></path> <path style="fill:#FFD630;" d="M293.044,123.429v265.3h-9.458v-265.3H293.044z"></path> <path style="fill:#EBECEC;" d="M275.547,300.611h25.852c5.99,0,10.877,4.887,10.877,10.877v18.601 c0,5.99-4.887,10.877-10.877,10.877h-25.852c-5.99,0-10.877-4.887-10.877-10.877v-18.601 C264.67,305.498,269.557,300.611,275.547,300.611z"></path> <path style="fill:#FFD630;" d="M357.832,123.429v265.3h-9.458v-265.3H357.832z"></path> <path style="fill:#EBECEC;" d="M340.177,182.384h25.852c5.99,0,10.877,4.887,10.877,10.877v18.601 c0,5.99-4.887,10.877-10.877,10.877h-25.852c-5.99,0-10.877-4.887-10.877-10.877v-18.601 C329.301,187.271,334.188,182.384,340.177,182.384z"></path> <g> <path style="fill:#727271;" d="M152.276,312.591h13.556c3.153,0,5.674,0.788,5.674,1.891v3.153c0,0.946-2.523,1.891-5.674,1.891 h-13.556c-3.153,0-5.674-0.788-5.674-1.891v-3.153C146.601,313.537,149.123,312.591,152.276,312.591z M152.276,327.251h13.556 c3.153,0,5.674,0.788,5.674,1.891v3.153c0,0.946-2.523,1.891-5.674,1.891h-13.556c-3.153,0-5.674-0.788-5.674-1.891v-3.153 C146.601,328.197,149.123,327.251,152.276,327.251z"></path> <path style="fill:#727271;" d="M216.906,243.074h13.556c3.153,0,5.674,0.788,5.674,1.891v3.153c0,0.946-2.523,1.891-5.674,1.891 h-13.556c-3.153,0-5.674-0.788-5.674-1.891v-3.153C211.232,244.02,213.753,243.074,216.906,243.074z M216.906,257.734h13.556 c3.153,0,5.674,0.788,5.674,1.891v3.153c0,0.946-2.523,1.891-5.674,1.891h-13.556c-3.153,0-5.674-0.788-5.674-1.891v-3.153 C211.232,258.68,213.753,257.734,216.906,257.734z"></path> <path style="fill:#727271;" d="M281.694,309.912h13.556c3.153,0,5.674,0.788,5.674,1.891v3.153c0,0.946-2.523,1.891-5.674,1.891 h-13.556c-3.153,0-5.674-0.788-5.674-1.891v-3.153C276.02,310.857,278.541,309.912,281.694,309.912z M281.694,324.572h13.556 c3.153,0,5.674,0.788,5.674,1.891v3.153c0,0.946-2.523,1.891-5.674,1.891h-13.556c-3.153,0-5.674-0.788-5.674-1.891v-3.153 C276.02,325.517,278.541,324.572,281.694,324.572z"></path> <path style="fill:#727271;" d="M346.325,191.842h13.556c3.153,0,5.674,0.788,5.674,1.891v3.153c0,0.946-2.523,1.891-5.674,1.891 h-13.556c-3.153,0-5.674-0.788-5.674-1.891v-3.153C340.651,192.789,343.172,191.842,346.325,191.842z M346.325,206.502h13.556 c3.153,0,5.674,0.788,5.674,1.891v3.153c0,0.946-2.523,1.891-5.674,1.891h-13.556c-3.153,0-5.674-0.788-5.674-1.891v-3.153 C340.651,207.449,343.172,206.502,346.325,206.502z"></path> </g> </g></svg>
     <p class="mb-4 mt-4 text-xl font-bold">Submodalities</p>
-    <p class="text-muted dark:text-neutral-300">
+    <p class="text-neutral-500 dark:text-neutral-300">
       How do I encode in my mind the experience of the events? Small details which makes the big differences.
     </p>
   </div>
-  <div class="md:mb-0 bg-neutral dark:bg-neutral-900 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-xl">
+  <div class="md:mb-0 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-xl">
       <svg width="64px" height="64px" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--noto" preserveAspectRatio="xMidYMid meet" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M111.42 113.34H16.58a4.88 4.88 0 0 1-4.88-4.88V42.03c0-7.27 5.65-13.16 12.62-13.16h79.37c6.97 0 12.62 5.89 12.62 13.16V108.46c0 2.7-2.19 4.88-4.89 4.88z" fill="#fafafa" stroke="#bdbdbd" stroke-width="3" stroke-miterlimit="10"> </path> <path d="M112.11 4h-4.8c-1 0-1.81.81-1.81 1.81V9.9c0 .67.38 1.25.95 1.6c2.01 1.2 3.24 3.57 2.71 6.17c-.45 2.2-2.21 3.98-4.41 4.44a5.788 5.788 0 0 1-7.03-5.65c0-2.12 1.14-3.97 2.85-4.97c.57-.34.94-.92.94-1.58v-4.1c0-1-.81-1.81-1.81-1.81H28.27c-.98 0-1.77.79-1.77 1.77v4.16c0 .65.37 1.22.93 1.55a5.783 5.783 0 0 1 2.73 6.18c-.45 2.2-2.21 3.98-4.41 4.44a5.788 5.788 0 0 1-7.03-5.65c0-2.13 1.16-3.98 2.87-4.99c.55-.32.91-.9.91-1.54V5.77c0-.98-.79-1.77-1.77-1.77h-4.85a5.75 5.75 0 0 0-5.75 5.75v37.52H117.7l.16-37.49A5.745 5.745 0 0 0 112.11 4z" fill="#f44336"> </path> <g fill="#ffffff"> <path d="M45.09 15.46h4.12V29.3c0 1.27-.28 2.4-.84 3.37s-1.36 1.73-2.38 2.26c-1.03.53-2.18.8-3.47.8c-2.11 0-3.76-.54-4.94-1.61c-1.18-1.07-1.77-2.6-1.77-4.56h4.15c0 .98.21 1.7.62 2.17c.41.47 1.06.7 1.95.7c.79 0 1.41-.27 1.88-.81s.7-1.31.7-2.31V15.46z"> </path> <path d="M61.37 33.94c-.98 1.19-2.33 1.78-4.06 1.78c-1.59 0-2.81-.46-3.64-1.37c-.84-.91-1.27-2.26-1.28-4.02V20.6h3.97v9.61c0 1.55.7 2.32 2.11 2.32c1.35 0 2.27-.47 2.77-1.4V20.6h3.98v14.85h-3.73l-.12-1.51z"> </path> <path d="M72.39 35.45h-3.98V14.37h3.98v21.08z"> </path> <path d="M81.2 29.83l2.75-9.24h4.26l-5.97 17.16l-.33.78c-.89 1.94-2.35 2.91-4.39 2.91c-.58 0-1.16-.09-1.76-.26v-3.01l.6.01c.75 0 1.31-.11 1.68-.34c.37-.23.66-.61.87-1.14l.47-1.22l-5.2-14.89h4.27l2.75 9.24z"> </path> </g> <path d="M53.22 102.31h-8.57V69.26l-10.24 3.17v-6.97l17.89-6.41h.92v43.26z" fill="#000000"> </path> <path d="M93.59 63.9l-16.7 38.41h-9.05l16.73-36.28H63.09v-6.91h30.5v4.78z" fill="#000000"> </path> </g></svg>
       <p class="mb-4 mt-4 text-xl font-bold">Timelines</p>
-    <p class="text-muted dark:text-neutral-300">
+    <p class="text-neutral-500 dark:text-neutral-300">
       How do I encode in my mind the past, present and future and what can I do to transform it or change it?
     </p>
   </div>
-  <div class="md:mb-0 bg-neutral dark:bg-neutral-900 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-xl">
+  <div class="md:mb-0 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-xl">
     <svg width="64px" height="64px" viewBox="0 0 14 14" role="img" focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path fill="#90caf9" d="M5.1230769 9.67458367h-.73846154V8.44381443H5.6153846l.12307692.46153847c.0923077.4-.21538461.76923077-.61538462.76923077zm6.03076928.92307693S7.52307692 8.44381443 5.6153846 8.44381443V4.13612209c1.7846154 0 5.53846158-2.15384617 5.53846158-2.15384617v8.61538468z"></path> <g fill="#283593" transform="translate(-.23076929 -.47926256) scale(.3077)"> <circle cx="9" cy="22" r="5"></circle> <path d="M40 19h-3v6h3c1.7 0 3-1.3 3-3s-1.3-3-3-3zM18.6 41.2c-.9.6-2.5 1.2-4.6 1.4-.6.1-1.2-.3-1.4-1L8.2 27.9S17 21.7 17 29c0 5.5 1.5 8.4 2.2 9.5.5.7.5 1.6 0 2.3-.2.2-.4.3-.6.4z"></path> </g> <path fill="#3f51b5" d="M2.5384615 8.44381443h3.0769231V4.13612209H2.5384615c-.33846154 0-.61538462.27692308-.61538462.61538462v3.0769231c0 .33846154.27692308.61538462.61538462.61538462z"></path> <path fill="#42a5f5" d="M11.46153849 11.21304522c-.33846154 0-.61538462-.27692308-.61538462-.61538462V1.98227592c0-.33846154.27692308-.61538462.61538462-.61538462.33846154 0 .61538462.27692308.61538462.61538462v8.61538468c0 .33846154-.27692308.61538462-.61538462.61538462z"></path> </g></svg>
     <p class="mb-4 mt-4 text-xl font-bold">Atention</p>
-    <p class="text-muted dark:text-neutral-300">
+    <p class="text-neutral-500 dark:text-neutral-300">
       What do I experience when I think about the event? What is my body response? Do I think about the past or future?
     </p>
   </div>
-  <div class="md:mb-0 bg-neutral dark:bg-neutral-900 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-xl">
+  <div class="md:mb-0 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-xl">
     <svg height="64px" width="64px" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <path style="fill:#74D6D0;" d="M256,452.121c-65.547,0-127.48-10.637-174.393-29.951C28.982,400.503,0,369.467,0,334.78 s28.982-65.723,81.607-87.389C128.52,228.076,190.454,217.438,256,217.438s127.482,10.637,174.393,29.952 C483.018,269.056,512,300.093,512,334.78s-28.982,65.723-81.607,87.391C383.482,441.483,321.546,452.121,256,452.121z M256,258.037 c-60.367,0-116.812,9.551-158.936,26.895c-35.357,14.556-56.466,33.191-56.466,49.848s21.108,35.292,56.466,49.848 c42.124,17.344,98.569,26.895,158.936,26.895c60.368,0,116.814-9.551,158.937-26.895c35.356-14.556,56.464-33.192,56.464-49.848 c0-16.658-21.108-35.292-56.464-49.848C372.812,267.588,316.368,258.037,256,258.037z"></path> <path style="fill:#74D6D0;" d="M256,386.257c-40.141,0-78.115-3.971-106.924-11.179c-14.251-3.566-57.621-14.418-57.621-45.216 c0-30.795,43.37-41.649,57.621-45.214c28.81-7.209,66.783-11.179,106.924-11.179c40.142,0,78.117,3.971,106.925,11.179 c14.251,3.566,57.62,14.418,57.62,45.214s-43.369,41.649-57.62,45.216C334.115,382.287,296.142,386.257,256,386.257z M140.284,329.863c17.978,7.216,57.964,15.795,115.716,15.795s97.739-8.58,115.718-15.795 c-17.978-7.216-57.965-15.796-115.718-15.796S158.262,322.648,140.284,329.863z"></path> </g> <g> <path style="fill:#CCF7F5;" d="M430.393,247.39C383.482,228.076,321.546,217.438,256,217.438v40.598 c60.368,0,116.812,9.551,158.937,26.895c35.356,14.557,56.464,33.192,56.464,49.848c0,16.658-21.108,35.292-56.464,49.848 c-42.124,17.344-98.569,26.895-158.937,26.895v40.598c65.546,0,127.482-10.637,174.393-29.951 C483.018,400.503,512,369.469,512,334.78S483.018,269.056,430.393,247.39z"></path> <path style="fill:#CCF7F5;" d="M362.925,284.649C334.117,277.44,296.142,273.47,256,273.47v40.598 c57.753,0,97.739,8.58,115.718,15.795c-17.978,7.216-57.965,15.796-115.718,15.796v40.598c40.142,0,78.117-3.97,106.925-11.179 c14.251-3.566,57.62-14.418,57.62-45.216C420.545,299.067,377.177,288.215,362.925,284.649z"></path> </g> <path style="fill:#74D6D0;" d="M256,332.896c-53.938,0-97.819-43.883-97.819-97.82c0-15.877,3.889-31.569,11.267-45.569 c0.361-0.907,0.789-1.793,1.286-2.654L238.18,70.03c3.627-6.282,10.327-10.151,17.579-10.151c7.252,0,13.954,3.869,17.579,10.15 l63.486,109.966c11.121,16.284,16.995,35.308,16.995,55.081C353.819,289.013,309.938,332.896,256,332.896z"></path> <path style="fill:#CCF7F5;" d="M256,332.896c-53.938,0-97.819-43.883-97.819-97.82c0-15.877,3.889-31.569,11.267-45.569 c0.361-0.907,0.789-1.793,1.286-2.654L238.18,70.03c3.627-6.282,10.327-10.151,17.579-10.151L256,332.896z"></path> </g></svg>     
     <p class="mb-4 mt-4 text-xl font-bold">Core Transformation</p>
-    <p class="text-muted dark:text-neutral-300">
+    <p class="text-neutral-500 dark:text-neutral-300">
       Compassionate and effective way for taking me to the core of who am I. Transforming and enriching my essence.
     </p>
   </div>
-  <div class="md:mb-0 bg-neutral dark:bg-neutral-900 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-xl">
+  <div class="md:mb-0 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-xl">
     <svg height="64px" width="64px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path style="fill:#88CC2A;" d="M329.111,414.169l-19.163-7.907H202.055l-19.163,7.907c-8.598,3.354-12.837,13.033-9.489,21.625 c11.804,30.266,66.544,49.554,77.392,53.115c3.342,1.092,6.971,1.125,10.413,0c10.848-3.56,65.588-22.848,77.392-53.115 C341.948,427.202,337.708,417.522,329.111,414.169z"></path> <path style="fill:#7FB335;" d="M329.111,414.169l-19.163-7.907h-53.946v83.473c1.743,0,3.497-0.267,5.207-0.826 c10.848-3.56,65.588-22.848,77.392-53.115C341.948,427.202,337.708,417.522,329.111,414.169z"></path> <path style="fill:#FF8095;" d="M107.718,325.484C49.805,336.256,7.087,375.696,5.294,377.37C1.913,380.527,0,384.941,0,389.565 c0,4.619,1.913,9.038,5.294,12.196c2.381,2.228,59.207,54.587,131.055,54.587s128.674-52.359,131.055-54.587L107.718,325.484z"></path> <path style="fill:#FF6680;" d="M506.71,377.37c-1.793-1.674-44.511-41.114-102.424-51.886L244.6,401.761 c2.381,2.228,59.207,54.587,131.055,54.587s128.674-52.359,131.055-54.587C513.763,395.173,513.763,383.958,506.71,377.37z"></path> <path style="fill:#FF8095;" d="M466.188,205.167c-0.489-8.495-7.283-15.267-15.772-15.729c-3.218-0.136-79.838-3.81-137.566,35.593 l-57.62,186.647c0.62,0.032,3.348,0.163,7.728,0.163c24.5,0,100.708-4.087,149.87-52.114 C471.003,302.919,466.405,209.135,466.188,205.167z"></path> <path style="fill:#FF99AA;" d="M199.154,225.032c-57.728-39.408-134.337-35.75-137.566-35.593 c-8.489,0.462-15.282,7.234-15.772,15.729c-0.217,3.967-4.815,97.75,53.359,154.56c49.175,48.027,125.381,52.114,149.87,52.114 c4.381,0,7.109-0.13,7.728-0.163L199.154,225.032z"></path> <circle style="fill:#FFC033;" cx="161.392" cy="105.74" r="16.696"></circle> <circle style="fill:#F9A926;" cx="356.176" cy="105.74" r="16.696"></circle> <circle style="fill:#FFC033;" cx="256.002" cy="38.954" r="16.696"></circle> <path style="fill:#F9A926;" d="M272.697,38.954c0-9.221-7.475-16.696-16.696-16.696V55.65 C265.222,55.65,272.697,48.176,272.697,38.954z"></path> <path style="fill:#FFB3BF;" d="M267.021,115.421c-3.228-2.783-7.124-4.118-11.019-4.118c-3.896,0-7.791,1.336-11.019,4.118 c-3.005,2.671-74.018,65.67-74.018,146.144s71.013,143.472,74.018,146.144c3.117,2.783,7.124,4.118,11.019,4.118 c3.896,0,7.903-1.336,11.019-4.118c3.005-2.671,74.018-65.67,74.018-146.144S270.026,118.092,267.021,115.421z"></path> <path style="fill:#FF99AA;" d="M341.039,261.565c0,80.474-71.013,143.472-74.018,146.144c-3.117,2.783-7.124,4.118-11.019,4.118 V111.303c3.896,0,7.791,1.336,11.019,4.118C270.026,118.092,341.039,181.091,341.039,261.565z"></path> </g></svg>      
     <p class="mb-4 mt-4 text-xl font-bold">Wholeness Work</p>
-    <p class="text-muted dark:text-neutral-300">
+    <p class="text-neutral-500 dark:text-neutral-300">
       Effortless, pleasant, and kind way to enhance my ability and sort out issues. Real and true perception of awareness.
     </p>
   </div>
-  <div class="md:mb-0 bg-neutral dark:bg-neutral-900 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-xl">
-    <svg height="64px" width="64px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 495 495" xml:space="preserve" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <path style="fill:#6E76E5;" d="M89.803,366.872V257.069c-30.272,0-54.901,24.629-54.901,54.902S59.53,366.872,89.803,366.872z"></path> <path style="fill:#6E76E5;" d="M89.803,385.041C40.285,385.041,0,425.327,0,474.844v20h179.605v-20 C179.605,425.327,139.32,385.041,89.803,385.041z"></path> <path style="fill:#6E76E5;" d="M405.197,366.872V257.069c-30.272,0-54.901,24.629-54.901,54.902S374.925,366.872,405.197,366.872z"></path> <path style="fill:#6E76E5;" d="M405.197,385.041c-49.518,0-89.803,40.286-89.803,89.803v20H495v-20 C495,425.327,454.715,385.041,405.197,385.041z"></path> <path style="fill:#6E76E5;" d="M247.5,109.959V0.156c-30.272,0-54.901,24.629-54.901,54.902S217.228,109.959,247.5,109.959z"></path> <path style="fill:#515BE0;" d="M144.704,311.971c0-30.273-24.629-54.902-54.901-54.902v109.803 C120.075,366.872,144.704,342.243,144.704,311.971z"></path> <path style="fill:#515BE0;" d="M460.099,311.971c0-30.273-24.629-54.902-54.901-54.902v109.803 C435.47,366.872,460.099,342.243,460.099,311.971z"></path> <path style="fill:#515BE0;" d="M302.401,55.057c0-30.273-24.629-54.902-54.901-54.902v109.803 C277.772,109.959,302.401,85.33,302.401,55.057z"></path> <path style="fill:#6E76E5;" d="M337.303,217.931c0-49.518-40.285-89.803-89.803-89.803s-89.803,40.286-89.803,89.803v20h179.605 V217.931z"></path> <polygon style="fill:#f00000;" points="267.5,333.052 267.5,267.816 227.5,267.816 227.5,333.052 171.004,365.67 191.004,400.311 247.5,367.693 303.996,400.311 323.996,365.67 "></polygon> </g> </g></svg>
+  <div class="md:mb-0 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-xl">
+    <svg width="64px" height="64px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve" width="32px" height="32px" fill="#e01a1a" stroke="#e01a1a"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <path style="fill:#E21B1B;" d="M281.04,129.624v-15.008c24.424-13.832,33.008-44.84,19.176-69.256 c-13.832-24.424-44.84-33.008-69.256-19.176s-33.008,44.84-19.176,69.256c4.536,8.016,11.168,14.64,19.176,19.176v15.008 c-47.352,2.216-71.432,34.232-71.432,55.752v17.672h192.944v-17.672C352.472,163.856,328.392,131.832,281.04,129.624z"></path> <path style="fill:#E21B1B;" d="M121.512,419v-14.976c24.424-13.832,33.008-44.84,19.176-69.256 c-13.832-24.424-44.84-33.008-69.256-19.176c-24.424,13.832-33.008,44.84-19.176,69.256c4.536,8.016,11.168,14.64,19.176,19.176v15 C24.08,421.216,0,453.232,0,474.752v17.672h192.944v-17.672C192.944,453.232,168.864,421.216,121.512,419z"></path> <path style="fill:#E21B1B;" d="M440.568,419v-14.976c24.424-13.832,33.008-44.84,19.176-69.256 c-13.832-24.424-44.84-33.008-69.256-19.176s-33.008,44.84-19.176,69.256c4.536,8.016,11.168,14.64,19.176,19.176v15 c-47.352,2.216-71.432,34.232-71.432,55.752v17.648H512v-17.672C512,453.232,487.92,421.216,440.568,419z"></path> </g></svg>
     <p class="mb-4 mt-4 text-xl font-bold">Practice</p>
-    <p class="text-muted dark:text-neutral-300">
+    <p class="text-neutral-500 dark:text-neutral-300">
       Daily practice with myself and others lead to habituated response ingrained withing me, without thinking.
     </p>
   </div>
 </div>
 <div class="mt-10 flex justify-center">
-  <a href="https://bio.com" title="bio" class="bg-neutral dark:bg-neutral-900 hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full shadow-lg">
+  <a href="https://bio.com" title="bio" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
       Explore more
     </a>
 </div>
@@ -453,7 +452,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 <section>
   {{< list cardView=true limit=3 where="Type" value="posts" >}}
   <div class="mt-10 flex justify-center">
-  <a href="https://recent.com" title="Recent posts" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full shadow-lg">
+  <a href="https://recent.com" title="Recent posts" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
       Load all posts
     </a>
 </div>
@@ -565,7 +564,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
    <section class="mx-auto">
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Reading and Writing</p>
-<h2 class="mb-4 text-4xl font-extrabold uppercase">
+<h2 class="mb-4 text-4xl font-extrabold">
   Books - I love writing
 </h2>
 <p class="text-xl text-muted">
@@ -604,11 +603,11 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
   </div>
   </div>
  <div class="mt-6 flex justify-center">
-  <a href="https://archive.com" title="books in archive" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full shadow-lg">
+  <a href="https://archive.com" title="books in archive" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
       My books
     </a>
         <span class="mr-2"></span>
-   <a href="https://events.com" title="reading" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full shadow-lg">
+   <a href="https://events.com" title="reading" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
       Reading
     </a>
 </div>
@@ -618,7 +617,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 <!-- People Testimonial --> 
 <div class="mx-auto text-center mt-20 mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Hear what they are saying?</p>
-<h2 class="mb-4 text-4xl font-extrabold uppercase">
+<h2 class="mb-4 text-4xl font-extrabold">
   Testimonials
 </h2>
 <p class="container text-xl">
@@ -628,7 +627,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 <!-- Container for the Testimonials -->
 <div class="grid gap-6 text-center md:grid-cols-3 lg:gap-12">
   <!-- First Testimonial -->
-  <div class="mb-12 md:mb-0 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl">
+  <div class="mb-12 md:mb-0">
     <div class="mb-6 flex justify-center">
     </div>
     <p class="mb-4 text-xl font-bold">
@@ -664,7 +663,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
     </ul>
   </div>
   <!-- Second Testimonial -->
-  <div class="mb-12 md:mb-0 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl">
+  <div class="mb-12 md:mb-0">
     <div class="mb-6 flex justify-center">
     </div>
     <p class="mb-4 text-xl font-bold">
@@ -699,7 +698,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
       </li>
     </ul>
   </div>
-    <div class="mb-0 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl">
+    <div class="mb-0">
       <div class="mb-6 flex justify-center">
       </div>
       <p class="mb-4 text-xl font-bold">
@@ -742,7 +741,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
   <section class="max-w-6xl mx-auto">
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Competency</p>
-<h2 class="mb-4 text-4xl font-extrabold uppercase">
+<h2 class="mb-4 text-4xl font-extrabold">
   Stats: I walk the talk
 </h2>
 <p class="text-xl text-muted">
@@ -781,11 +780,11 @@ data: {
     <div class="max-w-6xl mx-auto text-center mb-10 lg:mb-14">
       <div class="mx-auto text-center mb-10 lg:mb-14">
         <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Get in touch</p>
-        <h2 class="mb-4 text-4xl font-extrabold uppercase">
+        <h2 class="mb-4 text-4xl font-extrabold">
           Contact - Ask and You shall receive
         </h2>
         <p class="text-xl text-muted">
-          Collect all necessary data
+          Ask in English 🇬🇧, Spanish 🇪🇸, Czech 🇨🇿
         </p>
         </div>
         <!-- Contact Us -->
@@ -815,11 +814,11 @@ data: {
           </div>
           <!-- End Grid -->
           <div class="mt-4 grid">
-            <button id="contact" aria-label="Submit contact request" type="submit" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full shadow-lg">Send inquiry</button>
+            <button id="contact" aria-label="Submit contact request" type="submit" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">Send inquiry</button>
           </div>
           <div class="mt-3 text-center">
             <p class="text-sm text-gray-500">
-              I'll get back to you in 1-2 business days.
+              We'll get back to you in 1-2 business days.
             </p>
           </div>
         </form>
