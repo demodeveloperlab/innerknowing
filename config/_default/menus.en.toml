@@ -12,7 +12,7 @@
 
 [[main]]
   name = "Mission"
-  pageRef = "posts"
+  pageRef = "https://demodeveloperlab.github.io/innerknowing/en/"
   weight = 10
 
 [[main]]

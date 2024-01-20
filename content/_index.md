@@ -627,7 +627,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 <!-- Container for the Testimonials -->
 <div class="grid gap-6 text-center md:grid-cols-3 lg:gap-12">
   <!-- First Testimonial -->
-  <div class="mb-12 md:mb-0 rounded-xl p-4 shadow-2xl">
+  <div class="mb-12 md:mb-0 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl">
     <div class="mb-6 flex justify-center">
     </div>
     <p class="mb-4 text-xl font-bold">
@@ -663,7 +663,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
     </ul>
   </div>
   <!-- Second Testimonial -->
-  <div class="mb-12 md:mb-0 rounded-xl p-4 shadow-2xl">
+  <div class="mb-12 md:mb-0 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl">
     <div class="mb-6 flex justify-center">
     </div>
     <p class="mb-4 text-xl font-bold">
@@ -698,7 +698,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
       </li>
     </ul>
   </div>
-    <div class="mb-0 rounded-xl p-4 shadow-2xl">
+    <div class="mb-0 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl">
       <div class="mb-6 flex justify-center">
       </div>
       <p class="mb-4 text-xl font-bold">
