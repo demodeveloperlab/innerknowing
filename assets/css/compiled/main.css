@@ -2763,6 +2763,11 @@ select {
   line-height:1
 }
 
+.sm .text-3xl {
+  font-size:1.875rem;
+  line-height:2.25rem
+}
+
 .text-\[0\.6rem\] {
   font-size:0.6rem
 }
