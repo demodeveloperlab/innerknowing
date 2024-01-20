@@ -5,7 +5,7 @@ description: ""
 {{< rawhtml >}}
 <section class="cointainer">
   <!-- Jumbotron -->
-  <div class="max-w-[85rem] px-6 py-6 text-center md:px-12">
+  <div class="max-w-[85rem] px-6 text-center md:px-12">
     <div class="mx-auto">
       <div class="grid items-center gap-12 lg:grid-cols-2 mb-20">
         <div class="lg:mt-0">
@@ -35,12 +35,12 @@ description: ""
 </section>
   <!-- Quote -->
   <section>
-<div class="relative w-screen max-w-[1600px] px-[30px] bg-primary-200 dark:bg-neutral-900 py-8 mb-16 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
+<div class="relative w-screen max-w-[1600px] px-[30px] bg-wind dark:bg-neutral-900 py-16 mb-16 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
 <div class="container">
    <div class="flex items-center justify-center">
       <p class="text-xl">
          <span class="font-bold">
-         <svg width="1.5em" height="1.5em" viewBox="0 0 24 24" class="w-6 h-6 inline-block align-text-bottom" data-icon="tabler:info-square">  <symbol id="ai:tabler:info-square"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M12 9h.01M3 5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><path d="M11 12h1v4h1"></path></g></symbol> <use xlink:href="#ai:tabler:info-square"></use> </svg>
+         <svg width="1.5em" height="1.5em" viewBox="0 0 24 24" class="w-6 h-6 inline-block align-text-bottom mr-2" data-icon="tabler:info-square">  <symbol id="ai:tabler:info-square"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M12 9h.01M3 5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><path d="M11 12h1v4h1"></path></g></symbol> <use xlink:href="#ai:tabler:info-square"></use> </svg>
           PHILOSOPHY KISS:</span> KEEP IT SIMPLE, STUPID! + ELEGANCE
       </p>
     </div>
@@ -67,7 +67,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 </div>
 <!-- /abstract -->
 <!-- Features -->
-<div class="relative mt-20 w-screen max-w-[1600px] px-[30px] bg-primary-200 dark:bg-neutral-900 py-16 mb-20 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
+<div class="relative mt-20 w-screen max-w-[1600px] px-[30px] bg-wind dark:bg-neutral-900 py-16 mb-20 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
   <section>
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Features</p>
@@ -170,7 +170,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 <!-- /Features -->
 <!-- Blueprint -->
 <div class="mt-20 max-w-7xl">
-  <section class="mx-auto max-w-7xl">
+  <section class="mx-auto">
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Process</p>
 <h2 class="mb-4 text-3xl font-bold uppercase">
@@ -183,7 +183,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 <div class="px-4 mx-auto">
   <div class="grid gap-6 row-gap-10 lg:grid-cols-2">
   <div class="relative">
-       <img class="rounded-xl shadow-2xl" width="442" height="560" loading="lazy" alt="" src="pixabay.com.illustrations.ai-generated-iceberg-glacier-water-8400811.webp" />
+       <img class="flex items-center justify-center object-center rounded-xl shadow-2xl" width="442" height="560" loading="lazy" alt="" src="pixabay.com.illustrations.ai-generated-iceberg-glacier-water-8400811.webp" />
     </div>
     <div class="lg:py-6">
         <div class="flex">
@@ -264,7 +264,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
            </div>
          </div>
        </div>
-       <div class="pt-1 pb-8">
+       <div class="pt-1">
          <p class="mb-2 text-xl font-bold">Let's do it again</p>
          <p class="mt-4 text-neutral-500 dark:text-neutral-300">
            Every time is easier, faster. I am competent and confident. I am ejoying myself, efforlessly flowing. 
@@ -278,7 +278,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
   </div>    
 <!-- /primaryprint -->
 <!-- Events -->
-<div class="relative mt-20 w-screen max-w-[1600px] px-[30px] bg-primary-200 dark:bg-neutral-900 py-16 mb-20 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
+<div class="relative mt-20 w-screen max-w-[1600px] px-[30px] bg-wind dark:bg-neutral-900 py-16 mb-20 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
   <section>
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Events</p>
@@ -341,7 +341,6 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 <!-- /Events -->
 <!-- Bio -->
 <div class="relative w-screen max-w-[1600px] px-[30px] dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
-  <section>
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Bio</p>
 <h2 class="mb-4 text-3xl font-bold uppercase">
@@ -352,7 +351,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 </p>
 </div>
 <div class="max-w-2xl mx-auto">
-    <div class="flex flex-col rounded-xl p-4 border">
+    <div class="flex flex-col rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl">
       <div class="flex items-center gap-x-4">
         <img class="h-8 w-8 rounded-full sm:h-[2.875rem] sm:w-[2.875rem]" loading="lazy" src="luis.webp" alt="">
         <div class="grow ml-2">
@@ -364,27 +363,27 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
           </p>
         </div>
       </div>
-      <p class="mt-3 text-gray-500">
+      <p class="mt-6 text-muted">
         I am an ambitious workaholic, but apart from that, pretty simple person. I am an ambitious workaholic, but apart from that, pretty simple person. I am an ambitious workaholic, but apart from that, pretty simple person. I am an ambitious workaholic, but apart from that, pretty simple person. I am an ambitious workaholic, but apart from that, pretty simple person.
       </p>
-      <div class="mt-3 space-x-1">
-        <a href="#" class="inline-flex justify-center items-center w-8 h-8 text-sm font-semibold rounded-lg border border-gray-200 text-gray-500 hover:bg-gray-100 disabled:opacity-50 disabled:pointer-events-none dark:text-gray-400 dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600">
+      <div class="mt-6 space-x-1">
+        <a href="#" title="text" class="inline-flex justify-center items-center w-8 h-8 text-sm font-semibold rounded-lg border border-gray-200 text-gray-500 hover:bg-gray-100 disabled:opacity-50 disabled:pointer-events-none dark:text-gray-400 dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600">
             <svg class="flex-shrink-0 w-3.5 h-3.5" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-mastodon" viewBox="0 0 16 16">
             <path d="M11.19 12.195c2.016-.24 3.77-1.475 3.99-2.603.348-1.778.32-4.339.32-4.339 0-3.47-2.286-4.488-2.286-4.488C12.062.238 10.083.017 8.027 0h-.05C5.92.017 3.942.238 2.79.765c0 0-2.285 1.017-2.285 4.488l-.002.662c-.004.64-.007 1.35.011 2.091.083 3.394.626 6.74 3.78 7.57 1.454.383 2.703.463 3.709.408 1.823-.1 2.847-.647 2.847-.647l-.06-1.317s-1.303.41-2.767.36c-1.45-.05-2.98-.156-3.215-1.928a4 4 0 0 1-.033-.496s1.424.346 3.228.428c1.103.05 2.137-.064 3.188-.189zm1.613-2.47H11.13v-4.08c0-.859-.364-1.295-1.091-1.295-.804 0-1.207.517-1.207 1.541v2.233H7.168V5.89c0-1.024-.403-1.541-1.207-1.541-.727 0-1.091.436-1.091 1.296v4.079H3.197V5.522q0-1.288.66-2.046c.456-.505 1.052-.764 1.793-.764.856 0 1.504.328 1.933.983L8 4.39l.417-.695c.429-.655 1.077-.983 1.934-.983.74 0 1.336.259 1.791.764q.662.757.661 2.046z"/></svg>
-        </a>
-        <a href="#" class="inline-flex justify-center items-center w-8 h-8 text-sm font-semibold rounded-lg border border-gray-200 text-gray-500 hover:bg-gray-100 disabled:opacity-50 disabled:pointer-events-none dark:text-gray-400 dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600">
+        </a><span class="mr-1"></span>
+        <a href="#" title="text" class="inline-flex justify-center items-center w-8 h-8 text-sm font-semibold rounded-lg border border-gray-200 text-gray-500 hover:bg-gray-100 disabled:opacity-50 disabled:pointer-events-none dark:text-gray-400 dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600">
           <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-telegram" viewBox="0 0 16 16">
           <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0M8.287 5.906q-1.168.486-4.666 2.01-.567.225-.595.442c-.03.243.275.339.69.47l.175.055c.408.133.958.288 1.243.294q.39.01.868-.32 3.269-2.206 3.374-2.23c.05-.012.12-.026.166.016s.042.12.037.141c-.03.129-1.227 1.241-1.846 1.817-.193.18-.33.307-.358.336a8 8 0 0 1-.188.186c-.38.366-.664.64.015 1.088.327.216.589.393.85.571.284.194.568.387.936.629q.14.092.27.187c.331.236.63.448.997.414.214-.02.435-.22.547-.82.265-1.417.786-4.486.906-5.751a1.4 1.4 0 0 0-.013-.315.34.34 0 0 0-.114-.217.53.53 0 0 0-.31-.093c-.3.005-.763.166-2.984 1.09"/></svg>
-        </a>
-        <a href="#" class="inline-flex justify-center items-center w-8 h-8 text-sm font-semibold rounded-lg border border-gray-200 text-gray-500 hover:bg-gray-100 disabled:opacity-50 disabled:pointer-events-none dark:text-gray-400 dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600">
+        </a><span class="mr-1"></span>
+        <a href="#" title="text" class="inline-flex justify-center items-center w-8 h-8 text-sm font-semibold rounded-lg border border-gray-200 text-gray-500 hover:bg-gray-100 disabled:opacity-50 disabled:pointer-events-none dark:text-gray-400 dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600">
           <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-rss-fill" viewBox="0 0 16 16">
           <path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zm1.5 2.5c5.523 0 10 4.477 10 10a1 1 0 1 1-2 0 8 8 0 0 0-8-8 1 1 0 0 1 0-2m0 4a6 6 0 0 1 6 6 1 1 0 1 1-2 0 4 4 0 0 0-4-4 1 1 0 0 1 0-2m.5 7a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3"/></svg>
-        </a>
-        <a href="#" class="inline-flex justify-center items-center w-8 h-8 text-sm font-semibold rounded-lg border border-gray-200 text-gray-500 hover:bg-gray-100 disabled:opacity-50 disabled:pointer-events-none dark:text-gray-400 dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600">
+        </a><span class="mr-1"></span>
+        <a href="#" title="text" class="inline-flex justify-center items-center w-8 h-8 text-sm font-semibold rounded-lg border border-gray-200 text-gray-500 hover:bg-gray-100 disabled:opacity-50 disabled:pointer-events-none dark:text-gray-400 dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600">
           <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-book" viewBox="0 0 16 16">
           <path d="M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783"/></svg>
-        </a>
-        <a href="#" class="inline-flex justify-center items-center w-8 h-8 text-sm font-semibold rounded-lg border border-gray-200 text-gray-500 hover:bg-gray-100 disabled:opacity-50 disabled:pointer-events-none dark:text-gray-400 dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600">
+        </a><span class="mr-1"></span>
+        <a href="#" title="text" class="inline-flex justify-center items-center w-8 h-8 text-sm font-semibold rounded-lg border border-gray-200 text-gray-500 hover:bg-gray-100 disabled:opacity-50 disabled:pointer-events-none dark:text-gray-400 dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600">
           <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-calendar-date-fill" viewBox="0 0 16 16">
           <path d="M4 .5a.5.5 0 0 0-1 0V1H2a2 2 0 0 0-2 2v1h16V3a2 2 0 0 0-2-2h-1V.5a.5.5 0 0 0-1 0V1H4zm5.402 9.746c.625 0 1.184-.484 1.184-1.18 0-.832-.527-1.23-1.16-1.23-.586 0-1.168.387-1.168 1.21 0 .817.543 1.2 1.144 1.2"/>
           <path d="M16 14V5H0v9a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2m-6.664-1.21c-1.11 0-1.656-.767-1.703-1.407h.683c.043.37.387.82 1.051.82.844 0 1.301-.848 1.305-2.164h-.027c-.153.414-.637.79-1.383.79-.852 0-1.676-.61-1.676-1.77 0-1.137.871-1.809 1.797-1.809 1.172 0 1.953.734 1.953 2.668 0 1.805-.742 2.871-2 2.871zm-2.89-5.435v5.332H5.77V8.079h-.012c-.29.156-.883.52-1.258.777V8.16a13 13 0 0 1 1.313-.805h.632z"/></svg>
@@ -392,17 +391,15 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
       </div>
     </div>
     </div>
-</div>
   <div class="flex justify-center">
-  <a href="https://bio.com" title="bio" class="bg-transparent mt-10 hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
+  <a href="https://bio.com" title="bio" class="bg-transparent mt-10 hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
       See full bio
     </a>
   </div>
-  </section>
   </div>    
 <!-- /Bio -->
 <!-- Toolbox -->
-<div class="relative mt-20 w-screen max-w-[1600px] px-[30px] bg-primary-200 dark:bg-neutral-900 py-16 mb-20 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
+<div class="relative mt-20 w-screen max-w-[1600px] px-[30px] bg-wind dark:bg-neutral-900 py-16 mb-20 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
   <section>
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Toolbox</p>
@@ -436,7 +433,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
     </p>
   </div>
   <div class="md:mb-0 bg-neutral dark:bg-neutral-800 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl">
-    <svg height="64px" width="64px" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <path style="fill:#74D6D0;" d="M256,452.121c-65.547,0-127.48-10.637-174.393-29.951C28.982,400.503,0,369.467,0,334.78 s28.982-65.723,81.607-87.389C128.52,228.076,190.454,217.438,256,217.438s127.482,10.637,174.393,29.952 C483.018,269.056,512,300.093,512,334.78s-28.982,65.723-81.607,87.391C383.482,441.483,321.546,452.121,256,452.121z M256,258.037 c-60.367,0-116.812,9.551-158.936,26.895c-35.357,14.556-56.466,33.191-56.466,49.848s21.108,35.292,56.466,49.848 c42.124,17.344,98.569,26.895,158.936,26.895c60.368,0,116.814-9.551,158.937-26.895c35.356-14.556,56.464-33.192,56.464-49.848 c0-16.658-21.108-35.292-56.464-49.848C372.812,267.588,316.368,258.037,256,258.037z"></path> <path style="fill:#74D6D0;" d="M256,386.257c-40.141,0-78.115-3.971-106.924-11.179c-14.251-3.566-57.621-14.418-57.621-45.216 c0-30.795,43.37-41.649,57.621-45.214c28.81-7.209,66.783-11.179,106.924-11.179c40.142,0,78.117,3.971,106.925,11.179 c14.251,3.566,57.62,14.418,57.62,45.214s-43.369,41.649-57.62,45.216C334.115,382.287,296.142,386.257,256,386.257z M140.284,329.863c17.978,7.216,57.964,15.795,115.716,15.795s97.739-8.58,115.718-15.795 c-17.978-7.216-57.965-15.796-115.718-15.796S158.262,322.648,140.284,329.863z"></path> </g> <g> <path style="fill:#CCF7F5;" d="M430.393,247.39C383.482,228.076,321.546,217.438,256,217.438v40.598 c60.368,0,116.812,9.551,158.937,26.895c35.356,14.557,56.464,33.192,56.464,49.848c0,16.658-21.108,35.292-56.464,49.848 c-42.124,17.344-98.569,26.895-158.937,26.895v40.598c65.546,0,127.482-10.637,174.393-29.951 C483.018,400.503,512,369.469,512,334.78S483.018,269.056,430.393,247.39z"></path> <path style="fill:#CCF7F5;" d="M362.925,284.649C334.117,277.44,296.142,273.47,256,273.47v40.598 c57.753,0,97.739,8.58,115.718,15.795c-17.978,7.216-57.965,15.796-115.718,15.796v40.598c40.142,0,78.117-3.97,106.925-11.179 c14.251-3.566,57.62-14.418,57.62-45.216C420.545,299.067,377.177,288.215,362.925,284.649z"></path> </g> <path style="fill:#74D6D0;" d="M256,332.896c-53.938,0-97.819-43.883-97.819-97.82c0-15.877,3.889-31.569,11.267-45.569 c0.361-0.907,0.789-1.793,1.286-2.654L238.18,70.03c3.627-6.282,10.327-10.151,17.579-10.151c7.252,0,13.954,3.869,17.579,10.15 l63.486,109.966c11.121,16.284,16.995,35.308,16.995,55.081C353.819,289.013,309.938,332.896,256,332.896z"></path> <path style="fill:#CCF7F5;" d="M256,332.896c-53.938,0-97.819-43.883-97.819-97.82c0-15.877,3.889-31.569,11.267-45.569 c0.361-0.907,0.789-1.793,1.286-2.654L238.18,70.03c3.627-6.282,10.327-10.151,17.579-10.151L256,332.896z"></path> </g></svg>     
+    <svg height="64px" width="64px" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <path style="fill:#12a197;" d="M256,452.121c-65.547,0-127.48-10.637-174.393-29.951C28.982,400.503,0,369.467,0,334.78 s28.982-65.723,81.607-87.389C128.52,228.076,190.454,217.438,256,217.438s127.482,10.637,174.393,29.952 C483.018,269.056,512,300.093,512,334.78s-28.982,65.723-81.607,87.391C383.482,441.483,321.546,452.121,256,452.121z M256,258.037 c-60.367,0-116.812,9.551-158.936,26.895c-35.357,14.556-56.466,33.191-56.466,49.848s21.108,35.292,56.466,49.848 c42.124,17.344,98.569,26.895,158.936,26.895c60.368,0,116.814-9.551,158.937-26.895c35.356-14.556,56.464-33.192,56.464-49.848 c0-16.658-21.108-35.292-56.464-49.848C372.812,267.588,316.368,258.037,256,258.037z"></path> <path style="fill:#12a197;" d="M256,386.257c-40.141,0-78.115-3.971-106.924-11.179c-14.251-3.566-57.621-14.418-57.621-45.216 c0-30.795,43.37-41.649,57.621-45.214c28.81-7.209,66.783-11.179,106.924-11.179c40.142,0,78.117,3.971,106.925,11.179 c14.251,3.566,57.62,14.418,57.62,45.214s-43.369,41.649-57.62,45.216C334.115,382.287,296.142,386.257,256,386.257z M140.284,329.863c17.978,7.216,57.964,15.795,115.716,15.795s97.739-8.58,115.718-15.795 c-17.978-7.216-57.965-15.796-115.718-15.796S158.262,322.648,140.284,329.863z"></path> </g> <g> <path style="fill:#6cc6c1;" d="M430.393,247.39C383.482,228.076,321.546,217.438,256,217.438v40.598 c60.368,0,116.812,9.551,158.937,26.895c35.356,14.557,56.464,33.192,56.464,49.848c0,16.658-21.108,35.292-56.464,49.848 c-42.124,17.344-98.569,26.895-158.937,26.895v40.598c65.546,0,127.482-10.637,174.393-29.951 C483.018,400.503,512,369.469,512,334.78S483.018,269.056,430.393,247.39z"></path> <path style="fill:#6cc6c1;" d="M362.925,284.649C334.117,277.44,296.142,273.47,256,273.47v40.598 c57.753,0,97.739,8.58,115.718,15.795c-17.978,7.216-57.965,15.796-115.718,15.796v40.598c40.142,0,78.117-3.97,106.925-11.179 c14.251-3.566,57.62-14.418,57.62-45.216C420.545,299.067,377.177,288.215,362.925,284.649z"></path> </g> <path style="fill:#12a197;" d="M256,332.896c-53.938,0-97.819-43.883-97.819-97.82c0-15.877,3.889-31.569,11.267-45.569 c0.361-0.907,0.789-1.793,1.286-2.654L238.18,70.03c3.627-6.282,10.327-10.151,17.579-10.151c7.252,0,13.954,3.869,17.579,10.15 l63.486,109.966c11.121,16.284,16.995,35.308,16.995,55.081C353.819,289.013,309.938,332.896,256,332.896z"></path> <path style="fill:#6cc6c1;" d="M256,332.896c-53.938,0-97.819-43.883-97.819-97.82c0-15.877,3.889-31.569,11.267-45.569 c0.361-0.907,0.789-1.793,1.286-2.654L238.18,70.03c3.627-6.282,10.327-10.151,17.579-10.151L256,332.896z"></path> </g></svg>     
     <p class="mb-4 mt-4 text-xl font-bold">Core Transformation</p>
     <p class="text-neutral-500 dark:text-neutral-300">
       Compassionate and effective way for taking me to the core of who am I. Transforming and enriching my essence.
@@ -450,7 +447,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
     </p>
   </div>
   <div class="md:mb-0 bg-neutral dark:bg-neutral-800 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl">
-    <svg width="64px" height="64px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve" width="32px" height="32px" fill="#e01a1a" stroke="#e01a1a"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <path style="fill:#E21B1B;" d="M281.04,129.624v-15.008c24.424-13.832,33.008-44.84,19.176-69.256 c-13.832-24.424-44.84-33.008-69.256-19.176s-33.008,44.84-19.176,69.256c4.536,8.016,11.168,14.64,19.176,19.176v15.008 c-47.352,2.216-71.432,34.232-71.432,55.752v17.672h192.944v-17.672C352.472,163.856,328.392,131.832,281.04,129.624z"></path> <path style="fill:#E21B1B;" d="M121.512,419v-14.976c24.424-13.832,33.008-44.84,19.176-69.256 c-13.832-24.424-44.84-33.008-69.256-19.176c-24.424,13.832-33.008,44.84-19.176,69.256c4.536,8.016,11.168,14.64,19.176,19.176v15 C24.08,421.216,0,453.232,0,474.752v17.672h192.944v-17.672C192.944,453.232,168.864,421.216,121.512,419z"></path> <path style="fill:#E21B1B;" d="M440.568,419v-14.976c24.424-13.832,33.008-44.84,19.176-69.256 c-13.832-24.424-44.84-33.008-69.256-19.176s-33.008,44.84-19.176,69.256c4.536,8.016,11.168,14.64,19.176,19.176v15 c-47.352,2.216-71.432,34.232-71.432,55.752v17.648H512v-17.672C512,453.232,487.92,421.216,440.568,419z"></path> </g></svg>
+    <svg height="64px" width="64px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 495 495" xml:space="preserve" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <path style="fill:#6E76E5;" d="M89.803,366.872V257.069c-30.272,0-54.901,24.629-54.901,54.902S59.53,366.872,89.803,366.872z"></path> <path style="fill:#6E76E5;" d="M89.803,385.041C40.285,385.041,0,425.327,0,474.844v20h179.605v-20 C179.605,425.327,139.32,385.041,89.803,385.041z"></path> <path style="fill:#6E76E5;" d="M405.197,366.872V257.069c-30.272,0-54.901,24.629-54.901,54.902S374.925,366.872,405.197,366.872z"></path> <path style="fill:#6E76E5;" d="M405.197,385.041c-49.518,0-89.803,40.286-89.803,89.803v20H495v-20 C495,425.327,454.715,385.041,405.197,385.041z"></path> <path style="fill:#6E76E5;" d="M247.5,109.959V0.156c-30.272,0-54.901,24.629-54.901,54.902S217.228,109.959,247.5,109.959z"></path> <path style="fill:#515BE0;" d="M144.704,311.971c0-30.273-24.629-54.902-54.901-54.902v109.803 C120.075,366.872,144.704,342.243,144.704,311.971z"></path> <path style="fill:#515BE0;" d="M460.099,311.971c0-30.273-24.629-54.902-54.901-54.902v109.803 C435.47,366.872,460.099,342.243,460.099,311.971z"></path> <path style="fill:#515BE0;" d="M302.401,55.057c0-30.273-24.629-54.902-54.901-54.902v109.803 C277.772,109.959,302.401,85.33,302.401,55.057z"></path> <path style="fill:#6E76E5;" d="M337.303,217.931c0-49.518-40.285-89.803-89.803-89.803s-89.803,40.286-89.803,89.803v20h179.605 V217.931z"></path> <polygon style="fill:#f00000;" points="267.5,333.052 267.5,267.816 227.5,267.816 227.5,333.052 171.004,365.67 191.004,400.311 247.5,367.693 303.996,400.311 323.996,365.67 "></polygon> </g> </g></svg>
     <p class="mb-4 mt-4 text-xl font-bold">Practice</p>
     <p class="text-neutral-500 dark:text-neutral-300">
       Daily practice with myself and others lead to habituated response ingrained withing me, without thinking.
@@ -493,7 +490,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 <!-- /Recent -->
 {{< rawhtml >}}
 <!-- FAQ -->
-<div class="relative mt-20 w-screen max-w-[1600px] px-[30px] bg-primary-200 dark:bg-neutral-900 py-16 mb-20 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
+<div class="relative mt-20 w-screen max-w-[1600px] px-[30px] bg-wind dark:bg-neutral-900 py-16 mb-20 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
   <section>
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">FAQ</p>
@@ -647,7 +644,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 </div>
 <!-- /Books-- >
 <!-- People Testimonial --> 
-<div class="relative mt-20 w-screen max-w-[1600px] px-[30px] bg-primary-200 dark:bg-neutral-900 py-16 mb-20 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
+<div class="relative mt-20 w-screen max-w-[1600px] px-[30px] bg-wind dark:bg-neutral-900 py-16 mb-20 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Hear what they are saying?</p>
 <h2 class="mb-4 text-3xl font-bold uppercase">
@@ -777,7 +774,7 @@ data: {
 <!-- /Stats -->
 <!-- Contact -->
 <section>
-  <div class="relative mt-20 w-screen max-w-[1600px] px-[30px] bg-primary-200 dark:bg-neutral-900 pt-16 pb-2 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
+  <div class="relative mt-20 w-screen max-w-[1600px] px-[30px] bg-wind dark:bg-neutral-900 pt-16 pb-2 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
     <div class="max-w-6xl mx-auto text-center mb-10 lg:mb-14">
       <div class="mx-auto text-center mb-10 lg:mb-14">
         <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Get in touch</p>
@@ -785,7 +782,7 @@ data: {
           Contact - Ask and You shall receive
         </h2>
         <p class="text-xl text-muted">
-          Don't be a stranger 🇬🇧, Spanish 🇪🇸, Czech 🇨🇿
+          Strangers are just friends waiting to happen 🇬🇧, Spanish 🇪🇸, Czech 🇨🇿
         </p>
         </div>
         <!-- Contact Us -->
