@@ -57,7 +57,7 @@ description: ""
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
 Purpose
 </p>
-<h2 class="mb-4 text-4xl font-semibold uppercase">
+<h2 class="mb-4 text-3xl font-semibold uppercase">
   What's the purpose of this page?
 </h2>
 <p class="text-xl text-muted">
@@ -73,7 +73,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
   <section>
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Features</p>
-<h2 class="mb-4 text-4xl font-semibold">
+<h2 class="mb-4 text-3xl font-semibold uppercase">
   What's in it for me?
 </h2>
 <p class="container text-xl">
@@ -175,7 +175,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
   <section class="mx-auto max-w-7xl">
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Process</p>
-<h2 class="mb-4 text-4xl font-semibold uppercase">
+<h2 class="mb-4 text-3xl font-semibold uppercase">
   From Imagination to Reality
 </h2>
 <p class="text-xl text-muted">
@@ -284,8 +284,8 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
   <section>
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Events</p>
-<h2 class="mb-4 text-4xl font-semibold uppercase">
-  IMPROVING SELF_RELATIONSHIP
+<h2 class="mb-4 text-3xl font-semibold uppercase">
+  IMPROVING SELF RELATIONSHIP
 </h2>
 <p class="text-xl text-muted">
   PRACTICES TO FIT MY TIME AND LIFE STYLE
@@ -346,7 +346,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
   <section class="mx-auto max-w-2xl">
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Bio</p>
-<h2 class="mb-4 text-4xl font-semibold">
+<h2 class="mb-4 text-3xl font-semibold uppercase">
   COMMITTED TO MAKING A DIFFERENCE
 </h2>
 <p class="text-xl text-muted">
@@ -374,7 +374,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
   <section>
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Toolbox</p>
-<h2 class="mb-4 text-4xl font-semibold uppercase">
+<h2 class="mb-4 text-3xl font-semibold uppercase">
   My Favorite tools
 </h2>
 <p class="text-xl text-muted">
@@ -440,7 +440,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
     <div class="max-w-6xl mx-auto text-center mb-10 lg:mb-14">
       <div class="mx-auto text-center mb-10 lg:mb-14">
         <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Publications</p>
-        <h2 class="mb-4 text-4xl font-semibold uppercase">
+        <h2 class="mb-4 text-3xl font-semibold uppercase">
           Recent posts
         </h2>
         <p class="text-xl text-muted">
@@ -465,7 +465,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
   <section>
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">FAQ</p>
-<h2 class="mb-4 text-4xl font-semibold uppercase">
+<h2 class="mb-4 text-3xl font-semibold uppercase">
   Frequently asked questions
 </h2>
 <p class="text-xl text-muted">
@@ -564,7 +564,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
    <section class="mx-auto">
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Reading and Writing</p>
-<h2 class="mb-4 text-4xl font-semibold">
+<h2 class="mb-4 text-3xl font-semibold uppercase">
   Books - I love writing
 </h2>
 <p class="text-xl text-muted">
@@ -617,7 +617,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 <!-- People Testimonial --> 
 <div class="mx-auto text-center mt-20 mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Hear what they are saying?</p>
-<h2 class="mb-4 text-4xl font-semibold">
+<h2 class="mb-4 text-3xl font-semibold uppercase">
   Testimonials
 </h2>
 <p class="container text-xl">
@@ -741,7 +741,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
   <section class="max-w-6xl mx-auto">
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Competency</p>
-<h2 class="mb-4 text-4xl font-semibold">
+<h2 class="mb-4 text-3xl font-semibold uppercase">
   Stats: I walk the talk
 </h2>
 <p class="text-xl text-muted">
@@ -780,7 +780,7 @@ data: {
     <div class="max-w-6xl mx-auto text-center mb-10 lg:mb-14">
       <div class="mx-auto text-center mb-10 lg:mb-14">
         <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Get in touch</p>
-        <h2 class="mb-4 text-4xl font-semibold">
+        <h2 class="mb-4 text-3xl font-semibold uppercase">
           Contact - Ask and You shall receive
         </h2>
         <p class="text-xl text-muted">
