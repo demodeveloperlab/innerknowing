@@ -35,12 +35,12 @@ description: ""
 </section>
   <!-- Quote -->
   <section>
-<div class="bg-primary-200 dark:text-neutral-800 px-6 py-6 mb-20 rounded-xl">
+<div class="relative w-screen max-w-[1600px] px-[30px] bg-primary-200 dark:bg-neutral-900 py-8 mb-16 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
 <div class="container">
    <div class="flex items-center justify-center">
       <p class="text-xl">
          <span class="font-bold">
-         <svg width="1.5em" height="1.5em" viewBox="0 0 24 24" class="w-5 h-5 inline-block align-text-top" fill="none" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M12 17V11" stroke="#000000" stroke-width="1.5" stroke-linecap="round"></path> <circle cx="1" cy="1" r="1" transform="matrix(1 0 0 -1 11 9)" fill="#000000"></circle> <path d="M22 12C22 16.714 22 19.0711 20.5355 20.5355C19.0711 22 16.714 22 12 22C7.28595 22 4.92893 22 3.46447 20.5355C2 19.0711 2 16.714 2 12C2 7.28595 2 4.92893 3.46447 3.46447C4.92893 2 7.28595 2 12 2C16.714 2 19.0711 2 20.5355 3.46447C21.5093 4.43821 21.8356 5.80655 21.9449 8" stroke="#000000" stroke-width="1.5" stroke-linecap="round"></path> </g></svg>
+         <svg width="1.5em" height="1.5em" viewBox="0 0 24 24" class="w-6 h-6 inline-block align-text-bottom" data-icon="tabler:info-square">  <symbol id="ai:tabler:info-square"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M12 9h.01M3 5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><path d="M11 12h1v4h1"></path></g></symbol> <use xlink:href="#ai:tabler:info-square"></use> </svg>
           PHILOSOPHY KISS:</span> KEEP IT SIMPLE, STUPID! + ELEGANCE
       </p>
     </div>
@@ -67,7 +67,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 </div>
 <!-- /abstract -->
 <!-- Features -->
-<div class="relative w-screen max-w-[1600px] mt-20 px-[30px] bg-primary-200 dark:bg-neutral-700 py-16 mb-20 dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
+<div class="relative mt-20 w-screen max-w-[1600px] px-[30px] bg-primary-200 dark:bg-neutral-900 py-16 mb-20 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
   <section>
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Features</p>
@@ -161,7 +161,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 </div>
 </div>
 <div class="mt-10 flex justify-center">
-  <a href="https://courses.com" title="courses" class="bg-neutral dark:bg-neutral-700 hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
+  <a href="https://courses.com" title="courses" class="bg-neutral dark:bg-neutral-900 hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
       Courses
     </a>
 </div>
@@ -328,11 +328,11 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
   </div>
 </div>
 <div class="mt-10 flex justify-center">
-  <a href="https://eventbrite.com" title="eventbrite" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
+  <a href="https://eventbrite.com" title="eventbrite" class="bg-neutral dark:bg-neutral-900 hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
       Eventbrite
     </a>
         <span class="mr-2"></span>
-   <a href="https://events.com" title="events" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
+   <a href="https://events.com" title="events" class="bg-neutral dark:bg-neutral-900 hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
       Events
     </a>
 </div>
@@ -340,8 +340,8 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 </div>
 <!-- /Events -->
 <!-- Bio -->
-<div class="relative mt-20 w-screen max-w-[1600px] px-[30px]" style="left: calc(max(-50vw,-800px) + 50%);">
-  <section class="mx-auto max-w-2xl">
+<div class="relative w-screen max-w-[1600px] px-[30px] dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
+  <section>
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Bio</p>
 <h2 class="mb-4 text-3xl font-bold uppercase">
@@ -351,16 +351,50 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
   OVER 30 YEARS CHANGING LIVES AND DEVELOPING INNER CERTAINTY
 </p>
 </div>
-<div class="max-w-2xl mx-auto flex author">
-<svg fill="#000000" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128px" height="128px" viewBox="-3.29 -3.29 39.51 39.51" xml:space="preserve" transform="matrix(-1, 0, 0, 1, 0, 0)"><g id="SVGRepo_bgCarrier" stroke-width="0"><rect x="-3.29" y="-3.29" width="39.51" height="39.51" rx="19.755" fill="#BFDBFE" strokewidth="0"></rect></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <g> <path d="M32.837,11.538c-0.448-2.207-0.164-6.827-7.803-8.045c-6.435-1.028-12.312,1.57-12.979,7.474 c-0.262,0.048-0.575,0.103-0.771,0.165c-1.491,0.466-1.272,0.888-0.861,1.472c0.411,0.584,1.102,0.627,1.102,0.627 s-0.905,0.087-1.47-0.346c-0.021,0-0.042,0-0.062,0v-0.464H8.639v0.464c-0.036,0-0.058,0-0.058,0s-0.118,0.205-0.118,0.379 c0,0.173-0.012,0.897-0.012,0.897s0.012,0.497,0.367,0.497c0.146,0,1.218,0.1,3.401,0.119c-0.188,1.546-3.012,3.81-2.3,4.593 c0.736,0.811,1.987,0.841,1.987,0.841s-0.812,1.544-0.448,1.972c0.366,0.429,1.382,0.243,1.382,0.243s-0.942,0.681-0.942,1.208 s1.596,1.229,1.596,1.229s-0.294,2.923,2.102,2.721c2.394-0.202,2.796-0.878,2.796-0.878l0.709,2.952h9.266l-0.325-6.42 C28.041,23.24,33.729,17.062,32.837,11.538z M8.651,14.31c-0.047,0-0.086-0.201-0.086-0.446c0-0.246,0.039-0.446,0.086-0.446 c0.048,0,0.085,0.2,0.085,0.446C8.736,14.109,8.699,14.31,8.651,14.31z M9.86,12.884c-0.465,0-0.868,0-1.091,0v-0.333H9.86V12.884 z M24.85,15.559c-0.052,0.188-0.098,0.358-0.133,0.509c-0.266,1.092-1.812,1.172-2.265,1.172c-0.065,0-0.108-0.002-0.12-0.002 c-0.113-0.007-0.201-0.104-0.195-0.218c0.006-0.112,0.106-0.192,0.215-0.195c0.021,0.002,1.74,0.067,1.965-0.854 c0.037-0.155,0.084-0.33,0.137-0.52c0.287-1.062,0.721-2.664-0.047-2.915c-0.569-0.185-1.28-0.063-1.771,0.3 C22.28,13.1,22.09,13.457,22.1,13.845c0.004,0.114-0.088,0.208-0.201,0.211c-0.002,0-0.002,0-0.004,0 c-0.111,0-0.205-0.09-0.207-0.201c-0.004-0.193,0.039-0.378,0.104-0.555c-1.001-0.003-1.989-0.006-2.258-0.006 c0.304,0.075,0.418,0.274,0.429,0.502c0.182,0.068,0.317,0.161,0.385,0.294c0.143,0.282-0.004,0.631-0.156,0.999 c-0.213,0.517-0.436,1.05,0.017,1.481c0.14,0.135,0.254,0.193,0.343,0.179c0.178-0.029,0.346-0.349,0.521-0.686 c0.289-0.549,0.648-1.219,1.363-1.265c-0.004-0.288,0.145-0.527,0.352-0.543c0.005,0,0.009,0.004,0.016,0.003 c0.092-0.195,0.234-0.336,0.418-0.35c0.313-0.023,0.596,0.314,0.627,0.76c0.033,0.439-0.193,0.817-0.51,0.843 c-0.142,0.011-0.271-0.061-0.379-0.172c-0.029,0.012-0.059,0.029-0.09,0.032c-0.156,0.012-0.301-0.11-0.376-0.291 c-0.58,0.014-0.892,0.598-1.165,1.116c-0.223,0.421-0.413,0.781-0.732,0.834c-0.023,0.004-0.05,0.006-0.072,0.006 c-0.164,0-0.332-0.085-0.514-0.262c-0.593-0.567-0.312-1.252-0.082-1.801c0.127-0.307,0.246-0.597,0.164-0.76 c-0.025-0.053-0.086-0.095-0.16-0.133c-0.107,0.351-0.399,0.679-0.664,0.679c-0.299,0-3.941-0.036-7.021-0.066 c-0.001,0.012-0.005,0.021-0.006,0.031c-0.003-0.043-0.008-0.094-0.008-0.109c-0.146-0.719-0.226-1.41-0.251-2.08 c-0.83-0.017-1.415-0.036-1.588-0.057c0.896,0.104,0.571-0.76,0.519-0.731c0.161-0.083,0.469-0.214,1.104-0.335 c-0.021,0.364-0.034,0.736-0.02,1.127c2.828,0.06,8.288,0.104,10.229,0.119c0.057-0.053,0.104-0.107,0.17-0.155 c0.604-0.446,1.441-0.588,2.146-0.359c0.304,0.099,0.483,0.305,0.591,0.568c2.465,0.057,6.178,0.144,6.438,0.169 c0.391,0.038,0.475,0.26,0.479,0.562c0.002,0.305-0.164,1.441-0.238,1.688c-0.074,0.247-0.074,0.476-0.434,0.476 c-0.355,0-1.814,0-2.965,0c-1.443,0-2.381-0.929-3.2-1.605C25.125,14.535,24.977,15.092,24.85,15.559z"></path> <path d="M2.591,9.252l-0.44-0.459C0.764,10.125,0,11.909,0,13.819c0,1.91,0.767,3.693,2.151,5.024l0.438-0.456 c-1.262-1.21-1.957-2.833-1.957-4.568C0.634,12.084,1.33,10.461,2.591,9.252z"></path> <path d="M3.478,10.142L3.042,9.683c-1.145,1.087-1.773,2.557-1.773,4.136c0,1.58,0.632,3.051,1.776,4.138l0.437-0.46 c-1.019-0.968-1.579-2.272-1.579-3.678C1.901,12.415,2.462,11.109,3.478,10.142z"></path> <path d="M4.375,11.042L3.94,10.579c-0.894,0.835-1.405,2.016-1.405,3.24c0,1.227,0.514,2.406,1.407,3.243l0.434-0.464 C3.608,15.882,3.17,14.87,3.17,13.82C3.17,12.754,3.597,11.767,4.375,11.042z"></path> <path d="M5.754,12.359c-0.436,0.363-0.685,0.896-0.685,1.46c0,0.565,0.248,1.098,0.683,1.458l0.407-0.484 C5.58,14.307,5.58,13.33,6.16,12.846L5.754,12.359z"></path> <path d="M5.268,11.94l-0.427-0.469c-0.66,0.6-1.039,1.455-1.039,2.348c0,0.895,0.381,1.748,1.04,2.35l0.427-0.47 c-0.528-0.479-0.833-1.165-0.833-1.88C4.436,13.104,4.74,12.421,5.268,11.94z"></path> <circle cx="7.145" cy="13.79" r="0.73"></circle> </g> </g> </g></svg>
-  <div class="place-self-center ml-6">
-    <div class="text-sm text-neutral-500 dark:text-neutral-300">
-      Researcher of the Structure of Subjective Experience. He strive to gain a deeper understanding of how people experience the world through their own consciousness and subconsciousness. He study the inner worlds of thoughts, feelings, and sensations that shape our perceptions, behaviors and choices.
+<div class="max-w-2xl mx-auto">
+    <div class="flex flex-col rounded-xl p-4 border">
+      <div class="flex items-center gap-x-4">
+        <img class="h-8 w-8 rounded-full sm:h-[2.875rem] sm:w-[2.875rem]" loading="lazy" src="luis.webp" alt="">
+        <div class="grow ml-2">
+          <h3 class="font-medium text-gray-800 dark:text-gray-200">
+            David Forren
+          </h3>
+          <p class="text-xs uppercase text-gray-500">
+            Founder / CEO
+          </p>
+        </div>
+      </div>
+      <p class="mt-3 text-gray-500">
+        I am an ambitious workaholic, but apart from that, pretty simple person. I am an ambitious workaholic, but apart from that, pretty simple person. I am an ambitious workaholic, but apart from that, pretty simple person. I am an ambitious workaholic, but apart from that, pretty simple person. I am an ambitious workaholic, but apart from that, pretty simple person.
+      </p>
+      <div class="mt-3 space-x-1">
+        <a href="#" class="inline-flex justify-center items-center w-8 h-8 text-sm font-semibold rounded-lg border border-gray-200 text-gray-500 hover:bg-gray-100 disabled:opacity-50 disabled:pointer-events-none dark:text-gray-400 dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600">
+            <svg class="flex-shrink-0 w-3.5 h-3.5" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-mastodon" viewBox="0 0 16 16">
+            <path d="M11.19 12.195c2.016-.24 3.77-1.475 3.99-2.603.348-1.778.32-4.339.32-4.339 0-3.47-2.286-4.488-2.286-4.488C12.062.238 10.083.017 8.027 0h-.05C5.92.017 3.942.238 2.79.765c0 0-2.285 1.017-2.285 4.488l-.002.662c-.004.64-.007 1.35.011 2.091.083 3.394.626 6.74 3.78 7.57 1.454.383 2.703.463 3.709.408 1.823-.1 2.847-.647 2.847-.647l-.06-1.317s-1.303.41-2.767.36c-1.45-.05-2.98-.156-3.215-1.928a4 4 0 0 1-.033-.496s1.424.346 3.228.428c1.103.05 2.137-.064 3.188-.189zm1.613-2.47H11.13v-4.08c0-.859-.364-1.295-1.091-1.295-.804 0-1.207.517-1.207 1.541v2.233H7.168V5.89c0-1.024-.403-1.541-1.207-1.541-.727 0-1.091.436-1.091 1.296v4.079H3.197V5.522q0-1.288.66-2.046c.456-.505 1.052-.764 1.793-.764.856 0 1.504.328 1.933.983L8 4.39l.417-.695c.429-.655 1.077-.983 1.934-.983.74 0 1.336.259 1.791.764q.662.757.661 2.046z"/></svg>
+        </a>
+        <a href="#" class="inline-flex justify-center items-center w-8 h-8 text-sm font-semibold rounded-lg border border-gray-200 text-gray-500 hover:bg-gray-100 disabled:opacity-50 disabled:pointer-events-none dark:text-gray-400 dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-telegram" viewBox="0 0 16 16">
+          <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0M8.287 5.906q-1.168.486-4.666 2.01-.567.225-.595.442c-.03.243.275.339.69.47l.175.055c.408.133.958.288 1.243.294q.39.01.868-.32 3.269-2.206 3.374-2.23c.05-.012.12-.026.166.016s.042.12.037.141c-.03.129-1.227 1.241-1.846 1.817-.193.18-.33.307-.358.336a8 8 0 0 1-.188.186c-.38.366-.664.64.015 1.088.327.216.589.393.85.571.284.194.568.387.936.629q.14.092.27.187c.331.236.63.448.997.414.214-.02.435-.22.547-.82.265-1.417.786-4.486.906-5.751a1.4 1.4 0 0 0-.013-.315.34.34 0 0 0-.114-.217.53.53 0 0 0-.31-.093c-.3.005-.763.166-2.984 1.09"/></svg>
+        </a>
+        <a href="#" class="inline-flex justify-center items-center w-8 h-8 text-sm font-semibold rounded-lg border border-gray-200 text-gray-500 hover:bg-gray-100 disabled:opacity-50 disabled:pointer-events-none dark:text-gray-400 dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-rss-fill" viewBox="0 0 16 16">
+          <path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zm1.5 2.5c5.523 0 10 4.477 10 10a1 1 0 1 1-2 0 8 8 0 0 0-8-8 1 1 0 0 1 0-2m0 4a6 6 0 0 1 6 6 1 1 0 1 1-2 0 4 4 0 0 0-4-4 1 1 0 0 1 0-2m.5 7a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3"/></svg>
+        </a>
+        <a href="#" class="inline-flex justify-center items-center w-8 h-8 text-sm font-semibold rounded-lg border border-gray-200 text-gray-500 hover:bg-gray-100 disabled:opacity-50 disabled:pointer-events-none dark:text-gray-400 dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-book" viewBox="0 0 16 16">
+          <path d="M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783"/></svg>
+        </a>
+        <a href="#" class="inline-flex justify-center items-center w-8 h-8 text-sm font-semibold rounded-lg border border-gray-200 text-gray-500 hover:bg-gray-100 disabled:opacity-50 disabled:pointer-events-none dark:text-gray-400 dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-calendar-date-fill" viewBox="0 0 16 16">
+          <path d="M4 .5a.5.5 0 0 0-1 0V1H2a2 2 0 0 0-2 2v1h16V3a2 2 0 0 0-2-2h-1V.5a.5.5 0 0 0-1 0V1H4zm5.402 9.746c.625 0 1.184-.484 1.184-1.18 0-.832-.527-1.23-1.16-1.23-.586 0-1.168.387-1.168 1.21 0 .817.543 1.2 1.144 1.2"/>
+          <path d="M16 14V5H0v9a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2m-6.664-1.21c-1.11 0-1.656-.767-1.703-1.407h.683c.043.37.387.82 1.051.82.844 0 1.301-.848 1.305-2.164h-.027c-.153.414-.637.79-1.383.79-.852 0-1.676-.61-1.676-1.77 0-1.137.871-1.809 1.797-1.809 1.172 0 1.953.734 1.953 2.668 0 1.805-.742 2.871-2 2.871zm-2.89-5.435v5.332H5.77V8.079h-.012c-.29.156-.883.52-1.258.777V8.16a13 13 0 0 1 1.313-.805h.632z"/></svg>
+        </a>
+      </div>
     </div>
-  </div>
+    </div>
 </div>
-  <div class="mt-10 flex justify-center">
-  <a href="https://bio.com" title="bio" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
+  <div class="flex justify-center">
+  <a href="https://bio.com" title="bio" class="bg-transparent mt-10 hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
       See full bio
     </a>
   </div>
@@ -424,7 +458,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
   </div>
 </div>
 <div class="mt-10 flex justify-center">
-  <a href="https://bio.com" title="bio" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
+  <a href="https://bio.com" title="bio" class="bg-neutral dark:bg-neutral-900 hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
       Explore more
     </a>
 </div>
@@ -433,7 +467,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 <!-- /Toolbox -->
 {{< /rawhtml >}}
 <!-- Recent -->
-<div class="relative mt-20 w-screen max-w-[1600px] px-[30px]" style="left: calc(max(-50vw,-800px) + 50%);">
+<div class="relative w-screen max-w-[1600px] px-[30px]" style="left: calc(max(-50vw,-800px) + 50%);">
   <section>
     <div class="max-w-6xl mx-auto text-center mb-10 lg:mb-14">
       <div class="mx-auto text-center mb-10 lg:mb-14">
@@ -558,7 +592,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 </div>
 <!-- /FAQ -->
 <!-- Books -->
-<div class="block max-w-7xl mt-20 mx-auto">
+<div class="block max-w-7xl mx-auto">
    <section class="mx-auto">
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Reading and Writing</p>
@@ -624,115 +658,82 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 </p>
 </div>
 <!-- Container for the Testimonials -->
-<div class="grid max-w-6xl mx-auto gap-6 text-center md:grid-cols-3 lg:gap-12">
+<div class="grid max-w-6xl mx-auto gap-6 md:grid-cols-3 lg:gap-12">
   <!-- First Testimonial -->
-  <div class="md:mb-0 bg-neutral dark:bg-neutral-800 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl">
-    <div class="mb-6 flex justify-center">
-    </div>
-    <p class="mb-4 text-xl font-bold">
-        🧔‍♂️ PhDr Lluís Mencheta Peris
-      </p>
-      <p class="mb-4 font-semibold text-primary-900 dark:text-primary-200">
-      Psychologist
-    </p>
-      <p class="mb-4 text-neutral-500 dark:text-neutral-300">
-        Working with him it's always something different, he has authenticity and I consistently get good results working with him.
-      </p>
-      <ul class="mb-0 flex items-center justify-center">
-      <li>
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6 text-golden-500">
-      <path fill-rule="evenodd" d="M10.788 3.21c.448-1.077 1.976-1.077 2.424 0l2.082 5.006 5.404.434c1.164.093 1.636 1.545.749 2.305l-4.117 3.527 1.257 5.273c.271 1.136-.964 2.033-1.96 1.425L12 18.354 7.373 21.18c-.996.608-2.231-.29-1.96-1.425l1.257-5.273-4.117-3.527c-.887-.76-.415-2.212.749-2.305l5.404-.434 2.082-5.005Z" clip-rule="evenodd" /></svg>
-      </li>
-      <li>
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6 text-golden-500">
-      <path fill-rule="evenodd" d="M10.788 3.21c.448-1.077 1.976-1.077 2.424 0l2.082 5.006 5.404.434c1.164.093 1.636 1.545.749 2.305l-4.117 3.527 1.257 5.273c.271 1.136-.964 2.033-1.96 1.425L12 18.354 7.373 21.18c-.996.608-2.231-.29-1.96-1.425l1.257-5.273-4.117-3.527c-.887-.76-.415-2.212.749-2.305l5.404-.434 2.082-5.005Z" clip-rule="evenodd" /></svg>
-      </li>
-      <li>
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6 text-golden-500">
-      <path fill-rule="evenodd" d="M10.788 3.21c.448-1.077 1.976-1.077 2.424 0l2.082 5.006 5.404.434c1.164.093 1.636 1.545.749 2.305l-4.117 3.527 1.257 5.273c.271 1.136-.964 2.033-1.96 1.425L12 18.354 7.373 21.18c-.996.608-2.231-.29-1.96-1.425l1.257-5.273-4.117-3.527c-.887-.76-.415-2.212.749-2.305l5.404-.434 2.082-5.005Z" clip-rule="evenodd" /></svg>
-      </li>
-      <li>
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6 text-golden-500">
-      <path fill-rule="evenodd" d="M10.788 3.21c.448-1.077 1.976-1.077 2.424 0l2.082 5.006 5.404.434c1.164.093 1.636 1.545.749 2.305l-4.117 3.527 1.257 5.273c.271 1.136-.964 2.033-1.96 1.425L12 18.354 7.373 21.18c-.996.608-2.231-.29-1.96-1.425l1.257-5.273-4.117-3.527c-.887-.76-.415-2.212.749-2.305l5.404-.434 2.082-5.005Z" clip-rule="evenodd" /></svg>
-      </li>
-      <li>
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6 text-golden-500">
-      <path fill-rule="evenodd" d="M10.788 3.21c.448-1.077 1.976-1.077 2.424 0l2.082 5.006 5.404.434c1.164.093 1.636 1.545.749 2.305l-4.117 3.527 1.257 5.273c.271 1.136-.964 2.033-1.96 1.425L12 18.354 7.373 21.18c-.996.608-2.231-.29-1.96-1.425l1.257-5.273-4.117-3.527c-.887-.76-.415-2.212.749-2.305l5.404-.434 2.082-5.005Z" clip-rule="evenodd" /></svg>
-      </li>
-    </ul>
-  </div>
-  <!-- Second Testimonial -->
-  <div class="md:mb-0 bg-neutral dark:bg-neutral-800 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl">
-    <div class="mb-6 flex justify-center">
-    </div>
-    <p class="mb-4 text-xl font-bold">
-        👩 Sonia Morales
-      </p>
-      <p class="mb-4 font-semibold text-primary-900 dark:text-primary-200">
-      CFO
-    </p>
-      <p class="mb-4 text-neutral-500 dark:text-neutral-300">
-        Fantastic. We have all enjoyed the show, magic, science, games. I recommend that you stay with him as he makes your life great.
-      </p>
-      <ul class="mb-0 flex items-center justify-center">
-      <li>
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6 text-golden-500">
-      <path fill-rule="evenodd" d="M10.788 3.21c.448-1.077 1.976-1.077 2.424 0l2.082 5.006 5.404.434c1.164.093 1.636 1.545.749 2.305l-4.117 3.527 1.257 5.273c.271 1.136-.964 2.033-1.96 1.425L12 18.354 7.373 21.18c-.996.608-2.231-.29-1.96-1.425l1.257-5.273-4.117-3.527c-.887-.76-.415-2.212.749-2.305l5.404-.434 2.082-5.005Z" clip-rule="evenodd" /></svg>
-      </li>
-      <li>
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6 text-golden-500">
-      <path fill-rule="evenodd" d="M10.788 3.21c.448-1.077 1.976-1.077 2.424 0l2.082 5.006 5.404.434c1.164.093 1.636 1.545.749 2.305l-4.117 3.527 1.257 5.273c.271 1.136-.964 2.033-1.96 1.425L12 18.354 7.373 21.18c-.996.608-2.231-.29-1.96-1.425l1.257-5.273-4.117-3.527c-.887-.76-.415-2.212.749-2.305l5.404-.434 2.082-5.005Z" clip-rule="evenodd" /></svg>
-      </li>
-      <li>
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6 text-golden-500">
-      <path fill-rule="evenodd" d="M10.788 3.21c.448-1.077 1.976-1.077 2.424 0l2.082 5.006 5.404.434c1.164.093 1.636 1.545.749 2.305l-4.117 3.527 1.257 5.273c.271 1.136-.964 2.033-1.96 1.425L12 18.354 7.373 21.18c-.996.608-2.231-.29-1.96-1.425l1.257-5.273-4.117-3.527c-.887-.76-.415-2.212.749-2.305l5.404-.434 2.082-5.005Z" clip-rule="evenodd" /></svg>
-      </li>
-      <li>
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6 text-golden-500">
-      <path fill-rule="evenodd" d="M10.788 3.21c.448-1.077 1.976-1.077 2.424 0l2.082 5.006 5.404.434c1.164.093 1.636 1.545.749 2.305l-4.117 3.527 1.257 5.273c.271 1.136-.964 2.033-1.96 1.425L12 18.354 7.373 21.18c-.996.608-2.231-.29-1.96-1.425l1.257-5.273-4.117-3.527c-.887-.76-.415-2.212.749-2.305l5.404-.434 2.082-5.005Z" clip-rule="evenodd" /></svg>
-      </li>
-      <li>
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6 text-golden-500">
-      <path fill-rule="evenodd" d="M10.788 3.21c.448-1.077 1.976-1.077 2.424 0l2.082 5.006 5.404.434c1.164.093 1.636 1.545.749 2.305l-4.117 3.527 1.257 5.273c.271 1.136-.964 2.033-1.96 1.425L12 18.354 7.373 21.18c-.996.608-2.231-.29-1.96-1.425l1.257-5.273-4.117-3.527c-.887-.76-.415-2.212.749-2.305l5.404-.434 2.082-5.005Z" clip-rule="evenodd" /></svg>
-      </li>
-    </ul>
-  </div>
-    <div class="md:mb-0 bg-neutral dark:bg-neutral-800 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl">
-      <div class="mb-6 flex justify-center">
+  <div class="flex h-auto">
+        <div class="flex flex-col bg-neutral dark:bg-neutral-800 rounded-xl shadow-2xl">
+          <div class="flex-auto p-4 md:p-6">
+            <p class="text-base italic md:text-lg text-gray-800 dark:text-gray-200">
+              "Working with him it's always something different, he has authenticity and I consistently get good results working with him."
+            </p>
+          </div>
+          <div class="p-4 bg-neutral-300 rounded-b-lg md:px-7 dark:bg-neutral-700">
+            <div class="flex items-center">
+              <div class="flex-shrink-0">
+                <img class="h-8 w-8 rounded-full sm:h-[2.875rem] sm:w-[2.875rem]" loading="lazy" src="luis.webp" alt="">
+              </div>
+              <div class="grow ms-3">
+                <p class="text-sm sm:text-base font-semibold text-neutral-800 dark:text-neutral-200">
+                  PhDr Lluís Mencheta Peris
+                </p>
+                <p class="text-xs text-primary-900 dark:text-primary-200">
+                  Psychologist
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
-      <p class="mb-4 text-xl font-bold">
-        🤵‍♂️ Joaquín Saenz Valdez
-      </p>
-      <p class="mb-4 font-semibold text-primary-900 dark:text-primary-200">
-      CEO
-    </p>
-      <p class="mb-4 text-neutral-500 dark:text-neutral-300">
-        It was GREAT. I liked very much his show. We have laughed, learned and played all afternoon. I am grateful. Thanks very much.
-      </p>
-      <ul class="mb-0 flex items-center justify-center">
-      <li>
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6 text-golden-500">
-      <path fill-rule="evenodd" d="M10.788 3.21c.448-1.077 1.976-1.077 2.424 0l2.082 5.006 5.404.434c1.164.093 1.636 1.545.749 2.305l-4.117 3.527 1.257 5.273c.271 1.136-.964 2.033-1.96 1.425L12 18.354 7.373 21.18c-.996.608-2.231-.29-1.96-1.425l1.257-5.273-4.117-3.527c-.887-.76-.415-2.212.749-2.305l5.404-.434 2.082-5.005Z" clip-rule="evenodd" /></svg>
-      </li>
-      <li>
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6 text-golden-500">
-      <path fill-rule="evenodd" d="M10.788 3.21c.448-1.077 1.976-1.077 2.424 0l2.082 5.006 5.404.434c1.164.093 1.636 1.545.749 2.305l-4.117 3.527 1.257 5.273c.271 1.136-.964 2.033-1.96 1.425L12 18.354 7.373 21.18c-.996.608-2.231-.29-1.96-1.425l1.257-5.273-4.117-3.527c-.887-.76-.415-2.212.749-2.305l5.404-.434 2.082-5.005Z" clip-rule="evenodd" /></svg>
-      </li>
-      <li>
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6 text-golden-500">
-      <path fill-rule="evenodd" d="M10.788 3.21c.448-1.077 1.976-1.077 2.424 0l2.082 5.006 5.404.434c1.164.093 1.636 1.545.749 2.305l-4.117 3.527 1.257 5.273c.271 1.136-.964 2.033-1.96 1.425L12 18.354 7.373 21.18c-.996.608-2.231-.29-1.96-1.425l1.257-5.273-4.117-3.527c-.887-.76-.415-2.212.749-2.305l5.404-.434 2.082-5.005Z" clip-rule="evenodd" /></svg>
-      </li>
-      <li>
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6 text-golden-500">
-      <path fill-rule="evenodd" d="M10.788 3.21c.448-1.077 1.976-1.077 2.424 0l2.082 5.006 5.404.434c1.164.093 1.636 1.545.749 2.305l-4.117 3.527 1.257 5.273c.271 1.136-.964 2.033-1.96 1.425L12 18.354 7.373 21.18c-.996.608-2.231-.29-1.96-1.425l1.257-5.273-4.117-3.527c-.887-.76-.415-2.212.749-2.305l5.404-.434 2.082-5.005Z" clip-rule="evenodd" /></svg>
-      </li>
-      <li>
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6 text-golden-500">
-      <path fill-rule="evenodd" d="M10.788 3.21c.448-1.077 1.976-1.077 2.424 0l2.082 5.006 5.404.434c1.164.093 1.636 1.545.749 2.305l-4.117 3.527 1.257 5.273c.271 1.136-.964 2.033-1.96 1.425L12 18.354 7.373 21.18c-.996.608-2.231-.29-1.96-1.425l1.257-5.273-4.117-3.527c-.887-.76-.415-2.212.749-2.305l5.404-.434 2.082-5.005Z" clip-rule="evenodd" /></svg>
-      </li>
-    </ul>
-    </div>
-  </div>
+      <!-- First Testimonial -->
+      <div class="flex h-auto">
+        <div class="flex flex-col bg-neutral dark:bg-neutral-800 rounded-xl shadow-2xl">
+          <div class="flex-auto p-4 md:p-6">
+            <p class="text-base italic md:text-lg text-gray-800 dark:text-gray-200">
+              "Fantastic. We have all enjoyed the show, magic, science, games. I recommend that you stay with him as he makes your life great."
+            </p>
+          </div>
+          <div class="p-4 bg-neutral-300 rounded-b-lg md:px-7 dark:bg-neutral-700">
+            <div class="flex items-center">
+              <div class="flex-shrink-0">
+                <img class="h-8 w-8 rounded-full sm:h-[2.875rem] sm:w-[2.875rem]" loading="lazy" src="sonia.webp" alt="">
+              </div>
+              <div class="grow ms-3">
+                <p class="text-sm sm:text-base font-semibold text-neutral-800 dark:text-neutral-200">
+                  Sonia Morales
+                </p>
+                <p class="text-xs text-primary-900 dark:text-primary-200">
+                  CFO | AVD
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- 2nd -->
+      <div class="flex h-auto">
+        <div class="flex flex-col bg-neutral dark:bg-neutral-800 rounded-xl shadow-2xl">
+          <div class="flex-auto p-4 md:p-6">
+            <p class="text-base italic md:text-lg text-gray-800 dark:text-gray-200">
+              "It was GREAT. I liked very much his show. We have laughed, learned and played all afternoon. I am grateful. Thanks very much."
+            </p>
+          </div>
+          <div class="p-4 bg-neutral-300 rounded-b-lg md:px-7 dark:bg-neutral-700">
+            <div class="flex items-center">
+              <div class="flex-shrink-0">
+                <img class="h-8 w-8 rounded-full sm:h-[2.875rem] sm:w-[2.875rem]" loading="lazy" src="joaquin.webp" alt="">
+              </div>
+              <div class="grow ms-3">
+                <p class="text-sm sm:text-base font-semibold text-neutral-800 dark:text-neutral-200">
+                  Joaquín Saenz Valdez
+                </p>
+                <p class="text-xs text-primary-900 dark:text-primary-200">
+                  CEO
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
 </div>
 </div>
 <!-- Testimonies People -->
@@ -776,7 +777,7 @@ data: {
 <!-- /Stats -->
 <!-- Contact -->
 <section>
-  <div class="relative mt-20 w-screen max-w-[1600px] px-[30px] bg-primary-200 dark:bg-neutral-900 py-16 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
+  <div class="relative mt-20 w-screen max-w-[1600px] px-[30px] bg-primary-200 dark:bg-neutral-900 pt-16 pb-2 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
     <div class="max-w-6xl mx-auto text-center mb-10 lg:mb-14">
       <div class="mx-auto text-center mb-10 lg:mb-14">
         <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Get in touch</p>
@@ -784,7 +785,7 @@ data: {
           Contact - Ask and You shall receive
         </h2>
         <p class="text-xl text-muted">
-          Ask in English 🇬🇧, Spanish 🇪🇸, Czech 🇨🇿
+          Don't be a stranger 🇬🇧, Spanish 🇪🇸, Czech 🇨🇿
         </p>
         </div>
         <!-- Contact Us -->
