@@ -125,27 +125,27 @@
   weight = 20
 
 [[main]]
-  name = "Eventbrite"
+  name = "-"
   parent = "Contact"
   pageRef = "posts"
   weight = 30
 
 [[main]]
-  name = "Twitter"
+  name = ""
   identifier = "twitter"
   pre = "x-twitter"
   url = "https://twitter.com/burufugu"
   weight = 200
 
 [[main]]
-  name = "Mastodon"
+  name = ""
   identifier = "mastodon"
   pre = "mastodon"
   url = "https://masto.ai/@blowfish"
   weight = 300
 
 [[main]]
-  name = "Github"
+  name = ""
   identifier = "github"
   pre = "github"
   url = "https://github.com/nunocoracao/blowfish"
