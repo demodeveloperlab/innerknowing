@@ -358,13 +358,19 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
           <h3 class="font-medium text-gray-800 dark:text-gray-200">
             David Forren
           </h3>
-          <p class="text-xs uppercase text-gray-500">
+          <p class="text-sm mt-1 uppercase text-gray-500">
             Founder / CEO
+          </p>
+          <p class="text-xs mt-1">
+            English 🇬🇧, Spanish 🇪🇸, Czech 🇨🇿
+          </p>
+          <p class="text-sm mt-1 text-gray-500">
+            🎲 Handicapper, 🎭 Modeller, 🏃🏼‍♂️ Trainer, 🎨 Designer, 👨‍🍳 Cook
           </p>
         </div>
       </div>
       <p class="mt-6 text-muted">
-        I am an ambitious workaholic, but apart from that, pretty simple person. I am an ambitious workaholic, but apart from that, pretty simple person. I am an ambitious workaholic, but apart from that, pretty simple person. I am an ambitious workaholic, but apart from that, pretty simple person. I am an ambitious workaholic, but apart from that, pretty simple person.
+        He is a Researcher of the Structure of Subjective Experience, He strive to gain a deeper understanding of how people experience the world through their own consciousness and subconsciousness. He study the inner worlds of thoughts, feelings, and sensations that shape our perceptions, behaviors and choices.
       </p>
       <div class="mt-6 space-x-1">
         <a href="#" title="text" class="inline-flex justify-center items-center w-8 h-8 text-sm font-semibold rounded-lg border border-gray-200 text-gray-500 hover:bg-gray-100 disabled:opacity-50 disabled:pointer-events-none dark:text-gray-400 dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600">
