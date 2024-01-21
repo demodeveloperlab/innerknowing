@@ -1,5 +1,5 @@
 ---
-title: "Nuno Coração"
+title: "🧑🏻‍🦲 Author"
 ---
 
 Nuno's awesome dummy bio.
