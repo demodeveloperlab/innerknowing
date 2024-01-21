@@ -8,7 +8,7 @@ description: "How to install the Blowfish theme."
 slug: 
 authors: 
   - firstauthor
-categories: ["", ""]
+categories: ["yumi", "hello"]
 tags: ["installation", "docs"]
 series: ["Documentation"]
 series_order: 1

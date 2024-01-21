@@ -81,6 +81,24 @@
           {{ .Content | emojify }}
         </div>
                 
+        <!-- tags -->
+        <div class="flex flex-wrap mb-6">
+          📁 {{ range (.GetTerms "categories") }}
+          <span class="text-sm px-1 py-1">
+          <a href="{{ .RelPermalink }}" class="text-sm no-underline tracking-tight font-semibold">
+                  {{ .LinkTitle }}</a>
+          </span>
+          {{ end }}
+    
+          🏷️ {{ range (.GetTerms "tags") }}
+          <span class="inline-block px-1 py-0 my-1 rounded-full">
+              <a href="{{ .RelPermalink }}" class="text-sm no-underline tracking-tight">
+                  {{ .LinkTitle }}</a>
+          </span>
+          {{ end }}
+        </div>
+        <!-- /tags -->
+        
         {{ partial "series-closed.html" . }}
         {{ partial "sharing-links.html" . }}
         {{ partial "related.html" . }}  
