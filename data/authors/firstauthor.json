@@ -1,6 +1,7 @@
 {
     "name": "first author",
     "image" : "img/nuno_avatar.webp",
+    "alt" : "image",
     "bio": "Theme Creator",
     "social": [
         { "linkedin": "https://linkedin.com/in/nunocoracao" },
