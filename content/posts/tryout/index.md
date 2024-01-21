@@ -1,18 +1,17 @@
 ---
-title: "Installation"
+title: "Author"
 date: 2020-08-16
 draft: false
+summary: ""
 description: "How to install the Blowfish theme."
 slug: 
+authors: 
+  - firstauthor
+categories: ["", ""]
 tags: ["installation", "docs"]
 series: ["Documentation"]
 series_order: 1
 ---
-
-{{< figure
-    src="banner.webp"
-    alt="Abstract purple artwork"
-    >}}
 
 ![hello](dog.webp)
 Simply follow the standard Hugo [Quick Start](https://gohugo.io/getting-started/quick-start/) procedure to get up and running quickly.
