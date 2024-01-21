@@ -352,8 +352,8 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 </div>
 <div class="max-w-2xl mx-auto">
     <div class="flex flex-col rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl">
-      <div class="flex items-center gap-x-4">
-        <img class="h-8 w-8 rounded-full sm:h-[2.875rem] sm:w-[2.875rem]" loading="lazy" src="luis.webp" alt="">
+      <div class="flex items-center mx-auto gap-x-4">
+        <img class="h-36 w-36 rounded-full sm:h-[4rem] sm:w-[4rem]" loading="lazy" src="luis.webp" alt="">
         <div class="grow ml-2">
           <h3 class="font-medium text-gray-800 dark:text-gray-200">
             David Forren
