@@ -1,6 +1,7 @@
 ---
 title: "Author"
 date: 2020-08-16
+lastmod: 2023-12-12
 draft: false
 summary: ""
 description: "How to install the Blowfish theme."
