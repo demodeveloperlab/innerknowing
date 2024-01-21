@@ -15,7 +15,7 @@ title = "Blowfish"
 
 [author]
   name = "Your name here"
-  image = "img/blowfish_logo.png"
+  image = "img/blowfish_logo.webp"
   headline = "I'm only human"
   bio = "These instructions will get you up and running using Hugo and Blowfish from a completely blank state. Most of the dependencies mentioned in this guide can be installed using the package manager of choice for your platform."
   links = [
