@@ -661,7 +661,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 </div>
 <!-- /Books-- >
 <!-- People Testimonial --> 
-<div class="relative mt-20 w-screen max-w-[1600px] px-[30px] py-16 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
+<div class="relative mt-20 w-screen max-w-[1600px] px-[30px] mt-20 py-16 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Hear what they are saying?</p>
 <h2 class="mb-4 text-3xl font-bold uppercase">
