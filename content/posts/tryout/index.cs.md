@@ -8,10 +8,6 @@ tags: ["installation", "docs"]
 series: ["Documentation"]
 series_order: 1
 ---
-{{< figure
-    src="banner.webp"
-    alt="Abstract purple artwork"
-    >}}
 
 ![hello](dog.webp)
     

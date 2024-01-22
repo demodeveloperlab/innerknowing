@@ -4,7 +4,7 @@
 {{ $caption := .Title }}
 {{ if findRE "^https?" $url.Scheme }}
   <figure>
-    <img class="my-0 rounded-md" loading="lazy "src="{{ $url.String }}" alt="{{ $altText }}" />
+    <img class="my-0 rounded-md" loading="lazy" decoding="async" src="{{ $url.String }}" alt="{{ $altText }}" />
     {{ with $caption }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
   </figure>
 {{ else }}
@@ -22,6 +22,7 @@
         src="{{ .RelPermalink }}"
         alt="{{ $altText }}"
         loading="lazy"
+        decoding="async"
       />
       {{ else }}
       <img
@@ -34,13 +35,14 @@
         src="{{ (.Resize "660x q75").RelPermalink }}"
         alt="{{ $altText }}"
         loading="lazy"
+        decoding="async"
       />
       {{ end }}
       {{ with $caption }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
     </figure>
   {{ else }}
     <figure>
-      <img class="my-0 rounded-xl" loading="lazy" src="{{ $url.String }}" alt="{{ $altText }}" />
+      <img class="my-0 rounded-xl" loading="lazy" decoding="async" src="{{ $url.String }}" alt="{{ $altText }}" />
       {{ with $caption }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
     </figure>
   {{ end }}
