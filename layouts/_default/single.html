@@ -2,6 +2,9 @@
 {{ .Scratch.Set "scope" "single" }}
 
 <article>
+  <p class="mt-0 text-2xl font-extrabold italic uppercase text-gray-500 mb-6">
+    {{ .Description | emojify }}
+  </p>
   {{ if .Params.showHero | default (.Site.Params.article.showHero | default false) }}
   {{ $heroStyle := .Params.heroStyle }}
   {{ if not $heroStyle }}{{ $heroStyle = .Site.Params.article.heroStyle }}{{ end }}

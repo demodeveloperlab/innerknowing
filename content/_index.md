@@ -9,24 +9,24 @@ description: ""
     <div class="mx-auto">
       <div class="grid items-center gap-12 lg:grid-cols-2 mb-20">
         <div class="lg:mt-0">
-          <h1 class="mb-8 text-4xl font-extrabold display tracking-tight">
+          <h1 class="mb-8 connect font-extrabold display tracking-tight">
             <span="style:strong">CONNECT<span>
           </h1>
           <h2 class="mb-8 text-2xl font-bold text-primary-800 dark:text-primary-200">LEARNING TO RECOGNIZE, LISTEN TO, AND TRUST MY INNER VOICE AND SENSATIONS
           </h2>
           <p class="mt-8 mx-auto mb-10 prose dark:prose-invert max-lg">
            A GUIDE FOR MAKING DECISIONS WITH CONFIDENCE AND LIVING A MORE MEANINGFUL LIFE. RESEARCH OF THE STRUCTURE OF SUBJECTIVE EXPERIENCE</p>
-          <a href="#" class="inline-flex justify-center items-center mt-6 py-3 px-5 text-center bg-transparent text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold border border-primary-200 hover:border-transparent rounded-full">
+          <a href="#" class="inline-flex justify-center items-center mt-6 py-3 px-5 text-center bg-transparent text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold border hover:border-transparent rounded-full">
            Read more
         </a>
         <span class="mr-2"></span>
-          <a href="#" class="inline-flex justify-center items-center mt-6 py-3 px-5 text-center bg-transparent text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold border border-primary-200 hover:border-transparent rounded-full">
+          <a href="#" class="inline-flex justify-center items-center mt-6 py-3 px-5 text-center bg-transparent text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold border hover:border-transparent rounded-full">
             Ask a Question
         <svg class="w-3.5 h-3.5 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/></svg>
         </a>
         </div>
         <div class="mt-8">
-           <img class="rounded-full shadow-lx" width="330" height="330" loading="lazy" alt="" src="123.webp" />
+           <img class="rounded-full shadow-lx" width="316" height="316" loading="lazy" alt="" src="123.webp" />
         </div>
       </div>
     </div>
@@ -37,7 +37,7 @@ description: ""
   <section>
 <div class="relative w-screen max-w-[1600px] px-[30px] py-16 mb-8 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
 <div class="max-w-2xl mx-auto">
-   <div class="flex items-center justify-center bg-wit dark:bg-neutral-900 py-6 rounded-xl shadow-2xl">
+   <div class="flex items-center justify-center text-primary-900 dark:text-primary-200 font-semibold border py-6 px-6 rounded-full shadow-2xl">
       <p class="text-xl">
          <span class="font-bold">
          <svg width="1.5em" height="1.5em" viewBox="0 0 24 24" class="w-6 h-6 inline-block align-text-bottom mr-2" data-icon="tabler:info-square">  <symbol id="ai:tabler:info-square"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M12 9h.01M3 5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><path d="M11 12h1v4h1"></path></g></symbol> <use xlink:href="#ai:tabler:info-square"></use> </svg>
@@ -319,7 +319,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
   </div>
   <div class="md:mb-0 bg-neutral dark:bg-neutral-900 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl text-center">
     <div class="flex justify-center items-center">
-    <svg height="64px" width="64px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <circle style="fill:#1B4145;" cx="312.889" cy="125.156" r="62.578"></circle> <path style="fill:#1B4145;" d="M312.889,221.867c-69.121,0-125.156,56.034-125.156,125.156h250.311 C438.044,277.901,382.01,221.867,312.889,221.867z"></path> </g> <g> <circle style="fill:#609399;" cx="125.156" cy="125.156" r="62.578"></circle> <path style="fill:#609399;" d="M125.156,221.867C56.034,221.867,0,277.901,0,347.022h250.311 C250.311,277.901,194.277,221.867,125.156,221.867z"></path> </g> <circle style="fill:#F14742;" cx="438.044" cy="375.467" r="73.956"></circle> <path style="fill:#FFFFFF;" d="M466.489,366.933h-19.911v-19.911c0-4.714-3.821-8.533-8.533-8.533s-8.533,3.82-8.533,8.533v19.911 H409.6c-4.713,0-8.533,3.82-8.533,8.533S404.887,384,409.6,384h19.911v19.911c0,4.714,3.821,8.533,8.533,8.533 s8.533-3.82,8.533-8.533V384h19.911c4.713,0,8.533-3.82,8.533-8.533S471.202,366.933,466.489,366.933z"></path> </g></svg>
+    <svg height="64px" width="64px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <circle style="fill:#609399;" cx="312.889" cy="125.156" r="62.578"></circle> <path style="fill:#609399;" d="M312.889,221.867c-69.121,0-125.156,56.034-125.156,125.156h250.311 C438.044,277.901,382.01,221.867,312.889,221.867z"></path> </g> <g> <circle style="fill:#2196F3;" cx="125.156" cy="125.156" r="62.578"></circle> <path style="fill:#2196F3;" d="M125.156,221.867C56.034,221.867,0,277.901,0,347.022h250.311 C250.311,277.901,194.277,221.867,125.156,221.867z"></path> </g> <circle style="fill:#F14742;" cx="438.044" cy="375.467" r="73.956"></circle> <path style="fill:#FFFFFF;" d="M466.489,366.933h-19.911v-19.911c0-4.714-3.821-8.533-8.533-8.533s-8.533,3.82-8.533,8.533v19.911 H409.6c-4.713,0-8.533,3.82-8.533,8.533S404.887,384,409.6,384h19.911v19.911c0,4.714,3.821,8.533,8.533,8.533 s8.533-3.82,8.533-8.533V384h19.911c4.713,0,8.533-3.82,8.533-8.533S471.202,366.933,466.489,366.933z"></path> </g></svg>
     </div>
     <p class="mb-4 mt-4 text-xl font-bold">Private sessions</p>
     <p class="text-neutral-500 dark:text-neutral-300">
@@ -615,6 +615,9 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
     <p class="text-neutral-500 dark:text-neutral-300">
       Collection of entertaining party games for all ages.
     </p>
+    <p class="text-xs mt-2">
+     🇬🇧
+    </p>
   </div>
   <div class="md:mb-0 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl text-center">
     <div class="flex justify-center items-center">
@@ -624,6 +627,9 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
     <p class="text-neutral-500 dark:text-neutral-300">
       Poslední slova - Nechal jsem 10 milionu korun v…
     </p>
+    <p class="text-xs mt-2">
+     🇨🇿
+    </p>
   </div>
   <div class="md:mb-0 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl text-center">
     <div class="flex justify-center items-center">
@@ -632,6 +638,9 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
     <p class="mb-4 mt-4 text-xl font-bold">CLEAN LANGUAGE</p>
     <p class="text-neutral-500 dark:text-neutral-300">
       Questions that help people access their own wisdom.
+    </p>
+    <p class="text-xs mt-2">
+     🇬🇧 🇪🇸 🇨🇿
     </p>
   </div>
     </div>
@@ -784,7 +793,7 @@ data: {
           Contact - Ask and You shall receive
         </h2>
         <p class="text-xl text-muted">
-          Strangers are just friends waiting to happen 🇬🇧, Spanish 🇪🇸, Czech 🇨🇿
+          Strangers are just friends waiting to happen...
         </p>
         </div>
 <div class="max-w-[85rem] rounded-xl">

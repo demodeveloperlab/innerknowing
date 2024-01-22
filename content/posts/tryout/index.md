@@ -3,8 +3,8 @@ title: "Author"
 date: 2020-08-16
 lastmod: 2023-12-12
 draft: false
-summary: ""
-description: "How to install the Blowfish theme."
+summary: "How to install something"
+description: "A GUIDE FOR MAKING DECISIONS WITH CONFIDENCE AND LIVING A MORE MEANINGFUL LIFE. RESEARCH OF THE STRUCTURE OF SUBJECTIVE EXPERIENCE"
 slug: 
 authors: 
   - Your-name-here

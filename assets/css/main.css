@@ -134,6 +134,10 @@ code {
   @apply static rounded-md text-neutral-700 bg-neutral-50 dark:bg-neutral-700 dark:text-neutral-200;
 }
 
+.testimonies .chroma {
+  @apply dark:bg-neutral-300;
+}
+
 /* LineTableTD */
 .chroma .lntd,
 .chroma .lntd pre {

@@ -143,3 +143,13 @@
   name = "Categories"
   pageRef = "categories"
   weight = 20
+
+[[footer]]
+  name = "Series"
+  pageRef = "series"
+  weight = 30
+
+[[footer]]
+  name = "Authors"
+  pageRef = "authors"
+  weight = 40
