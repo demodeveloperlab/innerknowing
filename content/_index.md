@@ -9,7 +9,7 @@ description: ""
     <div class="mx-auto">
       <div class="grid items-center gap-12 lg:grid-cols-2 mb-20">
         <div class="lg:mt-0">
-          <h1 class="mb-20 font-extrabold display tracking-tight">
+          <h1 class="mb-20 connect font-extrabold display tracking-tight">
             CONNECT
           </h1>
           <h2 class="mb-8 text-2xl font-bold text-primary-800 dark:text-primary-200">LEARNING TO RECOGNIZE, LISTEN TO, AND TRUST MY INNER VOICE AND SENSATIONS
