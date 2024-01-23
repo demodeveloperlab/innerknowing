@@ -38,11 +38,11 @@ smartTOC = true
 [homepage]
   layout = "page" # valid options: page, profile, hero, card, background, custom
    #homepageImage = "123.webp"
-  showRecent = true
+  showRecent = false
   showRecentItems = false
-  showMoreLink = true
+  showMoreLink = false
   showMoreLinkDest = "/posts"
-  cardView = true
+  cardView = false
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
 
