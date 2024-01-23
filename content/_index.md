@@ -26,7 +26,7 @@ description: ""
         </a>
         </div>
         <div class="mt-8">
-          {{< figure src="123.webp" alt="connection" >}}
+          {{< figure src="123.webp" alt="connection" loading="lazy" decoding="async" >}}
        </div>
       </div>
     </div>
@@ -186,7 +186,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 <div class="px-4 mx-auto">
   <div class="grid gap-6 row-gap-10 lg:grid-cols-2">
   <div class="relative">
-      {{< figure src="pixabay.com.illustrations.ai-generated-iceberg-glacier-water-8400811.webp" alt="glacier" class="rounded-xl shadow-2xl" >}}
+      {{< figure src="pixabay.com.illustrations.ai-generated-iceberg-glacier-water-8400811.webp" alt="glacier" class="rounded-xl shadow-2xl" loading="lazy" decoding="async" >}}
     </div>
     <div class="lg:py-6">
         <div class="flex">
@@ -356,7 +356,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
   <div class="max-w-2xl mx-auto">
       <div class="flex flex-col rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl">
         <div class="flex items-center mx-auto gap-x-4">
-          {{< figure src="author1.webp" alt="author" class="h-36 w-36 sm:h-[4rem] sm:w-[4rem]" >}}
+          {{< figure src="author1.webp" alt="author" class="h-36 w-36 sm:h-[4rem] sm:w-[4rem]" loading="lazy" decoding="async" >}}
           <div class="grow ml-2">
             <h3 class="font-medium text-gray-800 dark:text-gray-200">
               Vlad
@@ -682,7 +682,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
           <div class="p-4 bg-wit rounded-b-lg md:px-7">
             <div class="flex items-center">
               <div class="flex-shrink-0">
-                {{< figure src="luis.webp" alt="author" class="h-8 w-8 rounded-full sm:h-[2.875rem] sm:w-[2.875rem]" >}}
+                {{< figure src="luis.webp" alt="author" class="h-8 w-8 rounded-full sm:h-[2.875rem] sm:w-[2.875rem]" loading="lazy" decoding="async" >}}
               </div>
               <div class="grow ms-3">
                 <p class="text-sm sm:text-base font-semibold text-neutral-800 dark:text-neutral-800">
@@ -706,7 +706,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
           <div class="p-4 bg-wit rounded-b-lg md:px-7">
             <div class="flex items-center">
               <div class="flex-shrink-0">
-              {{< figure src="sonia.webp" alt="author" class="h-8 w-8 rounded-full sm:h-[2.875rem] sm:w-[2.875rem]" >}}
+              {{< figure src="sonia.webp" alt="author" class="h-8 w-8 rounded-full sm:h-[2.875rem] sm:w-[2.875rem]" loading="lazy" decoding="async" >}}
               </div>
               <div class="grow ms-3">
                 <p class="text-sm sm:text-base font-semibold text-neutral-800 dark:text-neutral-800">
@@ -730,7 +730,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
           <div class="p-4 rounded-b-lg md:px-7 bg-wit dark:text-neutral-200">
             <div class="flex items-center">
               <div class="flex-shrink-0">
-               {{< figure src="joaquin.webp" alt="author" class="h-8 w-8 rounded-full sm:h-[2.875rem] sm:w-[2.875rem]" >}}
+               {{< figure src="joaquin.webp" alt="author" class="h-8 w-8 rounded-full sm:h-[2.875rem] sm:w-[2.875rem]" loading="lazy" decoding="async" >}}
               </div>
               <div class="grow ms-3">
                 <p class="text-sm sm:text-base font-semibold text-neutral-800 dark:text-neutral-800">
