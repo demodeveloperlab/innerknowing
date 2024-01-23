@@ -2,7 +2,7 @@
 {{ .Scratch.Set "scope" "single" }}
 
 <article>
-  <p class="mt-0 text-2xl font-extrabold italic text-primary-800 dark:text-primary-200 mb-6">
+  <p class="mt-0 text-2xl font-bold italic mb-6">
     {{ .Description | emojify }}
   </p>
   {{ if .Params.showHero | default (.Site.Params.article.showHero | default false) }}
@@ -88,14 +88,14 @@
         <div class="flex flex-wrap mb-6">
           📁 {{ range (.GetTerms "categories") }}
           <span class="text-sm px-1 py-1">
-          <a href="{{ .RelPermalink }}" class="text-sm text-primary-700 dark:text-primary-400 no-underline tracking-tight font-semibold">
+          <a href="{{ .RelPermalink }}" class="text-sm text-primary-800 dark:text-primary-200 no-underline tracking-tight font-semibold">
                   {{ .LinkTitle }}</a>
           </span>
           {{ end }}
     
           🏷️ {{ range (.GetTerms "tags") }}
           <span class="inline-block px-1 py-0 my-1 rounded-full">
-              <a href="{{ .RelPermalink }}" class="text-sm text-primary-700 dark:text-primary-400 no-underline tracking-tight">
+              <a href="{{ .RelPermalink }}" class="text-sm text-primary-800 dark:text-primary-200 no-underline tracking-tight">
                   {{ .LinkTitle }}</a>
           </span>
           {{ end }}
@@ -108,16 +108,27 @@
           <div class="text-center">
             <h3>
               {{ if eq .Site.Language.Lang "es" }}
-              Participa activamente en el sitio web comentando, dando tu opinión, haciendo peticiones, sugerencias...
+              <p class="text-center mb-8">
+                Participa activamente en el sitio web comentando, dando tu opinión, haciendo peticiones, sugerencias...
+              </p>
               <div class="mb-4"></div><a href="https://t.me/innerknowingsense" aria-label="Conectarse en Telegram" target="_blank" rel="noopener">
-                <span style="color:#27A7E7; font-size: 4rem"><i class="fa-brands fa-telegram"></i></i></span></a> 
+                <svg width="96px" height="96px" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <circle cx="16" cy="16" r="14" fill="url(#paint0_linear_87_7225)"></circle> <path d="M22.9866 10.2088C23.1112 9.40332 22.3454 8.76755 21.6292 9.082L7.36482 15.3448C6.85123 15.5703 6.8888 16.3483 7.42147 16.5179L10.3631 17.4547C10.9246 17.6335 11.5325 17.541 12.0228 17.2023L18.655 12.6203C18.855 12.4821 19.073 12.7665 18.9021 12.9426L14.1281 17.8646C13.665 18.3421 13.7569 19.1512 14.314 19.5005L19.659 22.8523C20.2585 23.2282 21.0297 22.8506 21.1418 22.1261L22.9866 10.2088Z" fill="white"></path> <defs> <linearGradient id="paint0_linear_87_7225" x1="16" y1="2" x2="16" y2="30" gradientUnits="userSpaceOnUse"> <stop stop-color="#37BBFE"></stop> <stop offset="1" stop-color="#007DBB"></stop> </linearGradient> </defs> </g></svg>
+                </a> 
               {{ else if eq .Site.Language.Lang "en" }}
-              <p class="text-center mb-8">Actively participate in the website by commenting, giving your opinion, making requests, suggestions...</p><a href="https://t.me/innerknowingsense" aria-label="Connect on Telegram" target="_blank" rel="noopener" class="flex justify-center items-center">
+              <p class="text-center mb-8">
+                Actively participate in the website by commenting, giving your opinion, making requests, suggestions...
+              </p>
+                <a href="https://t.me/innerknowingsense" aria-label="Connect on Telegram" target="_blank" rel="noopener" class="flex justify-center items-center">
                 <svg width="96px" height="96px" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <circle cx="16" cy="16" r="14" fill="url(#paint0_linear_87_7225)"></circle> <path d="M22.9866 10.2088C23.1112 9.40332 22.3454 8.76755 21.6292 9.082L7.36482 15.3448C6.85123 15.5703 6.8888 16.3483 7.42147 16.5179L10.3631 17.4547C10.9246 17.6335 11.5325 17.541 12.0228 17.2023L18.655 12.6203C18.855 12.4821 19.073 12.7665 18.9021 12.9426L14.1281 17.8646C13.665 18.3421 13.7569 19.1512 14.314 19.5005L19.659 22.8523C20.2585 23.2282 21.0297 22.8506 21.1418 22.1261L22.9866 10.2088Z" fill="white"></path> <defs> <linearGradient id="paint0_linear_87_7225" x1="16" y1="2" x2="16" y2="30" gradientUnits="userSpaceOnUse"> <stop stop-color="#37BBFE"></stop> <stop offset="1" stop-color="#007DBB"></stop> </linearGradient> </defs> </g></svg>
                 </a> 
               {{ else if eq .Site.Language.Lang "cs" }}
-              Aktivně se zapojujte do webu komentováním, vyjadřováním svého názoru, podáváním žádostí, návrhů...<div class="mb-3"></div><a href="https://t.me/innerknowingsense" aria-label="Připojit se na Telegramu" target="_blank" rel="noopener">
-                <span style="color:#27A7E7; font-size: 4rem"><i class="fa-brands fa-telegram"></i></i></span></a> 
+              <p class="text-center mb-8">
+                Aktivně se zapojujte do webu komentováním, vyjadřováním svého názoru, podáváním žádostí, návrhů...
+              </p>
+              <div class="mb-3"></div>
+              <a href="https://t.me/innerknowingsense" aria-label="Připojit se na Telegramu" target="_blank" rel="noopener">
+                <svg width="96px" height="96px" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <circle cx="16" cy="16" r="14" fill="url(#paint0_linear_87_7225)"></circle> <path d="M22.9866 10.2088C23.1112 9.40332 22.3454 8.76755 21.6292 9.082L7.36482 15.3448C6.85123 15.5703 6.8888 16.3483 7.42147 16.5179L10.3631 17.4547C10.9246 17.6335 11.5325 17.541 12.0228 17.2023L18.655 12.6203C18.855 12.4821 19.073 12.7665 18.9021 12.9426L14.1281 17.8646C13.665 18.3421 13.7569 19.1512 14.314 19.5005L19.659 22.8523C20.2585 23.2282 21.0297 22.8506 21.1418 22.1261L22.9866 10.2088Z" fill="white"></path> <defs> <linearGradient id="paint0_linear_87_7225" x1="16" y1="2" x2="16" y2="30" gradientUnits="userSpaceOnUse"> <stop stop-color="#37BBFE"></stop> <stop offset="1" stop-color="#007DBB"></stop> </linearGradient> </defs> </g></svg>
+                </a> 
               {{ end }}
             </h3>
           </div>
