@@ -12,7 +12,8 @@
 
 [[main]]
   name = "Mission"
-  pageRef = "https://hello.com"
+  title = "Mission"
+  url = "https://hello.com"
   weight = 10
 
 [[main]]

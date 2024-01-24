@@ -73,7 +73,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 <div class="relative mt-20 w-screen max-w-[1600px] px-[30px] py-16 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
   <section>
 <div class="mx-auto text-center mb-20">
-<a id="courses"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+<a id="courses" href="/courses" title="Courses"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
 Features
 </p>
 </a>
@@ -178,7 +178,7 @@ Features
 <div class="mt-20 py-16 max-w-7xl">
   <section class="mx-auto">
 <div class="mx-auto text-center mb-20">
-<a id="process"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+<a id="process" href="/process" title="Process"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
 Process
 </p>
 <h2 class="mb-4 text-3xl font-bold uppercase">
@@ -289,8 +289,8 @@ Process
 <div class="relative mt-20 w-screen max-w-[1600px] px-[30px] py-16 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
   <section>
 <div class="mx-auto text-center mb-20">
-<a id="practice"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
-Practice
+<a id="practice" href="/events" title="Events"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+Practice & Events
 </p>
 </a>
 <h2 class="mb-4 text-3xl font-bold uppercase">
@@ -353,7 +353,7 @@ Practice
 <!-- Bio -->
 <div class="relative w-screen max-w-[1600px] mt-20 py-16 px-[30px] dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
   <div class="mx-auto text-center mb-20 lg:mb-14">
-  <a id="bio"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+  <a id="bio" href="/bio" title="Bio"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
 Bio
 </p>
 </a>
@@ -422,7 +422,7 @@ Bio
 <div class="relative mt-20 w-screen max-w-[1600px] px-[30px] py-16 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
   <section>
 <div class="mx-auto text-center mb-20">
-<a id="tools"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+<a id="tools" href="/tools" title="Tools"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
 Toolbox
 </p>
 </a>
@@ -490,7 +490,7 @@ Toolbox
   <section>
     <div class="max-w-6xl mx-auto text-center mb-10 lg:mb-14">
       <div class="mx-auto text-center mb-10 lg:mb-14">
-        <a id="recent posts"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+        <a id="recent posts" href="/posts" title="Posts"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
         Posts
         </p>
         </a>
@@ -518,7 +518,7 @@ Toolbox
 <div class="relative mt-20 w-screen max-w-[1600px] px-[30px] py-16 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
   <section>
 <div class="mx-auto text-center mb-20">
-<a id="faq"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+<a id="faq" href="/faq" title="FAQ"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
 FAQ
 </p>
 </a>
@@ -620,7 +620,7 @@ FAQ
 <div class="block max-w-7xl mt-20 py-16 mx-auto">
    <section class="mx-auto">
 <div class="mx-auto text-center mb-20">
-<a id="books"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+<a id="books" href="/books" title="Books"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
 Books
 </p>
 </a>
@@ -686,7 +686,7 @@ Books
 <!-- People Testimonial --> 
 <div class="relative w-screen max-w-[1600px] px-[30px] mt-20 py-16 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
 <div class="mx-auto text-center mb-20">
-<a id="testimonials"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+<a id="testimonials" href="/testimonials" title="Testimonials"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
 Testimonials
 </p>
 <h2 class="mb-4 text-3xl font-bold uppercase">
@@ -776,7 +776,7 @@ Testimonials
 <div class="relative w-screen max-w-[1600px] px-[30px] mt-20 py-16" style="left: calc(max(-50vw,-800px) + 50%);">
   <section class="max-w-6xl mx-auto">
 <div class="mx-auto text-center mb-20">
-<a id="stats"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+<a id="stats" href="/stats" title="Stats"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
 Stats
 </p>
 <h2 class="mb-4 text-3xl font-bold uppercase">
@@ -817,8 +817,8 @@ data: {
   <div class="relative mt-20 py-16 w-screen max-w-[1600px] px-[30px] rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
     <div class="max-w-6xl mx-auto text-center">
       <div class="mx-auto text-center mb-20">
-        <a id="contact"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
-        Contact
+        <a id="message" href="/message" title="Message"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+        Contact & message
         </p>
         <h2 class="mb-4 text-3xl font-bold uppercase">
           Get in touch - Ask and You shall receive
