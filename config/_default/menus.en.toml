@@ -38,6 +38,7 @@
 
 [[main]]
   name = "Events"
+  title = "Events"
   pageRef = "https://example.com"
   weight = 20
 

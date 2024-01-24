@@ -178,7 +178,7 @@ Features
 <div class="mt-20 py-16 max-w-7xl">
   <section class="mx-auto">
 <div class="mx-auto text-center mb-20">
-<a id="process" href="/process" title="Process"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+<a id="process" href="/process"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
 Process
 </p>
 <h2 class="mb-4 text-3xl font-bold uppercase">
