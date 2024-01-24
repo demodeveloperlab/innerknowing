@@ -3,8 +3,8 @@
 {{ $class := .class }}
 {{ $lazy := .lazy }}
 {{ $webp := .webp }}
-{{ $lqip := .lqip | default false }}
-{{ $x2 := .x2 | default false }}
+{{ $lqip := .lqip | default true }}
+{{ $x2 := .x2 | default true }}
 
 {{ with $img }}
   {{ if (eq .MediaType.SubType "svg") }}
