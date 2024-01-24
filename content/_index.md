@@ -178,9 +178,10 @@ Features
 <div class="mt-20 py-16 max-w-7xl">
   <section class="mx-auto">
 <div class="mx-auto text-center mb-20">
-<a id="process" href="/process"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+<a id="process" href="/process" title="Process"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
 Process
 </p>
+</a>
 <h2 class="mb-4 text-3xl font-bold uppercase">
   From Imagination to Reality
 </h2>
@@ -689,6 +690,7 @@ Books
 <a id="testimonials" href="/testimonials" title="Testimonials"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
 Testimonials
 </p>
+</a>
 <h2 class="mb-4 text-3xl font-bold uppercase">
   Hear what they are saying?
 </h2>
@@ -779,6 +781,7 @@ Testimonials
 <a id="stats" href="/stats" title="Stats"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
 Stats
 </p>
+</a>
 <h2 class="mb-4 text-3xl font-bold uppercase">
   I walk the talk
 </h2>
@@ -820,6 +823,7 @@ data: {
         <a id="message" href="/message" title="Message"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
         Contact & message
         </p>
+        </a>
         <h2 class="mb-4 text-3xl font-bold uppercase">
           Get in touch - Ask and You shall receive
         </h2>
