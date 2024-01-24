@@ -26,7 +26,7 @@ description: ""
         </a>
         </div>
         <div class="mt-8">
-          {{< figure src="123.webp" alt="connection" loading="lazy" >}}
+          {{< figure src="123.webp" alt="connection" loading="lazy" height="440" width="440" >}}
        </div>
       </div>
     </div>
