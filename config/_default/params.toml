@@ -9,6 +9,8 @@ colorScheme = "blowfish"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = true
 
+enableImageLazyLoading = true
+enableImageWebp = true
 enableSearch = true
 enableCodeCopy = true
 
