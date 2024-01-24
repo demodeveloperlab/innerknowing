@@ -490,7 +490,7 @@ Toolbox
   <section>
     <div class="max-w-6xl mx-auto text-center mb-10 lg:mb-14">
       <div class="mx-auto text-center mb-10 lg:mb-14">
-        <a id="recent posts" href="/posts" title="Posts"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+        <a id="recent-posts" href="/posts" title="Posts"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
         Posts
         </p>
         </a>

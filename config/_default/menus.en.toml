@@ -12,26 +12,28 @@
 
 [[main]]
   name = "Mission"
-  title = "Mission"
-  url = "https://hello.com"
+  pageRef = "https://hello.com"
   weight = 10
 
 [[main]]
   name = "About"
   parent = "Mission"
-  pageRef = "author"
+  title = "Bio"
+  url = "#bio"
   weight = 10
 
 [[main]]
   name = "Success Stories"
   parent = "Mission"
-  pageRef = "bio"
+  title = "Testimonies"
+  url = "#testimonials"
   weight = 20
 
 [[main]]
   name = "Failures and Learnings"
   parent = "Mission"
-  pageRef = "posts"
+  title = "Failures and learnings"
+  pageRef = "/about/failures"
   weight = 30
 
 [[main]]
@@ -42,14 +44,9 @@
 [[main]]
   name = "Upcoming Events"
   parent = "Events"
-  pageRef = "https://example.com"
+  title = "Practice"
+  url = "#practice"
   weight = 10
-
-[[main]]
-  name = "Public Group"
-  parent = "Events"
-  pageRef = "posts"
-  weight = 20
 
 [[main]]
   name = "Publications"
@@ -59,13 +56,15 @@
 [[main]]
   name = "Posts"
   parent = "Publications"
-  pageRef = "posts"
+  title = "Posts"
+  url = "#recent-posts"
   weight = 10
 
 [[main]]
   name = "Books"
   parent = "Publications"
-  pageRef = "posts"
+  title = "Books"
+  url = "#books"
   weight = 20
 
 [[main]]
@@ -76,13 +75,15 @@
 [[main]]
   name = "Course Connection"
   parent = "Courses"
-  pageRef = "posts"
+  title = "Courses"
+  url = "#courses"
   weight = 10
 
 [[main]]
   name = "Course Practice"
   parent = "Courses"
-  pageRef = "posts"
+  title = "Practice"
+  url = "#practice"
   weight = 20
 
 [[main]]
@@ -93,13 +94,13 @@
 [[main]]
   name = "Reading"
   parent = "Sources"
-  pageRef = "posts"
+  pageRef = "/sources/reading"
   weight = 10
 
 [[main]]
   name = "Links"
   parent = "Sources"
-  pageRef = "posts"
+  pageRef = "/sources/links"
   weight = 20
 
 [[main]]
@@ -116,13 +117,14 @@
 [[main]]
   name = "Contact Form"
   parent = "Contact"
-  pageRef = "posts"
+  title = "Contact & Message"
+  url = "#message"
   weight = 10
 
 [[main]]
   name = "Inner Group"
   parent = "Contact"
-  pageRef = "posts"
+  pageRef = "events/inner-group"
   weight = 20
 
 [[main]]
