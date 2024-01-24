@@ -4,7 +4,7 @@
 {{ $lazy := .lazy }}
 {{ $webp := .webp }}
 {{ $lqip := .lqip | default true }}
-{{ $x2 := .x2 | default true }}
+{{ $x2 := .x2 | default false }}
 
 {{ with $img }}
   {{ if (eq .MediaType.SubType "svg") }}
