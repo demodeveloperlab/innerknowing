@@ -12,19 +12,19 @@
 
 [[main]]
   name = "Mission"
-  pageRef = "https://demodeveloperlab.github.io/innerknowing/en/"
+  pageRef = "https://hello.com"
   weight = 10
 
 [[main]]
   name = "About"
   parent = "Mission"
-  pageRef = "https://example.com"
+  pageRef = "author"
   weight = 10
 
 [[main]]
   name = "Success Stories"
   parent = "Mission"
-  pageRef = "posts"
+  pageRef = "bio"
   weight = 20
 
 [[main]]

@@ -73,7 +73,10 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 <div class="relative mt-20 w-screen max-w-[1600px] px-[30px] py-16 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
   <section>
 <div class="mx-auto text-center mb-20">
-<p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Features</p>
+<a id="courses"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+Features
+</p>
+</a>
 <h2 class="mb-4 text-3xl font-bold uppercase">
   What's in it for me?
 </h2>
@@ -175,7 +178,9 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 <div class="mt-20 py-16 max-w-7xl">
   <section class="mx-auto">
 <div class="mx-auto text-center mb-20">
-<p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Process</p>
+<a id="process"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+Process
+</p>
 <h2 class="mb-4 text-3xl font-bold uppercase">
   From Imagination to Reality
 </h2>
@@ -284,7 +289,10 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 <div class="relative mt-20 w-screen max-w-[1600px] px-[30px] py-16 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
   <section>
 <div class="mx-auto text-center mb-20">
-<p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Events</p>
+<a id="practice"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+Practice
+</p>
+</a>
 <h2 class="mb-4 text-3xl font-bold uppercase">
   Improving self relationship
 </h2>
@@ -345,7 +353,10 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 <!-- Bio -->
 <div class="relative w-screen max-w-[1600px] mt-20 py-16 px-[30px] dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
   <div class="mx-auto text-center mb-20 lg:mb-14">
-  <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Bio</p>
+  <a id="bio"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+Bio
+</p>
+</a>
   <h2 class="mb-4 text-3xl font-bold uppercase">
     COMMITTED TO MAKING A DIFFERENCE
   </h2>
@@ -399,7 +410,7 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
           </a>
         </div>
         <div class="flex justify-center">
-    <a href="https://bio.com" title="bio" class="bg-transparent mt-10 mb-4 hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
+    <a href="https://bio.com" title="bio" rel="author bio" class="bg-transparent mt-10 mb-4 hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
         See full bio
       </a>
     </div>
@@ -411,7 +422,10 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 <div class="relative mt-20 w-screen max-w-[1600px] px-[30px] py-16 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
   <section>
 <div class="mx-auto text-center mb-20">
-<p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Toolbox</p>
+<a id="tools"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+Toolbox
+</p>
+</a>
 <h2 class="mb-4 text-3xl font-bold uppercase">
   My Favorite tools
 </h2>
@@ -476,9 +490,12 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
   <section>
     <div class="max-w-6xl mx-auto text-center mb-10 lg:mb-14">
       <div class="mx-auto text-center mb-10 lg:mb-14">
-        <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Publications</p>
+        <a id="recent posts"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+        Posts
+        </p>
+        </a>
         <h2 class="mb-4 text-3xl font-bold uppercase">
-          Recent posts
+          Recent publications
         </h2>
         <p class="text-xl text-muted">
           Gathering, Organizing, Writing, Editing, Translating, Publishing
@@ -501,7 +518,10 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 <div class="relative mt-20 w-screen max-w-[1600px] px-[30px] py-16 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
   <section>
 <div class="mx-auto text-center mb-20">
-<p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">FAQ</p>
+<a id="faq"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+FAQ
+</p>
+</a>
 <h2 class="mb-4 text-3xl font-bold uppercase">
   Frequently asked questions
 </h2>
@@ -600,9 +620,12 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 <div class="block max-w-7xl mt-20 py-16 mx-auto">
    <section class="mx-auto">
 <div class="mx-auto text-center mb-20">
-<p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Reading and Writing</p>
+<a id="books"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+Books
+</p>
+</a>
 <h2 class="mb-4 text-3xl font-bold uppercase">
-  Books - I love writing
+  I love writing
 </h2>
 <p class="text-xl text-muted">
   Gathering, Organizing, Editing and Sharing
@@ -663,9 +686,11 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 <!-- People Testimonial --> 
 <div class="relative w-screen max-w-[1600px] px-[30px] mt-20 py-16 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
 <div class="mx-auto text-center mb-20">
-<p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Hear what they are saying?</p>
+<a id="testimonials"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+Testimonials
+</p>
 <h2 class="mb-4 text-3xl font-bold uppercase">
-  Testimonials
+  Hear what they are saying?
 </h2>
 <p class="container text-xl">
   Whatever your status, our offers evolve according to your needs. 
@@ -751,9 +776,11 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 <div class="relative w-screen max-w-[1600px] px-[30px] mt-20 py-16" style="left: calc(max(-50vw,-800px) + 50%);">
   <section class="max-w-6xl mx-auto">
 <div class="mx-auto text-center mb-20">
-<p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Competency</p>
+<a id="stats"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+Stats
+</p>
 <h2 class="mb-4 text-3xl font-bold uppercase">
-  Stats: I walk the talk
+  I walk the talk
 </h2>
 <p class="text-xl text-muted">
   Kaizen - Never ending improvement
@@ -790,9 +817,11 @@ data: {
   <div class="relative mt-20 py-16 w-screen max-w-[1600px] px-[30px] rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
     <div class="max-w-6xl mx-auto text-center">
       <div class="mx-auto text-center mb-20">
-        <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Get in touch</p>
+        <a id="contact"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+        Contact
+        </p>
         <h2 class="mb-4 text-3xl font-bold uppercase">
-          Contact - Ask and You shall receive
+          Get in touch - Ask and You shall receive
         </h2>
         <p class="text-xl text-muted">
           Strangers are just friends waiting to happen...
