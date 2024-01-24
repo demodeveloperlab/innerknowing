@@ -18,34 +18,29 @@
 [[main]]
   name = "About"
   parent = "Mission"
-  title = "Bio"
   url = "#bio"
   weight = 10
 
 [[main]]
   name = "Success Stories"
   parent = "Mission"
-  title = "Testimonies"
   url = "#testimonials"
   weight = 20
 
 [[main]]
   name = "Failures and Learnings"
   parent = "Mission"
-  title = "Failures and learnings"
   pageRef = "/about/failures"
   weight = 30
 
 [[main]]
   name = "Events"
-  title = "Events"
-  pageRef = "https://example.com"
+  pageRef = "/events"
   weight = 20
 
 [[main]]
   name = "Upcoming Events"
   parent = "Events"
-  title = "Practice"
   url = "#practice"
   weight = 10
 
@@ -57,14 +52,12 @@
 [[main]]
   name = "Posts"
   parent = "Publications"
-  title = "Posts"
   url = "#recent-posts"
   weight = 10
 
 [[main]]
   name = "Books"
   parent = "Publications"
-  title = "Books"
   url = "#books"
   weight = 20
 
@@ -76,14 +69,12 @@
 [[main]]
   name = "Course Connection"
   parent = "Courses"
-  title = "Courses"
   url = "#courses"
   weight = 10
 
 [[main]]
   name = "Course Practice"
   parent = "Courses"
-  title = "Practice"
   url = "#practice"
   weight = 20
 
@@ -118,7 +109,6 @@
 [[main]]
   name = "Contact Form"
   parent = "Contact"
-  title = "Contact & Message"
   url = "#message"
   weight = 10
 

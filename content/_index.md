@@ -26,7 +26,7 @@ description: ""
         </a>
         </div>
         <div class="mt-8">
-          {{< figure src="123.webp" alt="connection" loading="lazy" height="440" width="440" >}}
+          {{< figure src="123.webp" alt="connection" loading="lazy" decoding="async" height="440" width="440" >}}
        </div>
       </div>
     </div>
@@ -73,12 +73,11 @@ This portal serves as a link for tutorials. I learned a long time ago that if I 
 <div class="relative mt-20 w-screen max-w-[1600px] px-[30px] py-16 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
   <section>
 <div class="mx-auto text-center mb-20">
-<a id="courses" href="/courses" title="Courses"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
-Features
+<p id="courses" class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+Learning by doing
 </p>
-</a>
 <h2 class="mb-4 text-3xl font-bold uppercase">
-  What's in it for me?
+  Courses - What's in it for me?
 </h2>
 <p class="text-xl text-muted">
   I got kick out of learning from my mistakes. 
@@ -178,10 +177,9 @@ Features
 <div class="mt-20 py-16 max-w-7xl">
   <section class="mx-auto">
 <div class="mx-auto text-center mb-20">
-<a id="process" href="/process" title="Process"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+<p id="process" class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
 Process
 </p>
-</a>
 <h2 class="mb-4 text-3xl font-bold uppercase">
   From Imagination to Reality
 </h2>
@@ -192,7 +190,7 @@ Process
 <div class="px-4 mx-auto">
   <div class="grid gap-6 row-gap-10 lg:grid-cols-2">
   <div class="relative">
-      {{< figure src="pixabay.com.illustrations.ai-generated-iceberg-glacier-water-8400811.webp" alt="glacier" class="rounded-xl shadow-2xl" loading="lazy" >}}
+      {{< figure src="pixabay.com.illustrations.ai-generated-iceberg-glacier-water-8400811.webp" alt="glacier" class="rounded-xl shadow-2xl" loading="lazy" decoding="async" height="894" width="484" >}}
     </div>
     <div class="lg:py-6">
         <div class="flex">
@@ -290,10 +288,9 @@ Process
 <div class="relative mt-20 w-screen max-w-[1600px] px-[30px] py-16 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
   <section>
 <div class="mx-auto text-center mb-20">
-<a id="practice" href="/events" title="Events"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+<p id="practice" class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
 Practice & Events
 </p>
-</a>
 <h2 class="mb-4 text-3xl font-bold uppercase">
   Improving self relationship
 </h2>
@@ -354,10 +351,9 @@ Practice & Events
 <!-- Bio -->
 <div class="relative w-screen max-w-[1600px] mt-20 py-16 px-[30px] dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
   <div class="mx-auto text-center mb-20 lg:mb-14">
-  <a id="bio" href="/bio" title="Bio"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+  <p id="bio" class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
 Bio
 </p>
-</a>
   <h2 class="mb-4 text-3xl font-bold uppercase">
     COMMITTED TO MAKING A DIFFERENCE
   </h2>
@@ -368,7 +364,7 @@ Bio
   <div class="max-w-2xl mx-auto">
       <div class="flex flex-col rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl">
         <div class="flex items-center mx-auto gap-x-4">
-          {{< figure src="author1.webp" alt="author" class="h-36 w-36 sm:h-[4rem] sm:w-[4rem]" loading="lazy" >}}
+          {{< figure src="author1.webp" alt="author" class="h-36 w-36 sm:h-[4rem] sm:w-[4rem]" loading="lazy" decoding="async" >}}
           <div class="grow ml-2">
             <h3 class="font-medium text-gray-800 dark:text-gray-200">
               Vlad
@@ -423,10 +419,9 @@ Bio
 <div class="relative mt-20 w-screen max-w-[1600px] px-[30px] py-16 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
   <section>
 <div class="mx-auto text-center mb-20">
-<a id="tools" href="/tools" title="Tools"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+<p id="tools" class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
 Toolbox
 </p>
-</a>
 <h2 class="mb-4 text-3xl font-bold uppercase">
   My Favorite tools
 </h2>
@@ -491,10 +486,9 @@ Toolbox
   <section>
     <div class="max-w-6xl mx-auto text-center mb-10 lg:mb-14">
       <div class="mx-auto text-center mb-10 lg:mb-14">
-        <a id="recent-posts" href="/posts" title="Posts"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+        <p id="recent-posts" class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
         Posts
         </p>
-        </a>
         <h2 class="mb-4 text-3xl font-bold uppercase">
           Recent publications
         </h2>
@@ -519,10 +513,9 @@ Toolbox
 <div class="relative mt-20 w-screen max-w-[1600px] px-[30px] py-16 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
   <section>
 <div class="mx-auto text-center mb-20">
-<a id="faq" href="/faq" title="FAQ"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+<p id="faq" class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
 FAQ
 </p>
-</a>
 <h2 class="mb-4 text-3xl font-bold uppercase">
   Frequently asked questions
 </h2>
@@ -621,10 +614,9 @@ FAQ
 <div class="block max-w-7xl mt-20 py-16 mx-auto">
    <section class="mx-auto">
 <div class="mx-auto text-center mb-20">
-<a id="books" href="/books" title="Books"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+<p id="books" class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
 Books
 </p>
-</a>
 <h2 class="mb-4 text-3xl font-bold uppercase">
   I love writing
 </h2>
@@ -687,10 +679,9 @@ Books
 <!-- People Testimonial --> 
 <div class="relative w-screen max-w-[1600px] px-[30px] mt-20 py-16 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
 <div class="mx-auto text-center mb-20">
-<a id="testimonials" href="/testimonials" title="Testimonials"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+<p id="testimonials" class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
 Testimonials
 </p>
-</a>
 <h2 class="mb-4 text-3xl font-bold uppercase">
   Hear what they are saying?
 </h2>
@@ -709,7 +700,7 @@ Testimonials
           <div class="p-4 bg-wit rounded-b-lg md:px-7">
             <div class="flex items-center">
               <div class="flex-shrink-0">
-                {{< figure src="luis.webp" alt="author" class="h-8 w-8 rounded-full sm:h-[2.875rem] sm:w-[2.875rem]" loading="lazy" >}}
+                {{< figure src="luis.webp" alt="author" class="h-8 w-8 rounded-full sm:h-[2.875rem] sm:w-[2.875rem]" loading="lazy" decoding="async" >}}
               </div>
               <div class="grow ms-3">
                 <p class="text-sm sm:text-base font-semibold text-neutral-800 dark:text-neutral-800">
@@ -733,7 +724,7 @@ Testimonials
           <div class="p-4 bg-wit rounded-b-lg md:px-7">
             <div class="flex items-center">
               <div class="flex-shrink-0">
-              {{< figure src="sonia.webp" alt="author" class="h-8 w-8 rounded-full sm:h-[2.875rem] sm:w-[2.875rem]" loading="lazy" >}}
+              {{< figure src="sonia.webp" alt="author" class="h-8 w-8 rounded-full sm:h-[2.875rem] sm:w-[2.875rem]" loading="lazy" decoding="async" >}}
               </div>
               <div class="grow ms-3">
                 <p class="text-sm sm:text-base font-semibold text-neutral-800 dark:text-neutral-800">
@@ -757,7 +748,7 @@ Testimonials
           <div class="p-4 rounded-b-lg md:px-7 bg-wit dark:text-neutral-200">
             <div class="flex items-center">
               <div class="flex-shrink-0">
-               {{< figure src="joaquin.webp" alt="author" class="h-8 w-8 rounded-full sm:h-[2.875rem] sm:w-[2.875rem]" loading="lazy" >}}
+               {{< figure src="joaquin.webp" alt="author" class="h-8 w-8 rounded-full sm:h-[2.875rem] sm:w-[2.875rem]" loading="lazy" decoding="async" >}}
               </div>
               <div class="grow ms-3">
                 <p class="text-sm sm:text-base font-semibold text-neutral-800 dark:text-neutral-800">
@@ -778,10 +769,9 @@ Testimonials
 <div class="relative w-screen max-w-[1600px] px-[30px] mt-20 py-16" style="left: calc(max(-50vw,-800px) + 50%);">
   <section class="max-w-6xl mx-auto">
 <div class="mx-auto text-center mb-20">
-<a id="stats" href="/stats" title="Stats"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+<p id="stats" class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
 Stats
 </p>
-</a>
 <h2 class="mb-4 text-3xl font-bold uppercase">
   I walk the talk
 </h2>
@@ -820,10 +810,9 @@ data: {
   <div class="relative mt-20 py-16 w-screen max-w-[1600px] px-[30px] rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
     <div class="max-w-6xl mx-auto text-center">
       <div class="mx-auto text-center mb-20">
-        <a id="message" href="/message" title="Message"><p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+        <p id="message" class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
         Contact & message
         </p>
-        </a>
         <h2 class="mb-4 text-3xl font-bold uppercase">
           Get in touch - Ask and You shall receive
         </h2>
