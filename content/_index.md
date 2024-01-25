@@ -26,8 +26,7 @@ description: ""
         </a>
         </div>
         <div class="mt-8">
-          {{< figure src="123.webp" alt="author" width="auto" loading="lazy" decoding="async" >}}
-          {{< imgh src="123.webp" alt="connection" holder="LQIP" >}}
+          {{< figure src="123.webp" alt="connection" width="auto" loading="lazy" decoding="async" >}}
        </div>
       </div>
     </div>
@@ -191,7 +190,7 @@ Process
 <div class="px-4 mx-auto">
   <div class="grid gap-6 row-gap-10 lg:grid-cols-2">
   <div class="relative">
-      {{< imgh src="pixabay.com.illustrations.ai-generated-iceberg-glacier-water-8400811.webp" alt="glacier" holder="LQIP" >}}
+      {{< figure src="pixabay.com.illustrations.ai-generated-iceberg-glacier-water-8400811.webp" alt="glacier" class="rounded-xl shadow-2xl" loading="lazy" >}}
     </div>
     <div class="lg:py-6">
         <div class="flex">
