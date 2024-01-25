@@ -52,7 +52,7 @@
 [[main]]
   name = "Posts"
   parent = "Publications"
-  url = "#recent-posts"
+  url = "https://demodeveloperlab.github.io/innerknowing/en/#recent-posts"
   weight = 10
 
 [[main]]
