@@ -341,7 +341,7 @@ Practice & Events
       Eventbrite
     </a>
         <span class="mr-2"></span>
-   <a href="/events" title="events" class="bg-neutral dark:bg-neutral-900 hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
+   <a href="/en/events" title="events" class="bg-neutral dark:bg-neutral-900 hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
       Events
     </a>
 </div>
