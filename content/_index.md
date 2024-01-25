@@ -501,7 +501,7 @@ Toolbox
   {{< list cardView=true limit=3 where="Type" value="posts" >}}
 {{< rawhtml >}}
   <div class="mt-10 flex justify-center">
-  <a href="https://recent.com" title="Recent posts" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
+  <a href="/en/posts/" title="Recent posts" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
       Load all posts
     </a>
 </div>
