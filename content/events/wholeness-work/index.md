@@ -1,31 +1,20 @@
 ---
-title: ☯️ WHOLENESS WORK
-event: 
-event_url: https://eventbrite.com
-address:
-  street: 
-  city: 
-  region: 
-  postcode: ''
-  country: 
-summary: Gentle process of merging our ego with Awareness we become One
-abstract: 'A core idea is that our sense of a separate self or ego is created by unconscious contractions of consciousness called small I. These exist as locations in space that can be sensed internally. Dissolving these small I through a gentle process of merging them withAwareness leads to greater inner freedom, wellbeing, emotional intelligence, and ability to transform life issues.'
-date: '2023-08-24T19:00:00Z'
-lastmod: '2023-08-24T20:30:00Z'
-all_day: false
-# Schedule page publish date (NOT talk date).
-publishDate: '2023-08-24T00:00:00Z'
+title: "☯️ WHOLENESS WORK"
+date: 2023-08-23
+lastmod: 2023-08-23
 authors: [vladimir-klimsa]
-tags: [Talk]
-categories: [Events]
-# Is this a featured talk? (true/false)
-featured: false
+draft: false
+summary: "Gentle process of merging our ego with Awareness we become One"
+description: 'A core idea is that our sense of a separate self or ego is created by unconscious contractions of consciousness called small I. These exist as locations in space that can be sensed internally. Dissolving these small I through a gentle process of merging them withAwareness leads to greater inner freedom, wellbeing, emotional intelligence, and ability to transform life issues.'
+slug: 
+tags: [Talk, Practice]
+categories: ["Events"]
+series: ["Events"]
+series_order: 6
 image:
-  caption: 'Image credit: [Gerd Altmann](https://pixabay.com/photos/artificial-intelligence-brain-think-3382521/)'
-  focal_point: ''
-  placement: 3
-  preview_only: false
 ---
+
+Image credit: [Gerd Altmann](https://pixabay.com/photos/artificial-intelligence-brain-think-3382521/)
 
 > "The highest reward for a man’s toil is not what he gets for it, but what he becomes by it." - *John Ruskin*
 

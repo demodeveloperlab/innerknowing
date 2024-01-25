@@ -1,31 +1,20 @@
 ---
-title: 🗣️ TALKING TO YOUR BODY
-event: 
-event_url: https://eventbrite.com
-address:
-  street: 
-  city: 
-  region: 
-  postcode: ''
-  country: 
-summary: Talking to your body can have real benefits for your health and wellbeing
-abstract: 'Talking to yourself may seem strange, but talking to your body can have real benefits for your health and wellbeing. By speaking out loud, you send messages to your subconscious mind that can actually make you feel better physically and mentally.'
-date: '2023-08-24T19:00:00Z'
-lastmod: '2023-08-24T20:30:00Z'
-all_day: false
-# Schedule page publish date (NOT talk date).
-publishDate: '2023-08-24T00:00:00Z'
+title: "🗣️ TALKING TO YOUR BODY"
+date: 2023-08-24
+lastmod: 2023-08-24
 authors: [vladimir-klimsa]
-tags: [Talk, Practice]
-categories: [Events]
-# Is this a featured talk? (true/false)
-featured: false
+draft: false
+summary: "Talking to your body can have real benefits for your health and wellbeing"
+description: 'Talking to yourself may seem strange, but talking to your body can have real benefits for your health and wellbeing. By speaking out loud, you send messages to your subconscious mind that can actually make you feel better physically and mentally.'
+slug: 
+tags: [Talk]
+categories: ["Events"]
+series: ["Events"]
+series_order: 2
 image:
-  caption: 'Image credit: [Marta Wave](https://www.pexels.com/photo/slim-woman-practicing-yoga-asana-6453936/)'
-  focal_point: ''
-  placement: 3
-  preview_only: false
 ---
+
+Image credit: [Marta Wave](https://www.pexels.com/photo/slim-woman-practicing-yoga-asana-6453936/)
 
 > “Your body is like the quiet talker with the most important thing to say.”
 

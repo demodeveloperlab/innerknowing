@@ -1,31 +1,20 @@
 ---
-title: 🗣️ ROZHOVOR S TĚLEM
-event: 
-event_url: https://eventbrite.com
-address:
-  street: 
-  city: 
-  region: 
-  postcode: ''
-  country: 
-summary: Rozhovor s vaším tělem může mít skutečné přínosy pro vaše zdraví a pohodu.
-abstract: 'Mluvit sám se sebou se může zdát podivné, ale rozhovor s vaším tělem může mít skutečné přínosy pro vaše zdraví a pohodu. Když nahlas promlouváte, posíláte zprávy vašemu podvědomí, které vás mohou nechat fyzicky i mentálně lépe.'
-date: '2023-08-24T19:00:00Z'
-lastmod: '2023-08-24T20:30:00Z'
-all_day: false
-# Schedule page publish date (NOT talk date).
-publishDate: '2023-08-24T00:00:00Z'
+title: "🗣️ ROZHOVOR S TĚLEM"
+date: 2023-08-24
+lastmod: 2023-08-24
 authors: [vladimir-klimsa]
-tags: [Talk, Practice]
-categories: [Events]
-# Is this a featured talk? (true/false)
-featured: false
+draft: false
+summary: "Rozhovor s vaším tělem může mít skutečné přínosy pro vaše zdraví a pohodu."
+description: 'Mluvit sám se sebou se může zdát podivné, ale rozhovor s vaším tělem může mít skutečné přínosy pro vaše zdraví a pohodu. Když nahlas promlouváte, posíláte zprávy vašemu podvědomí, které vás mohou nechat fyzicky i mentálně lépe.'
+slug: 
+tags: [Talk]
+categories: ["Events"]
+series: ["Events"]
+series_order: 2
 image:
-  caption: 'Image credit: [Scott Webb](https://pixabay.com/photos/training-muscles-arms-blonde-828726/)'
-  focal_point: ''
-  placement: 3
-  preview_only: false
----
+------
+
+Image credit: [Marta Wave](https://www.pexels.com/photo/slim-woman-practicing-yoga-asana-6453936/)
 
 > „Vaše tělo je jako ten tišší mluvka, který má ale co nejdůležitějšího říct.“
 

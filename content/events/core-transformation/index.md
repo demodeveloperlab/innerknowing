@@ -1,31 +1,20 @@
 ---
-title: 🌈 CORE TRANSFORMATION
-event: 
-event_url: https://eventbrite.com
-address:
-  street: 
-  city: 
-  region: 
-  postcode: ''
-  country: 
-summary: Core Transformation allow our inner wisdom get insights of deeper meaning
-abstract: 'While it may sound simple, the transformations enabled by this process can be life-changing. By getting to the root of our fears and false beliefs, Core Transformation lets our inner wisdom reframe our experiences in a more empowering way.'
-date: '2023-08-23T19:00:00Z'
-lastmod: '2023-08-23T20:30:00Z'
-all_day: false
-# Schedule page publish date (NOT talk date).
-publishDate: '2023-08-23T00:00:00Z'
+title: "🌈 CORE TRANSFORMATION"
+date: 2023-08-23
+lastmod: 2023-08-23
 authors: [vladimir-klimsa]
-tags: [Talk]
-categories: [Events]
-# Is this a featured talk? (true/false)
-featured: false
+draft: false
+summary: "Core Transformation allow our inner wisdom get insights of deeper meaning"
+description: 'While it may sound simple, the transformations enabled by this process can be life-changing. By getting to the root of our fears and false beliefs, Core Transformation lets our inner wisdom reframe our experiences in a more empowering way.'
+slug: 
+tags: [Talk, Practice]
+categories: ["Events"]
+series: ["Events"]
+series_order: 5
 image:
-  caption: 'Image credit: [Ri Butov](https://pixabay.com/photos/young-woman-meditation-yoga-7527144/)'
-  focal_point: ''
-  placement: 3
-  preview_only: false
 ---
+
+Image credit: [Ri Butov](https://pixabay.com/photos/young-woman-meditation-yoga-7527144/)
 
 > “What lies behind us and what lies ahead of us are tiny matters compared to what lives within us.” - *Henry David Thoreau*
 

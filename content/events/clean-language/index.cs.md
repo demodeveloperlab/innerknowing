@@ -10,7 +10,7 @@ slug:
 tags: [Talk]
 categories: ["Events"]
 series: ["Events"]
-series_order: 1
+series_order: 7
 image:
 ---
 

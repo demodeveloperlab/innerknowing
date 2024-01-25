@@ -1,33 +1,20 @@
 ---
-title: ☯️ WHOLENESS WORK
-event: 
-event_url: https://eventbrite.com
-address:
-  street: 
-  city: 
-  region: 
-  postcode: ''
-  country: 
-summary: Disolver Yo o Ego conduce a una mayor libertad interior y bienestar.
-abstract: "Una idea central es que nuestro sentido de un yo separado o ego es creado por contracciones inconscientes de la conciencia llamadas pequeños yoes. Estos existen como lugares en el espacio que pueden ser percibidos internamente. La disolución de estos pequeños yoes a través de un suave proceso de fusión con la Conciencia conduce a una mayor libertad interior, bienestar, inteligencia emocional y capacidad para transformar los problemas de la vida."
-date: '2023-08-24T19:00:00Z'
-lastmod: '2023-08-24T20:30:00Z'
-all_day: false
-# Schedule page publish date (NOT talk date).
-publishDate: '2023-08-24T00:00:00Z'
+title: "☯️ WHOLENESS WORK"
+date: 2023-08-23
+lastmod: 2023-08-23
 authors: [vladimir-klimsa]
-tags: [Talk]
-categories: [Events]
-# Is this a featured talk? (true/false)
-featured: false
+draft: false
+summary: "Disolver Yo o Ego conduce a una mayor libertad interior y bienestar."
+description: 'Una idea central es que nuestro sentido de un yo separado o ego es creado por contracciones inconscientes de la conciencia llamadas pequeños yoes. Estos existen como lugares en el espacio que pueden ser percibidos internamente. La disolución de estos pequeños yoes a través de un suave proceso de fusión con la Conciencia conduce a una mayor libertad interior, bienestar, inteligencia emocional y capacidad para transformar los problemas de la vida.'
+slug: 
+tags: [Talk, Practice]
+categories: ["Events"]
+series: ["Events"]
+series_order: 6
 image:
-  caption: 'Image credit: [Gerd Altmann](https://pixabay.com/photos/artificial-intelligence-brain-think-3382521/)'
-  focal_point: ''
-  placement: 3
-  preview_only: false
 ---
 
-Aquí está la traducción al español:
+Image credit: [Gerd Altmann](https://pixabay.com/photos/artificial-intelligence-brain-think-3382521/)
 
 > "La recompensa más alta por el trabajo de un hombre no es lo que obtiene por él, sino en lo que se convierte por él". - *John Ruskin*
 

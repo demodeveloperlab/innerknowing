@@ -1,31 +1,20 @@
 ---
-title: 🗣️ HABLAR CON EL CUERPO
-event: 
-event_url: https://eventbrite.com
-address:
-  street: 
-  city: 
-  region: 
-  postcode: ''
-  country: 
-summary: Hablar con tu cuerpo puede hacerte sentir mejor física y mentalmente
-abstract: 'Hablar contigo mismo puede parecer extraño, pero hablar con tu cuerpo puede tener beneficios reales para tu salud y bienestar. Al hablar en voz alta, envías mensajes a tu subconsciente que pueden hacer que te sientas mejor física y mentalmente'
-date: '2023-08-24T19:00:00Z'
-lastmod: '2023-08-24T20:30:00Z'
-all_day: false
-# Schedule page publish date (NOT talk date).
-publishDate: '2023-08-24T00:00:00Z'
+title: "🗣️ HABLAR CON EL CUERPO"
+date: 2023-08-24
+lastmod: 2023-08-24
 authors: [vladimir-klimsa]
-tags: [Talk, Practice]
-categories: [Events]
-# Is this a featured talk? (true/false)
-featured: false
+draft: false
+summary: "Hablar con tu cuerpo puede hacerte sentir mejor física y mentalmente"
+description: 'Hablar contigo mismo puede parecer extraño, pero hablar con tu cuerpo puede tener beneficios reales para tu salud y bienestar. Al hablar en voz alta, envías mensajes a tu subconsciente que pueden hacer que te sientas mejor física y mentalmente'
+slug: 
+tags: [Talk]
+categories: ["Events"]
+series: ["Events"]
+series_order: 2
 image:
-  caption: 'Image credit: [Scott Webb](https://pixabay.com/photos/training-muscles-arms-blonde-828726/)'
-  focal_point: ''
-  placement: 3
-  preview_only: false
 ---
+
+Image credit: [Marta Wave](https://www.pexels.com/photo/slim-woman-practicing-yoga-asana-6453936/)
 
 > “Tu cuerpo es como el hablante tranquilo con lo más importante que decir”.
 

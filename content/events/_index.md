@@ -3,9 +3,28 @@ title: "Events"
 description: "Learn what's available."
 
 cascade:
+  showDate: true
+  showViews: false
+  showLikes: false
+  showDateUpdated: true
   showAuthor: true
+  showHero: true
+  showBreadcrumbs: true
+  showDraftLabel: true
+  showEdit: false
+  seriesOpened: false
+  showHeadingAnchors: true
+  showPagination: true
   invertPagination: true
-  showSharing: true
+  showReadingTime: true
+  showTableOfContents: true
+  showRelatedContent: true
+  relatedContentLimit: 3
+  showTaxonomies: true
+  showAuthorsBadges: true
+  showWordCount: true
+  sharingLinks: [ "email", "twitter", "linkedin", "facebook", "reddit", "pinterest" ]
+  showZenMode: false
 
 ---
 

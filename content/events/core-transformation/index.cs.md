@@ -1,31 +1,20 @@
 ---
-title: 🌈 CORE TRANSFORMATION
-event: 
-event_url: https://eventbrite.com
-address:
-  street: 
-  city: 
-  region: 
-  postcode: ''
-  country: 
-summary: Core transformation nám může pomoci komunikovat s vnitřním já.
-abstract: 'I když to může znít jednoduše, transformace umožněné tímto procesem mohou změnit život. Tím, že se dostaneme ke kořenu našich obav a falešných přesvědčení, nám Transformace jádra dovolí, aby naše vnitřní moudrost rámovala naše zkušenosti způsobem, který více zmocňuje.'
-date: '2023-08-23T19:00:00Z'
-lastmod: '2023-08-23T20:30:00Z'
-all_day: false
-# Schedule page publish date (NOT talk date).
-publishDate: '2023-08-23T00:00:00Z'
+title: "🌈 CORE TRANSFORMATION"
+date: 2023-08-23
+lastmod: 2023-08-23
 authors: [vladimir-klimsa]
-tags: [Talk]
-categories: [Events]
-# Is this a featured talk? (true/false)
-featured: false
+draft: false
+summary: "Core transformation nám může pomoci komunikovat s vnitřním já."
+description: 'I když to může znít jednoduše, transformace umožněné tímto procesem mohou změnit život. Tím, že se dostaneme ke kořenu našich obav a falešných přesvědčení, nám Transformace jádra dovolí, aby naše vnitřní moudrost rámovala naše zkušenosti způsobem, který více zmocňuje.'
+slug: 
+tags: [Talk, Practice]
+categories: ["Events"]
+series: ["Events"]
+series_order: 5
 image:
-  caption: 'Image credit: [Ri Butov](https://pixabay.com/photos/young-woman-meditation-yoga-7527144/)'
-  focal_point: ''
-  placement: 3
-  preview_only: false
 ---
+
+Image credit: [Ri Butov](https://pixabay.com/photos/young-woman-meditation-yoga-7527144/)
 
 > „Co je za námi a co je před námi, jsou nepatrné záležitosti ve srovnání s tím, co je v nás.“ - Henry David Thoreau
 

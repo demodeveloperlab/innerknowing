@@ -1,31 +1,20 @@
 ---
-title: 🌈 LA TRANSFORMACIÓN ESENCIAL
-event: 
-event_url: https://eventbrite.com
-address:
-  street: 
-  city: 
-  region: 
-  postcode: ''
-  country: 
-summary: Conectar con nuestro yo interior.
-abstract: Si bien puede sonar simple, las transformaciones que permite este proceso pueden cambiar la vida. Al llegar a la raíz de nuestros miedos y falsas creencias, la Transformación Esencial permite que nuestra sabiduría interior reestructure nuestras experiencias de una manera más empoderadora.
-date: '2023-08-23T19:00:00Z'
-lastmod: '2023-08-23T20:30:00Z'
-all_day: false
-# Schedule page publish date (NOT talk date).
-publishDate: '2023-08-23T00:00:00Z'
+title: "🌈 LA TRANSFORMACIÓN ESENCIAL"
+date: 2023-08-23
+lastmod: 2023-08-23
 authors: [vladimir-klimsa]
-tags: [Talk]
-categories: [Events]
-# Is this a featured talk? (true/false)
-featured: false
+draft: false
+summary: "Conectar con nuestro yo interior."
+description: 'Si bien puede sonar simple, las transformaciones que permite este proceso pueden cambiar la vida. Al llegar a la raíz de nuestros miedos y falsas creencias, la Transformación Esencial permite que nuestra sabiduría interior reestructure nuestras experiencias de una manera más empoderadora.'
+slug: 
+tags: [Talk, Practice]
+categories: ["Events"]
+series: ["Events"]
+series_order: 5
 image:
-  caption: 'Image credit: [Ri Butov](https://pixabay.com/photos/young-woman-meditation-yoga-7527144/)'
-  focal_point: ''
-  placement: 3
-  preview_only: false
 ---
+
+Image credit: [Ri Butov](https://pixabay.com/photos/young-woman-meditation-yoga-7527144/)
 
 > “Lo que queda detrás de nosotros y lo que queda delante de nosotros son cosas pequeñas comparadas con lo que reside dentro de nosotros”. - *Henry David Thoreau*
 

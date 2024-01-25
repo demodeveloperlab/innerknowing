@@ -1,31 +1,20 @@
 ---
-title: ☯️ WHOLENESS WORK
-event: 
-event_url: https://eventbrite.com
-address:
-  street: 
-  city: 
-  region: 
-  postcode: ''
-  country: 
-summary: Rozpouštění já či ega vede k větší vnitřní svobodě, pohodě, emoční inteligenci.
-abstract: 'Jednou ze základních myšlenek je, že náš pocit odděleného já či ega je vytvořen nevědomými staženími vědomí nazývanými malé já. Ty existují jako místa v prostoru, která lze vnitřně vnímat. Rozpouštění těchto malých já skrze jemný proces sloučení s Vědomím vede k větší vnitřní svobodě, pohodě, emoční inteligenci a schopnosti transformovat životní problémy.'
-date: '2023-08-24T19:00:00Z'
-lastmod: '2023-08-24T20:30:00Z'
-all_day: false
-# Schedule page publish date (NOT talk date).
-publishDate: '2023-08-24T00:00:00Z'
+title: "☯️ WHOLENESS WORK"
+date: 2023-08-23
+lastmod: 2023-08-23
 authors: [vladimir-klimsa]
-tags: [Talk]
-categories: [Events]
-# Is this a featured talk? (true/false)
-featured: false
+draft: false
+summary: "Rozpouštění já či ega vede k větší vnitřní svobodě, pohodě, emoční inteligenci."
+description: 'Jednou ze základních myšlenek je, že náš pocit odděleného já či ega je vytvořen nevědomými staženími vědomí nazývanými malé já. Ty existují jako místa v prostoru, která lze vnitřně vnímat. Rozpouštění těchto malých já skrze jemný proces sloučení s Vědomím vede k větší vnitřní svobodě, pohodě, emoční inteligenci a schopnosti transformovat životní problémy.'
+slug: 
+tags: [Talk, Practice]
+categories: ["Events"]
+series: ["Events"]
+series_order: 6
 image:
-  caption: 'Image credit: [Gerd Altmann](https://pixabay.com/photos/artificial-intelligence-brain-think-3382521/)'
-  focal_point: ''
-  placement: 3
-  preview_only: false
 ---
+
+Image credit: [Gerd Altmann](https://pixabay.com/photos/artificial-intelligence-brain-think-3382521/)
 
 > "Nejvyšší odměnou za člověkovu námahu není to, co za ni získá, ale tím, čím se skrze ni stane." – *John Ruskin*
 

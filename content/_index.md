@@ -337,11 +337,11 @@ Practice & Events
   </div>
 </div>
 <div class="mt-10 flex justify-center">
-  <a href="https://eventbrite.com" title="eventbrite" class="bg-neutral dark:bg-neutral-900 hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
+  <a href="https://www.eventbrite.co.uk/o/vladimir-klimsa-69104497903" title="eventbrite" class="bg-neutral dark:bg-neutral-900 hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
       Eventbrite
     </a>
         <span class="mr-2"></span>
-   <a href="https://events.com" title="events" class="bg-neutral dark:bg-neutral-900 hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
+   <a href="/events" title="events" class="bg-neutral dark:bg-neutral-900 hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">
       Events
     </a>
 </div>
