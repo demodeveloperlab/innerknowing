@@ -1,32 +1,20 @@
 ---
-title: ⚓ INTUICE - JISTOTA PRAXE
-event: 
-event_url: https://eventbrite.com
-address:
-  street: 
-  city: 
-  region: 
-  postcode: ''
-  country: 
-summary: Prozkoumáme fascinující vztah mezi našimi vnitřními pocity a naším smyslem pro jistotu.
-abstract: 'Prozkoumáme fascinující vztah mezi našimi vnitřními pocity a naším smyslem pro jistotu.'
-
-date: '2023-09-05T19:00:00Z'
-lastmod: '2023-09-05T20:30:00Z'
-all_day: false
-# Schedule page publish date (NOT talk date).
-publishDate: '2023-08-23T00:00:00Z'
+title: "⚓ INTUICE - JISTOTA PRAXE"
+date: 2023-08-24
+lastmod: 2023-08-24
 authors: [vladimir-klimsa]
-tags: [Talk, Practice]
-categories: [Events]
-# Is this a featured talk? (true/false)
-featured: false
+draft: false
+summary: "Prozkoumáme fascinující vztah mezi našimi vnitřními pocity a naším smyslem pro jistotu."
+description: 'Prozkoumáme fascinující vztah mezi našimi vnitřními pocity a naším smyslem pro jistotu.'
+slug: 
+tags: [Talk]
+categories: ["Events"]
+series: ["Events"]
+series_order: 1
 image:
-  caption: 'Image credit: [James Wheeler](https://pixabay.com/photos/alberta-canada-lake-mountains-2297204/)'
-  focal_point: ''
-  placement: 3
-  preview_only: false
 ---
+
+Image credit: [James Wheeler](https://pixabay.com/photos/alberta-canada-lake-mountains-2297204/)
 
 > „Když mě vesmír nutí k tomu nejlepšímu směru, nikdy mi nedává možná, měl bych, nebo snad. Vždy jsem si naprosto jistý, když mi říká, abych kráčel kupředu – protože všechno ve mně povstává, aby znělo: ANO!“ 
 – Oprah Winfreyová, Co vím jistě

@@ -1,31 +1,20 @@
 ---
-title: 🙊 LENGUAJE LIMPIO 
-event: 
-event_url: https://eventbrite.com
-address:
-  street: 
-  city: 
-  region: 
-  postcode: ''
-  country: 
-summary: ¿Y cómo es sentirte abrumado cuando te sientes abrumado?
-abstract: 'Desarrollado en la década de 1980 por el psicólogo David Grove, el lenguaje limpio se trata de hacer preguntas que no impongan los supuestos o la cosmovisión del que pregunta. El objetivo es explorar el modelo del mundo de la otra persona de una manera neutral que evite el sesgo. ¿Cómo es tener/ser/experimentar X?'
-date: '2023-08-23T19:00:00Z'
-lastmod: '2023-08-24T20:30:00Z'
-all_day: false
-# Schedule page publish date (NOT talk date).
-publishDate: '2023-08-24T00:00:00Z'
+title: "🙊 LENGUAJE LIMPIO "
+date: 2023-08-24
+lastmod: 2023-08-24
 authors: [vladimir-klimsa]
+draft: false
+summary: '¿Y cómo es sentirte abrumado cuando te sientes abrumado?'
+description: 'Desarrollado en la década de 1980 por el psicólogo David Grove, el lenguaje limpio se trata de hacer preguntas que no impongan los supuestos o la cosmovisión del que pregunta. El objetivo es explorar el modelo del mundo de la otra persona de una manera neutral que evite el sesgo. ¿Cómo es tener/ser/experimentar X?'
+slug: 
 tags: [Talk]
-categories: [Events]
-# Is this a featured talk? (true/false)
-featured: false
+categories: ["Events"]
+series: ["Events"]
+series_order: 1
 image:
-  caption: 'Image credit: [Gerd Altmann](https://pixabay.com/es/photos/retroalimentaci%C3%B3n-informar-3653368/)'
-  focal_point: ''
-  placement: 3
-  preview_only: false
 ---
+
+Image credit: [Gerd Altmann](https://pixabay.com/es/photos/retroalimentaci%C3%B3n-informar-3653368/)
 
 > ¿Cómo es tener/ser/experimentar X?
 

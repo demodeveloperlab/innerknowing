@@ -1,16 +1,16 @@
 ---
 title: "🙊 CLEAN LANGUAGE"
-date: 2023-08-23
+date: 2023-08-24
 lastmod: 2023-08-24
 authors: [vladimir-klimsa]
 draft: false
 summary: 'And when you feel overwhelmed, what it is like to feel overwhelmed?'
-abstract: 'Developed in the 1980s by psychologist David Grove, clean language is all about asking questions that do not impose the asker assumptions or worldview. The goal is to explore the other person model of the world in a neutral way that avoids bias. What it is like to have/be/experience X?'
+description: 'Developed in the 1980s by psychologist David Grove, clean language is all about asking questions that do not impose the asker assumptions or worldview. The goal is to explore the other person model of the world in a neutral way that avoids bias. What it is like to have/be/experience X?'
 slug: 
 tags: [Talk]
 categories: ["Events"]
 series: ["Events"]
-series_order: 1
+series_order: 7
 image:
 ---
 

@@ -5,6 +5,8 @@ description: "Learn what's available."
 cascade:
   showAuthor: true
   invertPagination: true
+  showSharing: true
+
 ---
 
 {{< lead >}}

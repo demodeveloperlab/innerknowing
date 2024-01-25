@@ -1,31 +1,20 @@
 ---
-title: 🙊 PRAXE ČISTÝ JAZYK
-event: 
-event_url: https://eventbrite.com
-address:
-  street: 
-  city: 
-  region: 
-  postcode: ''
-  country: 
-summary: A když se cítíš přemožen, jaké to je, cítit se přemožen? 
-abstract: 'Vyvinul jej v 80. letech psycholog David Grove, čistý jazyk spočívá v kladení otázek, které nevnášejí předpoklady ani světonázor tazatele. Cílem je neutrálním způsobem prozkoumat model světa druhé osoby, který se vyhýbá zkreslení. Jaké je to mít/být/zažívat X?'
-date: '2023-08-23T19:00:00Z'
-lastmod: '2023-08-25T20:30:00Z'
-all_day: false
-# Schedule page publish date (NOT talk date).
-publishDate: '2023-08-24T00:00:00Z'
+title: "🙊 PRAXE ČISTÝ JAZYK"
+date: 2023-08-24
+lastmod: 2023-08-24
 authors: [vladimir-klimsa]
+draft: false
+summary: 'A když se cítíš přemožen, jaké to je, cítit se přemožen? '
+description: 'Vyvinul jej v 80. letech psycholog David Grove, čistý jazyk spočívá v kladení otázek, které nevnášejí předpoklady ani světonázor tazatele. Cílem je neutrálním způsobem prozkoumat model světa druhé osoby, který se vyhýbá zkreslení. Jaké je to mít/být/zažívat X?'
+slug: 
 tags: [Talk]
-categories: [Events]
-# Is this a featured talk? (true/false)
-featured: false
+categories: ["Events"]
+series: ["Events"]
+series_order: 1
 image:
-  caption: 'Image credit: [Gerd Altmann](https://pixabay.com/es/photos/retroalimentaci%C3%B3n-informar-3653368/)'
-  focal_point: ''
-  placement: 3
-  preview_only: false
 ---
+
+Image credit: [Gerd Altmann](https://pixabay.com/es/photos/retroalimentaci%C3%B3n-informar-3653368/)
 
 > Jaké je to mít/být/zažívat X?
 

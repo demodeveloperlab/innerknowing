@@ -697,7 +697,7 @@ Testimonials
               "Working with him it's always something different, he has authenticity and I consistently get good results working with him."
             </p>
           </div>
-          <div class="p-4 bg-wit rounded-b-lg md:px-7">
+          <div class="p-4 bg-slate-200 rounded-b-lg md:px-7">
             <div class="flex items-center">
               <div class="flex-shrink-0">
                 {{< figure src="luis.webp" alt="author" class="h-8 w-8 rounded-full sm:h-[2.875rem] sm:w-[2.875rem]" loading="lazy" decoding="async" >}}
@@ -721,7 +721,7 @@ Testimonials
               "Fantastic. We have all enjoyed the show, magic, science, games. I recommend that you stay with him as he makes your life great."
             </p>
           </div>
-          <div class="p-4 bg-wit rounded-b-lg md:px-7">
+          <div class="p-4 bg-slate-200 rounded-b-lg md:px-7">
             <div class="flex items-center">
               <div class="flex-shrink-0">
               {{< figure src="sonia.webp" alt="author" class="h-8 w-8 rounded-full sm:h-[2.875rem] sm:w-[2.875rem]" loading="lazy" decoding="async" >}}
@@ -745,7 +745,7 @@ Testimonials
               "It was GREAT. I liked very much his show. We have laughed, learned and played all afternoon. I am grateful. Thanks very much."
             </p>
           </div>
-          <div class="p-4 rounded-b-lg md:px-7 bg-wit dark:text-neutral-200">
+          <div class="p-4 rounded-b-lg md:px-7 bg-slate-200 dark:text-neutral-200">
             <div class="flex items-center">
               <div class="flex-shrink-0">
                {{< figure src="joaquin.webp" alt="author" class="h-8 w-8 rounded-full sm:h-[2.875rem] sm:w-[2.875rem]" loading="lazy" decoding="async" >}}

@@ -1,31 +1,20 @@
 ---
-title: ⚓ DESARROLLO DE LA INTUICIÓN - PROCESO
-event: 
-event_url: https://eventbrite.com
-address:
-  street: 
-  city: 
-  region: 
-  postcode: ''
-  country: 
-summary: Presentimientos y sensación de certeza.
-abstract: Nuestros presentimientos, esos juicios instantáneos o intuiciones que nos llegan aparentemente de la nada, a menudo nos hacen sentir muy seguros de algo, incluso si tenemos poca evidencia concreta. Los psicólogos creen que esto sucede porque nuestros cerebros son excelentes reconociendo patrones. A través de la experiencia, nuestras mentes asocian automáticamente ciertas señales o detalles con resultados particulares. Esta asociación sucede muy rápidamente a un nivel inconsciente, por lo que cuando esas señales están presentes, simplemente "sentimos" certeza sobre la conclusión sin ser plenamente conscientes de los pasos que nuestro cerebro tomó para llegar allí.
-date: '2023-12-05T19:00:00Z'
-lastmod: '2023-12-05T20:30:00Z'
-all_day: false
-# Schedule page publish date (NOT talk date).
-publishDate: '2023-08-23T00:00:00Z'
+title: "⚓ DESARROLLO DE LA INTUICIÓN - PROCESO"
+date: 2023-08-24
+lastmod: 2023-08-24
 authors: [vladimir-klimsa]
-tags: [Talk, Practice]
-categories: [Events]
-# Is this a featured talk? (true/false)
-featured: false
+draft: false
+summary: "Presentimientos y sensación de certeza."
+description: 'Nuestros presentimientos, esos juicios instantáneos o intuiciones que nos llegan aparentemente de la nada, a menudo nos hacen sentir muy seguros de algo, incluso si tenemos poca evidencia concreta. Los psicólogos creen que esto sucede porque nuestros cerebros son excelentes reconociendo patrones. A través de la experiencia, nuestras mentes asocian automáticamente ciertas señales o detalles con resultados particulares. Esta asociación sucede muy rápidamente a un nivel inconsciente, por lo que cuando esas señales están presentes, simplemente "sentimos" certeza sobre la conclusión sin ser plenamente conscientes de los pasos que nuestro cerebro tomó para llegar allí.'
+slug: 
+tags: [Talk]
+categories: ["Events"]
+series: ["Events"]
+series_order: 1
 image:
-  caption: 'Image credit: [James Wheeler](https://pixabay.com/photos/alberta-canada-lake-mountains-2297204/)'
-  focal_point: ''
-  placement: 3
-  preview_only: false
 ---
+
+Image credit: [James Wheeler](https://pixabay.com/photos/alberta-canada-lake-mountains-2297204/)
 
 > “Cuando el universo me impulsa hacia el mejor camino a seguir, nunca me deja con un "tal vez", "debería" o incluso "quizás". Siempre sé con certeza cuando me está diciendo que proceda, porque todo dentro de mí se levanta para resonar "¡SÍ!"
 ― *Oprah Winfrey, Lo que sé con certeza*

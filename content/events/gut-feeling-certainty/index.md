@@ -1,32 +1,20 @@
 ---
-title: ⚓ GUT FEELING PRACTICE
-event: 
-event_url: https://eventbrite.com
-address:
-  street: 
-  city: 
-  region: 
-  postcode: ''
-  country: 
-summary: I've got feeling of knowing inside of me that's guiding me and offering calm comfort
-abstract: 'We will discuss the fascinating relationship between our gut feelings and our sense of certainty.'
-
-date: '2023-12-05T19:00:00Z'
-lastmod: '2023-12-05T20:30:00Z'
-all_day: false
-# Schedule page publish date (NOT talk date).
-publishDate: '2023-08-23T00:00:00Z'
+title: "⚓ GUT FEELING PRACTICE"
+date: 2023-08-24
+lastmod: 2023-08-24
 authors: [vladimir-klimsa]
-tags: [Talk, Practice]
-categories: [Events]
-# Is this a featured talk? (true/false)
-featured: false
+draft: false
+summary: "I've got feeling of knowing inside of me that's guiding me and offering calm comfort."
+description: 'We will discuss the fascinating relationship between our gut feelings and our sense of certainty.'
+slug: 
+tags: [Talk]
+categories: ["Events"]
+series: ["Events"]
+series_order: 1
 image:
-  caption: 'Image credit: [James Wheeler](https://pixabay.com/photos/alberta-canada-lake-mountains-2297204/)'
-  focal_point: ''
-  placement: 3
-  preview_only: false
 ---
+
+Image credit: [James Wheeler](https://pixabay.com/photos/alberta-canada-lake-mountains-2297204/)
 
 > “When the universe compels me toward the best path to take, it never leaves me with "maybe," "should I," or even "perhaps." I always know for sure when it's telling me to proceed - because everything inside me rises up to reverberate "YES!”
 ― *Oprah Winfrey, What I Know for Sure*
