@@ -10,7 +10,7 @@ title = "🖇️ Connecting"
   dateFormat = "2006/01/2"
   #logo = ""
   #secondaryLogo = ""
-  #description = "That's it I will not take it anymore"
+  description = "That's it I will not take it anymore"
   copyright = "©️ CC BY-NC 4.0"
 
 [author]
