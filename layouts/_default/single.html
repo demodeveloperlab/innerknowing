@@ -24,7 +24,7 @@
       {{ .Title | emojify }}
     </h1>
     <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
-      <span class="flex flex-wrap mb-2">
+      <span class="flex flex-wrap mb-1">
         📁 {{ range (.GetTerms "categories") }}
         <span class="inline-block px-1">
         <a href="{{ .RelPermalink }}" class="text-base no-underline">
@@ -38,9 +38,6 @@
                 {{ .LinkTitle }}</a>
         </span>
         {{ end }}
-        <span>
-          <a href="https://creativecommons.org/licenses/by-nc/4.0/" rel="license external nofollow noopener noreffer" title="copyright license" target="_blank" class="ml-2">©️ CC BY-NC 4.0</a>
-          </span>
       </span>
       {{ partial "article-meta/basic.html" (dict "context" . "scope" "single") }}
     </div>
