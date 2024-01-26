@@ -26,7 +26,7 @@ description: ""
         </a>
         </div>
         <div class="mt-8">
-          {{< figure src="123.webp" alt="connection" width="auto" loading="lazy" decoding="async" >}}
+          {{< figure src="connection.webp" alt="connection" width="auto" loading="lazy" decoding="async" >}}
        </div>
       </div>
     </div>
@@ -364,7 +364,7 @@ Bio
   <div class="max-w-2xl mx-auto">
       <div class="flex flex-col rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl">
         <div class="flex items-center mx-auto gap-x-4">
-          {{< figure src="author1.webp" alt="author" class="imgh h-36 w-36 sm:h-[4rem] sm:w-[4rem]" loading="lazy" decoding="async" >}}
+          {{< figure src="author.webp" alt="author" class="imgh h-36 w-36 sm:h-[4rem] sm:w-[4rem]" loading="lazy" decoding="async" >}}
           <div class="grow ml-2">
             <h3 class="font-medium text-gray-800 dark:text-gray-200">
               Vlad
