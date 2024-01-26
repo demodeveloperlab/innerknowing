@@ -35,7 +35,7 @@ description: ""
   <!-- Jumbotron -->
 <!-- Quote -->
 <section>
-  <div class="relative w-screen max-w-[1600px] px-[30px] py-16 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
+  <div class="relative w-screen max-w-[1600px] py-16 px-[30px] rounded-xl" style="left: calc(max(-50vw,-800px) + 50%);">
   <div class="max-w-2xl mx-auto">
      <div class="flex items-center justify-center text-primary-900 dark:text-primary-200 font-semibold border py-6 px-8 rounded-full shadow-2xl">
         <p class="text-xl">
@@ -51,7 +51,7 @@ description: ""
   <!--  /Quote -->
 <!-- Abstract -->
 <section>
-<div class="mt-20 py-16">
+<div class="relative w-screen max-w-[1600px] py-16 mt-20 px-[30px]" style="left: calc(max(-50vw,-800px) + 50%);">
 <div class="mx-auto text-center mb-20">
 <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
 Purpose
@@ -63,14 +63,14 @@ Purpose
   Journaling, Exploring, Sorting and Organizing
 </p>
 </div>
-<div class="container text-center text-lg">
+<div class="max-w-2xl mx-auto text-center text-lg">
 This portal serves as a link for tutorials. I learned a long time ago that if I want to master something, I have to teach it and through preparation and teaching I'll grow. As well as I am improving my English, Spanish, Czech language domain by exercising, writing and speaking.
 </div>
 </div>
 </section>
 <!-- /abstract -->
 <!-- Features -->
-<div class="relative mt-20 w-screen max-w-[1600px] px-[30px] py-16 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
+<div class="relative w-screen max-w-[1600px] py-16 mt-20 px-[30px]" style="left: calc(max(-50vw,-800px) + 50%);">
   <section>
 <div class="mx-auto text-center mb-20">
 <p id="courses" class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
@@ -285,7 +285,7 @@ Process
   </div>    
 <!-- /Blueprint -->
 <!-- Events -->
-<div class="relative mt-20 w-screen max-w-[1600px] px-[30px] py-16 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
+<div class="relative w-screen max-w-[1600px] py-16 mt-20 px-[30px]" style="left: calc(max(-50vw,-800px) + 50%);">
   <section>
 <div class="mx-auto text-center mb-20">
 <p id="practice" class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
@@ -349,7 +349,7 @@ Practice & Events
 </div>
 <!-- /Events -->
 <!-- Bio -->
-<div class="relative w-screen max-w-[1600px] mt-20 py-16 px-[30px] dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
+<div class="relative w-screen max-w-[1600px] py-16 mt-20 px-[30px]" style="left: calc(max(-50vw,-800px) + 50%);">
   <div class="mx-auto text-center mb-20 lg:mb-14">
   <p id="bio" class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
 Bio
@@ -416,7 +416,7 @@ Bio
     </div>    
   <!-- /Bio -->
   <!-- Toolbox -->
-<div class="relative mt-20 w-screen max-w-[1600px] px-[30px] py-16 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
+<div class="relative w-screen max-w-[1600px] py-16 mt-20 px-[30px]" style="left: calc(max(-50vw,-800px) + 50%);">
   <section>
 <div class="mx-auto text-center mb-20">
 <p id="tools" class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
@@ -482,7 +482,7 @@ Toolbox
 </div>
 <!-- /Toolbox -->
 <!-- Recent -->
-<div class="relative w-screen mt-20 py-16 max-w-[1600px] px-[30px]" style="left: calc(max(-50vw,-800px) + 50%);">
+<div class="relative w-screen max-w-[1600px] py-16 mt-20 px-[30px]" style="left: calc(max(-50vw,-800px) + 50%);">
   <section>
     <div class="max-w-6xl mx-auto text-center mb-10 lg:mb-14">
       <div class="mx-auto text-center mb-10 lg:mb-14">
@@ -510,7 +510,7 @@ Toolbox
 <!-- /Recent -->
 
 <!-- FAQ -->
-<div class="relative mt-20 w-screen max-w-[1600px] px-[30px] py-16 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
+<div class="relative w-screen max-w-[1600px] py-16 mt-20 px-[30px]" style="left: calc(max(-50vw,-800px) + 50%);">
   <section>
 <div class="mx-auto text-center mb-20">
 <p id="faq" class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
@@ -677,7 +677,7 @@ Books
 </div>
 <!-- /Books-- >
 <!-- People Testimonial --> 
-<div class="relative w-screen max-w-[1600px] px-[30px] mt-20 py-16 rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
+<div class="relative w-screen max-w-[1600px] py-16 mt-20 px-[30px]" style="left: calc(max(-50vw,-800px) + 50%);">
 <div class="mx-auto text-center mb-20">
 <p id="testimonials" class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
 Testimonials
@@ -807,7 +807,7 @@ data: {
 <!-- /Stats -->
 <!-- Contact -->
 <section>
-  <div class="relative mt-20 py-16 w-screen max-w-[1600px] px-[30px] rounded-xl dark:text-neutral-50" style="left: calc(max(-50vw,-800px) + 50%);">
+<div class="relative w-screen max-w-[1600px] py-16 mt-20 px-[30px]" style="left: calc(max(-50vw,-800px) + 50%);">
     <div class="max-w-6xl mx-auto text-center">
       <div class="mx-auto text-center mb-20">
         <p id="message" class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">

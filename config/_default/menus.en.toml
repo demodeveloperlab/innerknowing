@@ -165,6 +165,6 @@
   weight = 30
 
 [[footer]]
-  name = "👤 Authors"
+  name = "👥 Authors"
   pageRef = "authors"
   weight = 40
