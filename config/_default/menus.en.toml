@@ -150,21 +150,21 @@
 # the copyright notice. Configure as per the main menu above.
 
 [[footer]]
-  name = "Series"
+  name = "🗂️ Series"
   pageRef = "series"
   weight = 10
 
 [[footer]]
-  name = "Categories"
+  name = "📁 Categories"
   pageRef = "categories"
   weight = 20
 
 [[footer]]
-  name = "Tags"
+  name = "🏷️ Tags"
   pageRef = "tags"
   weight = 30
 
 [[footer]]
-  name = "Authors"
+  name = "👤 Authors"
   pageRef = "authors"
   weight = 40
