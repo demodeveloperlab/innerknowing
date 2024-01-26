@@ -4,8 +4,28 @@ description: "Learn how to use Blowfish and its features."
 
 cascade:
   showDate: true
+  showViews: false
+  showLikes: false
+  showDateUpdated: true
   showAuthor: true
+  showHero: true
+  showBreadcrumbs: true
+  showDraftLabel: true
+  showEdit: false
+  seriesOpened: false
+  showHeadingAnchors: true
+  showPagination: true
   invertPagination: true
+  showReadingTime: true
+  showTableOfContents: true
+  showRelatedContent: true
+  relatedContentLimit: 3
+  showTaxonomies: false
+  showAuthorsBadges: false
+  showWordCount: true
+  sharingLinks: [ ]
+  showZenMode: false
+  showSummary: true
 ---
 
 {{< lead >}}

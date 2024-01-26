@@ -7,7 +7,7 @@ summary: "How to install something"
 description: "A GUIDE FOR MAKING DECISIONS WITH CONFIDENCE AND LIVING A MORE MEANINGFUL LIFE. RESEARCH OF THE STRUCTURE OF SUBJECTIVE EXPERIENCE"
 slug: 
 authors: 
-  - Your-name-here
+  - vladimir-klimsa
 categories: ["yumi", "hello"]
 tags: ["installation", "docs"]
 series: ["Documentation"]

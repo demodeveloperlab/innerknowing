@@ -20,11 +20,12 @@ cascade:
   showTableOfContents: true
   showRelatedContent: true
   relatedContentLimit: 3
-  showTaxonomies: true
-  showAuthorsBadges: true
+  showTaxonomies: false
+  showAuthorsBadges: false
   showWordCount: true
-  sharingLinks: [ "email", "twitter", "linkedin", "facebook", "reddit", "pinterest" ]
+  sharingLinks: [ ]
   showZenMode: false
+  showSummary: true
 
 ---
 
