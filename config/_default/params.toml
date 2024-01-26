@@ -71,10 +71,10 @@ smartTOC = true
   showTableOfContents = true
   showRelatedContent = true
   relatedContentLimit = 3
-  showTaxonomies = true
+  showTaxonomies = false
   showAuthorsBadges = true
   showWordCount = true
-  sharingLinks = [ "email", "twitter", "linkedin", "facebook", "reddit", "pinterest" ]
+  sharingLinks = [ ]
   showZenMode = false
 
 [list]
@@ -131,11 +131,11 @@ smartTOC = true
   # domain = "llama.yoursite.com"
 
 [buymeacoffee]
-#identifier = ""
-#globalWidget = true
-#globalWidgetMessage = "Cookie consent. This site is not gathering cookies"
-#globalWidgetColor = "#FFDD00"
-#globalWidgetPosition = "Right"
+identifier = ""
+globalWidget = true
+globalWidgetMessage = "Cookie consent. This site is not gathering cookies"
+globalWidgetColor = "#FFDD00"
+globalWidgetPosition = "Right"
 
 [verification]
   # google = ""
