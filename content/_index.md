@@ -55,14 +55,14 @@ description: ""
 Purpose
 </p>
 <h2 class="mb-4 text-3xl font-bold uppercase">
-  What's the purpose of this page?
+  What is the purpose of this page?
 </h2>
 <p class="text-xl text-muted">
   Journaling, Exploring, Sorting and Organizing
 </p>
 </div>
 <div class="max-w-2xl mx-auto text-center text-lg">
-This portal serves as a link for tutorials. I learned a long time ago that if I want to master something, I have to teach it and through preparation and teaching I'll grow. As well as I am improving my English, Spanish, Czech language domain by exercising, writing and speaking.
+This portal serves as a link to tutorials. I firmly believe that teaching is the best way to master a subject. By preparing and delivering lessons, I am constantly improving my skills. Moreover, I am honing my proficiency in English, Spanish, and Czech through regular exercise, writing, and speaking.
 </div>
 </div>
 </section>
@@ -78,7 +78,7 @@ Advantages
   I live in Oneness and connected
 </h2>
 <p class="text-xl text-muted">
-  I got absolute certainty about the answers which are in the right place and right time
+  I am confident that the answers I receive will have the correct outcomes in the right location and at the right time.
 </p>
 </div>
 </div>
@@ -89,7 +89,7 @@ Advantages
    </div>
     <p class="mb-4 mt-4 text-xl font-bold text-center">Question</p>
     <p class="text-muted text-center">
-      I need to know a place, time, action, name and possible oucomes of the event.
+      Please provide me with the details of the event, including the location, time, action, name, and potential outcomes.
     </p>
   </div>
   <div class="md:mb-0 bg-neutral dark:bg-neutral-900 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl">
@@ -98,7 +98,7 @@ Advantages
    </div>
     <p class="mb-4 mt-4 text-xl font-bold text-center">Process</p>
     <p class="text-muted text-center">
-      I place the question in exact location, create representation and do movement until it clicks
+    I place the question in the exact location, create a representation, and do movement until it clicks.
     </p>
   </div>
   <div class="md:mb-0 bg-neutral dark:bg-neutral-900 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl">
@@ -107,7 +107,7 @@ Advantages
    </div>
     <p class="mb-4 mt-4 text-xl font-bold text-center">Award</p>
     <p class="text-muted text-center">
-      I feel serenity, calmness and connection flowing through my body. It's like being in comfort.
+      I sense serenity, calmness, and connection is flowing through my body. It's a wonderful feeling!
     </p>
   </div>
   </div>
@@ -138,7 +138,7 @@ Learning by doing
         Perceptions Patterns 
       </p>
       <p class="mb-1 text-muted">
-        I will find commmon patterns and characteristics in my past, present and future glimpses of inner knowing.
+        I am finding common patterns and characteristics in my glimpses of my inner knowing in the past, present, and future.
       </p>
     </div>
   </div>
@@ -151,7 +151,7 @@ Learning by doing
           Listening
         </p>
         <p class="mb-1 text-muted">
-          Paying attention in my daily life and noticing gentle whispering of my inner voice and butterfly sensations.
+         By paying attention to my daily life and noticing the gentle whisper of my inner voice and the butterfly sensations in my stomach, I got a sense of connection.
         </p>
       </div>
     </div>
@@ -164,7 +164,7 @@ Learning by doing
         Noticing the structure
       </p>
       <p class="mb-1 text-muted">
-        Using submodalities I will notice the location, size, texture, inner quality, movement, speed, direction of my voice and sensation.
+        With the help of sub-modalities, I am aware of location, size, texture, internal quality, movement, speed, direction of my voice, and sensation.
       </p>
     </div>
   </div>
@@ -177,7 +177,7 @@ Learning by doing
         Alignment
       </p>
       <p class="mb-1 text-muted">
-        Full body sensation lives no space for a doubt. Aligning our timelines, beliefs, values, relationships into a guide for our life.
+        Full-body sensation leaves no room for doubt. Aligning my timelines, beliefs, values, and relationships into a guide for my life.
       </p>
     </div>
   </div>
@@ -190,7 +190,7 @@ Learning by doing
         Generating Future
       </p>
       <p class="mb-1 text-muted">
-        Imagining with visual, auditory, kinestetic, olfactory and taste experiences, creating steps, walking the path, till I know that's real.
+        By imagining with visual, auditory, kinesthetic, olfactory, and gustatory experiences, creating steps, and walking the path until I know it's real.
       </p>
     </div>
   </div>
@@ -203,7 +203,7 @@ Learning by doing
         Authentic Life
       </p>
       <p class="mb-1 text-muted">
-        More connected I become, More I grow. Being in the state of oneness open doors to experience deep connection with everything.
+        The more connected I become, the more I grow. Being in a state of oneness opens doors to experiencing a deep connection with everything.
       </p>
     </div>
   </div>
@@ -228,7 +228,7 @@ Process
   From Imagination to Reality
 </h2>
 <p class="text-xl text-muted">
-  I am doing it, till I got a feeling, it's a part of me. Than I'll do it some more.
+  I will continue doing it until I feel that it is a part of me, and then I will persist even further.
 </p>
 </div>
 <div class="px-4 mx-auto">
@@ -268,7 +268,7 @@ Process
        <div class="pt-1 pb-8">
          <p class="mb-2 text-xl font-bold">Burning Question</p>
          <p class="mt-4 text-muted">
-           Burning question. Where is it located? What's the size? Movement? Origin and direction of the voice? 
+           Who is asking the question and from where? What is the volume, speed, tonality? How important is it in my life?
          </p>
        </div>
      </div>
@@ -285,7 +285,7 @@ Process
        <div class="pt-1 pb-8">
          <p class="mb-2 text-xl font-bold">Sensational quality</p>
          <p class="mt-4 text-muted">
-           It is warm/cold? Heavy/light? Solid/moldeable/airy? What it's like? Surface? Inner quality?
+           Temperature, weight, texture, physical properties, surface description, and internal characteristics of the object.
          </p>
        </div>
      </div>
@@ -302,7 +302,7 @@ Process
        <div class="pt-1 pb-8">
          <p class="mb-2 text-xl font-bold">Make a movie</p>
          <p class="mt-4 text-muted">
-           Create representation of myself knowing the answer. Stepping or breathing inside till I feel the click and know.
+           Create representation of myself knowing the answer. Stepping or breathing inside till I feel the click and know it's real.
          </p>
        </div>
      </div>
@@ -318,7 +318,7 @@ Process
        <div class="pt-1">
          <p class="mb-2 text-xl font-bold">Let's do it again</p>
          <p class="mt-4 text-muted">
-           Every time is easier, faster. I am competent and confident. I am ejoying myself, efforlessly flowing. 
+           I am competent and confident in my abilities and am thoroughly enjoying the process. I am becoming more efficient with each passing day.
          </p>
        </div>
      </div>
@@ -358,7 +358,7 @@ Practice & Events
     </div>
     <p class="mb-4 mt-4 text-xl font-bold">Body dialog</p>
     <p class="text-muted">
-      My body is providing feedback 24/7 on any experience. Attending it's wisdom is a choice.
+      My body provides feedback 24/7 on every experience. Listening to its wisdom is a choice.
     </p>
   </div>
   <div class="md:mb-0 bg-neutral dark:bg-neutral-900 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl text-center">
@@ -367,7 +367,7 @@ Practice & Events
     </div>
     <p class="mb-4 mt-4 text-xl font-bold">Public group</p>
     <p class="text-muted">
-      Pending interest I will open group chat for Practice Group. I am continuosly learning.
+      Depending on interest, I will open a group chat for the practice group. I am always learning.
     </p>
   </div>
   <div class="md:mb-0 bg-neutral dark:bg-neutral-900 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl text-center">
@@ -376,7 +376,7 @@ Practice & Events
     </div>
     <p class="mb-4 mt-4 text-xl font-bold">Private sessions</p>
     <p class="text-muted">
-      I need to know the result after the event. I am not taking any more clients. Unless...
+      I need to know the results after the event. I will not take on any more clients. Unless...
     </p>
   </div>
 </div>
@@ -395,10 +395,10 @@ Practice & Events
 <!-- Bio -->
 <div class="relative w-screen max-w-[1600px] py-16 mt-20 px-[30px]" style="left: calc(max(-50vw,-800px) + 50%);">
   <div class="mx-auto text-center mb-20 lg:mb-14">
-  <p id="bio" class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+  <p class="text-base text-primary-900 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
 Bio
 </p>
-  <h2 class="mb-4 text-3xl font-bold uppercase">
+  <h2 id="bio" class="mb-4 text-3xl font-bold uppercase">
     COMMITTED TO MAKING A DIFFERENCE
   </h2>
   <p class="text-xl text-muted">
@@ -414,18 +414,18 @@ Bio
               Vlad
             </h3>
             <p class="text-sm mt-1 uppercase text-gray-500">
-              Founder | Modeller
+              Mentalist | Modeller
             </p>
             <p class="text-xs mt-2">
               English 🇬🇧, Spanish 🇪🇸, Czech 🇨🇿
             </p>
             <p class="text-sm mt-2 text-gray-500">
-              📈 Analyst, 🧙 Mentalist, 🎨 Designer,
+              🎨 Designer,
             </p>
           </div>
         </div>
         <p class="mt-6 text-muted">
-          He is a Researcher of the Structure of Subjective Experience, He strive to gain a deeper understanding of how people experience the world through their own consciousness and subconsciousness. He study the inner worlds of thoughts, feelings, and sensations that shape our perceptions, behaviors and choices.
+          He is an explorer of the structure of subjective experience, seeking a deeper understanding of how people experience the world through their conscious and subconscious minds. He studies the inner worlds of thoughts, feelings, and sensations that shape our perceptions, behaviors, and choices.
         </p>
         <div class="mt-10 space-x-1 text-center">
           <a href="#" title="text" class="inline-flex justify-center items-center w-8 h-8 text-sm font-semibold rounded-lg border border-gray-200 text-gray-500 hover:bg-gray-100 disabled:opacity-50 disabled:pointer-events-none dark:text-gray-400 dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600">
@@ -478,28 +478,28 @@ Toolbox
     <svg height="64px" width="64px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-51.2 -51.2 614.39 614.39" xml:space="preserve" fill="#000000" transform="rotate(0)matrix(1, 0, 0, 1, 0, 0)"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <circle style="fill:#E84F4F;" cx="255.997" cy="255.997" r="255.997"></circle> <path style="fill:#C94545;" d="M283.902,510.581L154.168,388.729v-265.3h9.458l55.172,59.744v-59.744h9.458l55.33,59.113v-59.113 h9.301l55.488,59.113l-0.158-59.113h9.616l153.695,149.596c-8.197,124.216-104.827,224.158-227.468,237.556H283.902z"></path> <path style="fill:#FFD630;" d="M163.783,123.429v265.3h-9.458v-265.3H163.783z"></path> <path style="fill:#EBECEC;" d="M146.128,303.291h25.852c5.99,0,10.877,4.887,10.877,10.877v18.601 c0,5.99-4.887,10.877-10.877,10.877h-25.852c-5.99,0-10.877-4.887-10.877-10.877v-18.601 C135.251,308.178,140.138,303.291,146.128,303.291z"></path> <path style="fill:#FFD630;" d="M228.414,123.429v265.3h-9.458v-265.3H228.414z"></path> <path style="fill:#EBECEC;" d="M210.759,233.616h25.852c5.99,0,10.877,4.887,10.877,10.877v18.601 c0,5.99-4.887,10.877-10.877,10.877h-25.852c-5.99,0-10.877-4.887-10.877-10.877v-18.601 C199.882,238.503,204.768,233.616,210.759,233.616z"></path> <path style="fill:#FFD630;" d="M293.044,123.429v265.3h-9.458v-265.3H293.044z"></path> <path style="fill:#EBECEC;" d="M275.547,300.611h25.852c5.99,0,10.877,4.887,10.877,10.877v18.601 c0,5.99-4.887,10.877-10.877,10.877h-25.852c-5.99,0-10.877-4.887-10.877-10.877v-18.601 C264.67,305.498,269.557,300.611,275.547,300.611z"></path> <path style="fill:#FFD630;" d="M357.832,123.429v265.3h-9.458v-265.3H357.832z"></path> <path style="fill:#EBECEC;" d="M340.177,182.384h25.852c5.99,0,10.877,4.887,10.877,10.877v18.601 c0,5.99-4.887,10.877-10.877,10.877h-25.852c-5.99,0-10.877-4.887-10.877-10.877v-18.601 C329.301,187.271,334.188,182.384,340.177,182.384z"></path> <g> <path style="fill:#727271;" d="M152.276,312.591h13.556c3.153,0,5.674,0.788,5.674,1.891v3.153c0,0.946-2.523,1.891-5.674,1.891 h-13.556c-3.153,0-5.674-0.788-5.674-1.891v-3.153C146.601,313.537,149.123,312.591,152.276,312.591z M152.276,327.251h13.556 c3.153,0,5.674,0.788,5.674,1.891v3.153c0,0.946-2.523,1.891-5.674,1.891h-13.556c-3.153,0-5.674-0.788-5.674-1.891v-3.153 C146.601,328.197,149.123,327.251,152.276,327.251z"></path> <path style="fill:#727271;" d="M216.906,243.074h13.556c3.153,0,5.674,0.788,5.674,1.891v3.153c0,0.946-2.523,1.891-5.674,1.891 h-13.556c-3.153,0-5.674-0.788-5.674-1.891v-3.153C211.232,244.02,213.753,243.074,216.906,243.074z M216.906,257.734h13.556 c3.153,0,5.674,0.788,5.674,1.891v3.153c0,0.946-2.523,1.891-5.674,1.891h-13.556c-3.153,0-5.674-0.788-5.674-1.891v-3.153 C211.232,258.68,213.753,257.734,216.906,257.734z"></path> <path style="fill:#727271;" d="M281.694,309.912h13.556c3.153,0,5.674,0.788,5.674,1.891v3.153c0,0.946-2.523,1.891-5.674,1.891 h-13.556c-3.153,0-5.674-0.788-5.674-1.891v-3.153C276.02,310.857,278.541,309.912,281.694,309.912z M281.694,324.572h13.556 c3.153,0,5.674,0.788,5.674,1.891v3.153c0,0.946-2.523,1.891-5.674,1.891h-13.556c-3.153,0-5.674-0.788-5.674-1.891v-3.153 C276.02,325.517,278.541,324.572,281.694,324.572z"></path> <path style="fill:#727271;" d="M346.325,191.842h13.556c3.153,0,5.674,0.788,5.674,1.891v3.153c0,0.946-2.523,1.891-5.674,1.891 h-13.556c-3.153,0-5.674-0.788-5.674-1.891v-3.153C340.651,192.789,343.172,191.842,346.325,191.842z M346.325,206.502h13.556 c3.153,0,5.674,0.788,5.674,1.891v3.153c0,0.946-2.523,1.891-5.674,1.891h-13.556c-3.153,0-5.674-0.788-5.674-1.891v-3.153 C340.651,207.449,343.172,206.502,346.325,206.502z"></path> </g> </g></svg>
     <p class="mb-4 mt-4 text-xl font-bold">Submodalities</p>
     <p class="text-muted">
-      How do I encode in my mind the experience of the events? Small details which makes the big differences.
+      How do I encode the experience of events in my mind? What is important? Small details that make a big difference.
     </p>
   </div>
   <div class="md:mb-0 bg-neutral dark:bg-neutral-900 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl">
       <svg width="64px" height="64px" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--noto" preserveAspectRatio="xMidYMid meet" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M111.42 113.34H16.58a4.88 4.88 0 0 1-4.88-4.88V42.03c0-7.27 5.65-13.16 12.62-13.16h79.37c6.97 0 12.62 5.89 12.62 13.16V108.46c0 2.7-2.19 4.88-4.89 4.88z" fill="#fafafa" stroke="#bdbdbd" stroke-width="3" stroke-miterlimit="10"> </path> <path d="M112.11 4h-4.8c-1 0-1.81.81-1.81 1.81V9.9c0 .67.38 1.25.95 1.6c2.01 1.2 3.24 3.57 2.71 6.17c-.45 2.2-2.21 3.98-4.41 4.44a5.788 5.788 0 0 1-7.03-5.65c0-2.12 1.14-3.97 2.85-4.97c.57-.34.94-.92.94-1.58v-4.1c0-1-.81-1.81-1.81-1.81H28.27c-.98 0-1.77.79-1.77 1.77v4.16c0 .65.37 1.22.93 1.55a5.783 5.783 0 0 1 2.73 6.18c-.45 2.2-2.21 3.98-4.41 4.44a5.788 5.788 0 0 1-7.03-5.65c0-2.13 1.16-3.98 2.87-4.99c.55-.32.91-.9.91-1.54V5.77c0-.98-.79-1.77-1.77-1.77h-4.85a5.75 5.75 0 0 0-5.75 5.75v37.52H117.7l.16-37.49A5.745 5.745 0 0 0 112.11 4z" fill="#f44336"> </path> <g fill="#ffffff"> <path d="M45.09 15.46h4.12V29.3c0 1.27-.28 2.4-.84 3.37s-1.36 1.73-2.38 2.26c-1.03.53-2.18.8-3.47.8c-2.11 0-3.76-.54-4.94-1.61c-1.18-1.07-1.77-2.6-1.77-4.56h4.15c0 .98.21 1.7.62 2.17c.41.47 1.06.7 1.95.7c.79 0 1.41-.27 1.88-.81s.7-1.31.7-2.31V15.46z"> </path> <path d="M61.37 33.94c-.98 1.19-2.33 1.78-4.06 1.78c-1.59 0-2.81-.46-3.64-1.37c-.84-.91-1.27-2.26-1.28-4.02V20.6h3.97v9.61c0 1.55.7 2.32 2.11 2.32c1.35 0 2.27-.47 2.77-1.4V20.6h3.98v14.85h-3.73l-.12-1.51z"> </path> <path d="M72.39 35.45h-3.98V14.37h3.98v21.08z"> </path> <path d="M81.2 29.83l2.75-9.24h4.26l-5.97 17.16l-.33.78c-.89 1.94-2.35 2.91-4.39 2.91c-.58 0-1.16-.09-1.76-.26v-3.01l.6.01c.75 0 1.31-.11 1.68-.34c.37-.23.66-.61.87-1.14l.47-1.22l-5.2-14.89h4.27l2.75 9.24z"> </path> </g> <path d="M53.22 102.31h-8.57V69.26l-10.24 3.17v-6.97l17.89-6.41h.92v43.26z" fill="#000000"> </path> <path d="M93.59 63.9l-16.7 38.41h-9.05l16.73-36.28H63.09v-6.91h30.5v4.78z" fill="#000000"> </path> </g></svg>
       <p class="mb-4 mt-4 text-xl font-bold">Timelines</p>
     <p class="text-muted">
-      How do I encode in my mind the past, present and future and what can I do to transform it or change it?
+      How do I encode the past, the present, and the future in my mind, and what can I do to access it from a distance, fully, transform it, or to change it?
     </p>
   </div>
   <div class="md:mb-0 bg-neutral dark:bg-neutral-900 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl">
     <svg width="64px" height="64px" viewBox="0 0 14 14" role="img" focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path fill="#90caf9" d="M5.1230769 9.67458367h-.73846154V8.44381443H5.6153846l.12307692.46153847c.0923077.4-.21538461.76923077-.61538462.76923077zm6.03076928.92307693S7.52307692 8.44381443 5.6153846 8.44381443V4.13612209c1.7846154 0 5.53846158-2.15384617 5.53846158-2.15384617v8.61538468z"></path> <g fill="#283593" transform="translate(-.23076929 -.47926256) scale(.3077)"> <circle cx="9" cy="22" r="5"></circle> <path d="M40 19h-3v6h3c1.7 0 3-1.3 3-3s-1.3-3-3-3zM18.6 41.2c-.9.6-2.5 1.2-4.6 1.4-.6.1-1.2-.3-1.4-1L8.2 27.9S17 21.7 17 29c0 5.5 1.5 8.4 2.2 9.5.5.7.5 1.6 0 2.3-.2.2-.4.3-.6.4z"></path> </g> <path fill="#3f51b5" d="M2.5384615 8.44381443h3.0769231V4.13612209H2.5384615c-.33846154 0-.61538462.27692308-.61538462.61538462v3.0769231c0 .33846154.27692308.61538462.61538462.61538462z"></path> <path fill="#42a5f5" d="M11.46153849 11.21304522c-.33846154 0-.61538462-.27692308-.61538462-.61538462V1.98227592c0-.33846154.27692308-.61538462.61538462-.61538462.33846154 0 .61538462.27692308.61538462.61538462v8.61538468c0 .33846154-.27692308.61538462-.61538462.61538462z"></path> </g></svg>
     <p class="mb-4 mt-4 text-xl font-bold">Atention</p>
     <p class="text-muted">
-      What do I experience when I think about the event? What is my body response? Do I think about the past or future?
+      What do I experience when I think about the event? How does my body react? Am I thinking about the past, the present or the future?
     </p>
   </div>
   <div class="md:mb-0 bg-neutral dark:bg-neutral-900 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl">
     <svg height="64px" width="64px" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <path style="fill:#12a197;" d="M256,452.121c-65.547,0-127.48-10.637-174.393-29.951C28.982,400.503,0,369.467,0,334.78 s28.982-65.723,81.607-87.389C128.52,228.076,190.454,217.438,256,217.438s127.482,10.637,174.393,29.952 C483.018,269.056,512,300.093,512,334.78s-28.982,65.723-81.607,87.391C383.482,441.483,321.546,452.121,256,452.121z M256,258.037 c-60.367,0-116.812,9.551-158.936,26.895c-35.357,14.556-56.466,33.191-56.466,49.848s21.108,35.292,56.466,49.848 c42.124,17.344,98.569,26.895,158.936,26.895c60.368,0,116.814-9.551,158.937-26.895c35.356-14.556,56.464-33.192,56.464-49.848 c0-16.658-21.108-35.292-56.464-49.848C372.812,267.588,316.368,258.037,256,258.037z"></path> <path style="fill:#12a197;" d="M256,386.257c-40.141,0-78.115-3.971-106.924-11.179c-14.251-3.566-57.621-14.418-57.621-45.216 c0-30.795,43.37-41.649,57.621-45.214c28.81-7.209,66.783-11.179,106.924-11.179c40.142,0,78.117,3.971,106.925,11.179 c14.251,3.566,57.62,14.418,57.62,45.214s-43.369,41.649-57.62,45.216C334.115,382.287,296.142,386.257,256,386.257z M140.284,329.863c17.978,7.216,57.964,15.795,115.716,15.795s97.739-8.58,115.718-15.795 c-17.978-7.216-57.965-15.796-115.718-15.796S158.262,322.648,140.284,329.863z"></path> </g> <g> <path style="fill:#6cc6c1;" d="M430.393,247.39C383.482,228.076,321.546,217.438,256,217.438v40.598 c60.368,0,116.812,9.551,158.937,26.895c35.356,14.557,56.464,33.192,56.464,49.848c0,16.658-21.108,35.292-56.464,49.848 c-42.124,17.344-98.569,26.895-158.937,26.895v40.598c65.546,0,127.482-10.637,174.393-29.951 C483.018,400.503,512,369.469,512,334.78S483.018,269.056,430.393,247.39z"></path> <path style="fill:#6cc6c1;" d="M362.925,284.649C334.117,277.44,296.142,273.47,256,273.47v40.598 c57.753,0,97.739,8.58,115.718,15.795c-17.978,7.216-57.965,15.796-115.718,15.796v40.598c40.142,0,78.117-3.97,106.925-11.179 c14.251-3.566,57.62-14.418,57.62-45.216C420.545,299.067,377.177,288.215,362.925,284.649z"></path> </g> <path style="fill:#12a197;" d="M256,332.896c-53.938,0-97.819-43.883-97.819-97.82c0-15.877,3.889-31.569,11.267-45.569 c0.361-0.907,0.789-1.793,1.286-2.654L238.18,70.03c3.627-6.282,10.327-10.151,17.579-10.151c7.252,0,13.954,3.869,17.579,10.15 l63.486,109.966c11.121,16.284,16.995,35.308,16.995,55.081C353.819,289.013,309.938,332.896,256,332.896z"></path> <path style="fill:#6cc6c1;" d="M256,332.896c-53.938,0-97.819-43.883-97.819-97.82c0-15.877,3.889-31.569,11.267-45.569 c0.361-0.907,0.789-1.793,1.286-2.654L238.18,70.03c3.627-6.282,10.327-10.151,17.579-10.151L256,332.896z"></path> </g></svg>     
     <p class="mb-4 mt-4 text-xl font-bold">Core Transformation</p>
     <p class="text-muted">
-      Compassionate and effective way for taking me to the core of who am I. Transforming and enriching my essence.
+      A compassionate and effective way to take me to the core of who I am, transforming and enriching my essence.
     </p>
   </div>
   <div class="md:mb-0 bg-neutral dark:bg-neutral-900 rounded-xl border border-neutral-200 dark:border-neutral-700 py-6 px-6 shadow-2xl">
@@ -513,7 +513,7 @@ Toolbox
     <svg height="64px" width="64px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 495 495" xml:space="preserve" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <path style="fill:#6E76E5;" d="M89.803,366.872V257.069c-30.272,0-54.901,24.629-54.901,54.902S59.53,366.872,89.803,366.872z"></path> <path style="fill:#6E76E5;" d="M89.803,385.041C40.285,385.041,0,425.327,0,474.844v20h179.605v-20 C179.605,425.327,139.32,385.041,89.803,385.041z"></path> <path style="fill:#6E76E5;" d="M405.197,366.872V257.069c-30.272,0-54.901,24.629-54.901,54.902S374.925,366.872,405.197,366.872z"></path> <path style="fill:#6E76E5;" d="M405.197,385.041c-49.518,0-89.803,40.286-89.803,89.803v20H495v-20 C495,425.327,454.715,385.041,405.197,385.041z"></path> <path style="fill:#6E76E5;" d="M247.5,109.959V0.156c-30.272,0-54.901,24.629-54.901,54.902S217.228,109.959,247.5,109.959z"></path> <path style="fill:#515BE0;" d="M144.704,311.971c0-30.273-24.629-54.902-54.901-54.902v109.803 C120.075,366.872,144.704,342.243,144.704,311.971z"></path> <path style="fill:#515BE0;" d="M460.099,311.971c0-30.273-24.629-54.902-54.901-54.902v109.803 C435.47,366.872,460.099,342.243,460.099,311.971z"></path> <path style="fill:#515BE0;" d="M302.401,55.057c0-30.273-24.629-54.902-54.901-54.902v109.803 C277.772,109.959,302.401,85.33,302.401,55.057z"></path> <path style="fill:#6E76E5;" d="M337.303,217.931c0-49.518-40.285-89.803-89.803-89.803s-89.803,40.286-89.803,89.803v20h179.605 V217.931z"></path> <polygon style="fill:#f00000;" points="267.5,333.052 267.5,267.816 227.5,267.816 227.5,333.052 171.004,365.67 191.004,400.311 247.5,367.693 303.996,400.311 323.996,365.67 "></polygon> </g> </g></svg>
     <p class="mb-4 mt-4 text-xl font-bold">Practice</p>
     <p class="text-muted">
-      Daily practice with myself and others lead to habituated response ingrained withing me, without thinking.
+      Daily practice with myself and others leads to habitual responses that become ingrained in me without thinking.
     </p>
   </div>
 </div>
@@ -576,7 +576,7 @@ FAQ
     </div>
     <div>
       <p class="mb-4 text-xl font-bold">
-        What exactly is the "inner voice"? Why should I listen to it?
+        What is the "inner voice"? Why should I listen to it?
       </p>
       <p class="mb-1 text-muted">
         Your inner voice is your intuition, a deep-seated knowing or feeling that goes beyond logic. It often comes as whispers, hunches, or gut feelings. Listening to it can guide you towards alignment with your authentic self, make better decisions, and live a more fulfilling life.
@@ -589,7 +589,7 @@ FAQ
       </div>
       <div>
         <p class="mb-4 text-xl font-bold">
-          I struggle to even hear my inner voice, what can I do?
+          I am struggling to hear my inner voice, what can I do?
         </p>
         <p class="mb-1 text-muted">
           Our busy lives can drown out subtle inner cues. Start by practicing mindfulness, meditation, or spending time in nature. Quiet the external noise and create space for your inner voice to emerge. Journaling and body scans can also help you tune in.
@@ -618,7 +618,7 @@ FAQ
         Contradicting messages. How do I know which one to listen to?
       </p>
       <p class="mb-1 text-muted">
-        Take time to reflect on each message. Consider which aligns more with your values, long-term goals, and overall sense of well-being. If needed, seek guidance from a trusted friend, therapist, or spiritual advisor. Pay attention to physical sensations - warmth, lightness, or expansion often indicate an inner voice, while tightness, heaviness, or constriction might be anxiety.
+        Take time to think about each message. Consider which one is more aligned with your values, long-term goals, and overall sense of well-being. If necessary, seek guidance from a trusted friend, therapist, or spiritual advisor. Be aware of physical feelings-warmth, lightness, or expansion often indicate an inner voice, while tightness, heaviness, or restriction may indicate fear.
     </div>
   </div>
   <div class="flex">
@@ -889,7 +889,7 @@ data: {
           </div>
           <!-- End Grid -->
           <div class="mt-4 grid">
-            <button id="contact" aria-label="Submit contact request" type="submit" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">Send inquiry</button>
+            <button id="contact" aria-label="Submit contact request" type="submit" class="bg-transparent hover:text-primary-900 dark:text-primary-200 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-900 dark:border-primary-200 hover:border-transparent rounded-full">Send Inquiry</button>
           </div>
           <div class="mt-6 text-center">
             <p class="text-sm text-gray-500">
@@ -908,7 +908,7 @@ data: {
     <div>
       <p class="font-bold">Search</p>
          <p class="mt-1 text-sm text-muted">
-           I am using the words common in the field I am exploring. I am using search engine shortcuts and asking questions to authors or in a relevant forums.
+           I am using the words common in the field I am exploring. I am using search engine shortcuts and asking questions to authors or in relevant forums.
          </p>
          <a href="https://example.com" title="search" class="mt-2 inline-flex items-center gap-x-2 text-sm font-medium text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600">
               example@site.com
@@ -922,7 +922,7 @@ data: {
     <div>
       <p class="font-bold">FAQ</p>
          <p class="mt-1 text-sm text-muted">
-           Frequently asked questions can streamline preparation. Adding jokes and metaphors lighten the subject and allow to deepen in the knowledge.
+           Frequently asked questions can streamline preparation. Adding jokes and metaphors lightens the subject and allows us to deepen our knowledge.
          </p>
          <a href="https://question.com" title="question" class="mt-2 inline-flex items-center gap-x-2 text-sm font-medium text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600">
               example@site.com
@@ -936,7 +936,7 @@ data: {
     <div>
       <p class="font-bold">Sitemap</p>
          <p class="mt-1 text-sm text-muted">
-           I have designed blueprint of what it's important and and I need to give it time and attention with smile on my face and tools in my pocket. Series, Tags and Categories.
+           I have designed a blueprint of what's important and I need to give it time and attention with a smile on my face and tools in my pocket. Series, Tags, and Categories.
          </p>
          <a href="https://another.com" title="another" class="mt-2 inline-flex items-center gap-x-2 text-sm font-medium text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600">
               example@site.com

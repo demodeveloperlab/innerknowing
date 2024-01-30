@@ -18,13 +18,13 @@
 [[main]]
   name = "About"
   parent = "Mission"
-  url = "#bio"
+  url = "/#bio"
   weight = 10
 
 [[main]]
   name = "Success Stories"
   parent = "Mission"
-  url = "https://demodeveloperlab.github.io/innerknowing/en/#testimonials"
+  url = "/#testimonials"
   weight = 20
 
 [[main]]
@@ -41,13 +41,13 @@
 [[main]]
   name = "Course Connection"
   parent = "Courses"
-  url = "https://demodeveloperlab.github.io/innerknowing/en/#courses"
+  url = "/#courses"
   weight = 20
 
 [[main]]
   name = "Course Practice"
   parent = "Courses"
-  url = "https://demodeveloperlab.github.io/innerknowing/en/#practice"
+  url = "/#practice"
   weight = 20
 
 [[main]]
@@ -58,24 +58,24 @@
 [[main]]
   name = "Upcoming Events"
   parent = "Events"
-  url = "https://demodeveloperlab.github.io/innerknowing/en/#practice"
+  url = "/#practice"
   weight = 10
 
 [[main]]
   name = "Publications"
-  pageRef = "https://demodeveloperlab.github.io/innerknowing/en/#recent-posts/"
+  pageRef = "/posts"
   weight = 40
 
 [[main]]
   name = "Posts"
   parent = "Publications"
-  url = "https://demodeveloperlab.github.io/innerknowing/en/#recent-posts"
+  url = "/#recent-posts"
   weight = 10
 
 [[main]]
   name = "Books"
   parent = "Publications"
-  url = "https://demodeveloperlab.github.io/innerknowing/en/#books"
+  url = "/#books"
   weight = 20
 
 [[main]]
@@ -109,7 +109,7 @@
 [[main]]
   name = "Contact Form"
   parent = "Contact"
-  url = "https://demodeveloperlab.github.io/innerknowing/en/#message"
+  url = "/#message"
   weight = 10
 
 [[main]]
